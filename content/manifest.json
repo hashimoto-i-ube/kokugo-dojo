@@ -8,9 +8,9 @@
   {
    "id": "kanbun",
    "file": "packs/kanbun.json",
-   "version": "2026.10.22.1",
-   "sha256": "675382abfe0664fa6ca147b029ee4d19b54bf4c5efa77a9559ee4b54b7571eba",
-   "bytes": 36847
+   "version": "2026.10.22.2",
+   "sha256": "6cf0b49f4aa97b759e85e4d640c9966fcb26b448d9ff8f5329e2144b50ef2317",
+   "bytes": 40465
   },
   {
    "id": "kanji",
@@ -29,9 +29,9 @@
   {
    "id": "kobun-grammar",
    "file": "packs/kobun-grammar.json",
-   "version": "2026.10.22.1",
-   "sha256": "bd6308ff23a6edf97d28a0191eebcccd610be1eab0c3f36ff8b1dcce2cb90f9e",
-   "bytes": 62469
+   "version": "2026.10.22.2",
+   "sha256": "327744802fca3af972ce99ce3d4ff0b064afce53c3c8fe909bce09946322bc5a",
+   "bytes": 67287
   },
   {
    "id": "kobun-words",
@@ -43,9 +43,9 @@
   {
    "id": "reading",
    "file": "packs/reading.json",
-   "version": "2026.10.22",
-   "sha256": "235ad7de8d89c216c4086e1e1b50cba2b0cb442bc53b8237d4033d7df6d14dce",
-   "bytes": 162
+   "version": "2026.10.22.1",
+   "sha256": "2edf670875015857eb3fdbb6bf403ee655b7d7dd8b3405239cc6ff841343ef9f",
+   "bytes": 45393
   },
   {
    "id": "vocabulary",

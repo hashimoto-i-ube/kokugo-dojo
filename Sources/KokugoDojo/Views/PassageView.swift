@@ -7,8 +7,11 @@ struct PassageView: View {
     @AppStorage(SettingsKey.fontSize) private var fontSize = 22.0
     var passageID: String
 
+    /// 設問ID → 選んだ選択肢の元の添字
     @State private var answers: [String: Int] = [:]
     @State private var graded = false
+    /// 設問ID → 表示順（元の添字の並び）。正解の位置が毎回変わるようにする
+    @State private var order: [String: [Int]] = [:]
 
     var body: some View {
         if let p = model.library.packs.flatMap({ $0.passages ?? [] }).first(where: { $0.id == passageID }) {
@@ -25,6 +28,7 @@ struct PassageView: View {
                 questions(p).frame(minWidth: 340, idealWidth: 420, maxWidth: 560)
             }
             .navigationTitle(p.title)
+            .onAppear { if order.isEmpty { shuffle(p) } }
         }
     }
 
@@ -39,11 +43,11 @@ struct PassageView: View {
                     VStack(alignment: .leading, spacing: 8) {
                         Text("問\(n + 1)　\(Markup.plain(q.prompt))").font(.body.weight(.semibold))
                             .fixedSize(horizontal: false, vertical: true)
-                        ForEach(Array(q.choices.enumerated()), id: \.offset) { i, c in
+                        ForEach(Array((order[q.id] ?? Array(q.choices.indices)).enumerated()), id: \.element) { pos, i in
                             Button { if !graded { answers[q.id] = i } } label: {
                                 HStack(alignment: .top, spacing: 8) {
                                     Image(systemName: answers[q.id] == i ? "largecircle.fill.circle" : "circle")
-                                    Text("\(["ア", "イ", "ウ", "エ", "オ", "カ"][min(i, 5)])　\(Markup.plain(c))")
+                                    Text("\(["ア", "イ", "ウ", "エ", "オ", "カ"][min(pos, 5)])　\(Markup.plain(q.choices[i]))")
                                         .fixedSize(horizontal: false, vertical: true)
                                         .multilineTextAlignment(.leading)
                                     Spacer(minLength: 0)
@@ -71,7 +75,7 @@ struct PassageView: View {
                                 .frame(maxWidth: .infinity, alignment: .leading)
                         }
                     }
-                    Button("もう一度解く") { answers = [:]; graded = false }
+                    Button("もう一度解く") { answers = [:]; graded = false; shuffle(p) }
                 } else {
                     Button("採点する") {
                         graded = true
@@ -84,6 +88,10 @@ struct PassageView: View {
             }
             .padding(20)
         }
+    }
+
+    private func shuffle(_ p: Passage) {
+        order = Dictionary(uniqueKeysWithValues: p.questions.map { ($0.id, Array($0.choices.indices).shuffled()) })
     }
 
     private func rowColor(_ q: Question, _ i: Int) -> Color {
