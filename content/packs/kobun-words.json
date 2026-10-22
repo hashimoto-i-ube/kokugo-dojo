@@ -3,7 +3,1503 @@
  "id": "kobun-words",
  "subject": "kobunWords",
  "title": "古文単語",
- "version": "2026.10.22",
+ "version": "2026.10.22.1",
  "curriculum": "H30",
- "decks": []
+ "decks": [
+  {
+   "id": "kobun-words",
+   "title": "古文単語（重要語）",
+   "kind": "flash",
+   "items": [
+    {
+     "id": "kobun-words-d2d8c503",
+     "level": 1,
+     "prompt": "をかし",
+     "answer": "趣がある・興味深い・かわいらしい・滑稽だ",
+     "note": "知的・客観的な興趣。『枕草子』の美的理念"
+    },
+    {
+     "id": "kobun-words-dc94724f",
+     "level": 1,
+     "prompt": "あはれなり",
+     "answer": "しみじみと趣深い・かわいそうだ・いとしい",
+     "note": "感動詞「あはれ」から。しみじみとした情趣"
+    },
+    {
+     "id": "kobun-words-c6d1ba10",
+     "level": 1,
+     "prompt": "うつくし",
+     "answer": "かわいらしい・いとしい",
+     "note": "現代語の「美しい」とずれる"
+    },
+    {
+     "id": "kobun-words-a3e39027",
+     "level": 1,
+     "prompt": "ありがたし",
+     "answer": "めったにない・（めったにないほど）すぐれている",
+     "note": "「有り難し」。感謝の意は後世"
+    },
+    {
+     "id": "kobun-words-f58586ae",
+     "level": 1,
+     "prompt": "あやし",
+     "answer": "不思議だ・身分が低い・粗末だ",
+     "note": "漢字「怪し／賤し」で意味を区別"
+    },
+    {
+     "id": "kobun-words-208c5e6c",
+     "level": 1,
+     "prompt": "いと",
+     "answer": "たいそう・非常に",
+     "note": "打消を伴うと「それほど（〜ない）」"
+    },
+    {
+     "id": "kobun-words-38346b1c",
+     "level": 1,
+     "prompt": "いみじ",
+     "answer": "程度がはなはだしい（よい意味にも悪い意味にも）",
+     "note": "文脈で「すばらしい／ひどい」"
+    },
+    {
+     "id": "kobun-words-40135e26",
+     "level": 1,
+     "prompt": "おどろく",
+     "answer": "はっと気づく・目を覚ます",
+     "note": "「驚く」だけではない"
+    },
+    {
+     "id": "kobun-words-0388e389",
+     "level": 1,
+     "prompt": "ののしる",
+     "answer": "大声で騒ぐ・評判になる",
+     "note": "現代の「罵る」と異なる"
+    },
+    {
+     "id": "kobun-words-77099ebb",
+     "level": 1,
+     "prompt": "ゆかし",
+     "answer": "見たい・聞きたい・知りたい・心ひかれる",
+     "note": "「行かし」＝そこへ行きたい"
+    },
+    {
+     "id": "kobun-words-d869ebd0",
+     "level": 1,
+     "prompt": "やがて",
+     "answer": "そのまま・すぐに",
+     "note": "現代語の「まもなく」とずれる"
+    },
+    {
+     "id": "kobun-words-4fbb177d",
+     "level": 1,
+     "prompt": "としごろ",
+     "answer": "長年・数年来",
+     "note": "「年頃」。年齢の意ではない"
+    },
+    {
+     "id": "kobun-words-35b791ff",
+     "level": 1,
+     "prompt": "あさまし",
+     "answer": "意外だ・驚きあきれるばかりだ",
+     "note": "善悪どちらにも"
+    },
+    {
+     "id": "kobun-words-e26ca2ae",
+     "level": 1,
+     "prompt": "めでたし",
+     "answer": "すばらしい・立派だ"
+    },
+    {
+     "id": "kobun-words-31f95a02",
+     "level": 1,
+     "prompt": "なかなか",
+     "answer": "かえって・なまじっか",
+     "note": "中途半端の意から"
+    },
+    {
+     "id": "kobun-words-f81ff9fe",
+     "level": 1,
+     "prompt": "ことわり",
+     "answer": "道理・理由",
+     "note": "「理」。断りではない"
+    },
+    {
+     "id": "kobun-words-760fa16a",
+     "level": 1,
+     "prompt": "さうざうし",
+     "answer": "物足りない・心寂しい",
+     "note": "「騒々しい」ではない"
+    },
+    {
+     "id": "kobun-words-4e5fef07",
+     "level": 1,
+     "prompt": "つれづれなり",
+     "answer": "することがなく退屈だ・手持ちぶさただ",
+     "note": "『徒然草』序段"
+    },
+    {
+     "id": "kobun-words-16228d2e",
+     "level": 1,
+     "prompt": "うし",
+     "answer": "つらい・いやだ",
+     "note": "「憂し」"
+    },
+    {
+     "id": "kobun-words-bee32acf",
+     "level": 1,
+     "prompt": "わろし",
+     "answer": "よくない・感心しない",
+     "note": "「悪し」より程度が軽い"
+    },
+    {
+     "id": "kobun-words-79e1c609",
+     "level": 1,
+     "prompt": "よろし",
+     "answer": "まあよい・悪くない",
+     "note": "「よし」より評価が低い"
+    },
+    {
+     "id": "kobun-words-3fd0ef73",
+     "level": 1,
+     "prompt": "あたらし",
+     "answer": "惜しい・もったいない",
+     "note": "「惜し」。「新し」は「あらたし」"
+    },
+    {
+     "id": "kobun-words-024ec55f",
+     "level": 1,
+     "prompt": "かなし",
+     "answer": "いとしい・かわいい・悲しい",
+     "note": "「愛し」の意に注意"
+    },
+    {
+     "id": "kobun-words-4e7b81e9",
+     "level": 1,
+     "prompt": "ここち",
+     "answer": "気分・心持ち",
+     "note": "「心地」"
+    },
+    {
+     "id": "kobun-words-af37d3eb",
+     "level": 1,
+     "prompt": "ちぎる",
+     "answer": "約束する・夫婦の縁を結ぶ",
+     "note": "「契る」"
+    },
+    {
+     "id": "kobun-words-c9f496a1",
+     "level": 2,
+     "prompt": "あだなり",
+     "answer": "不誠実だ・はかない・むだだ",
+     "note": "「徒なり」。対義語：まめなり"
+    },
+    {
+     "id": "kobun-words-c9772bb6",
+     "level": 2,
+     "prompt": "まめなり",
+     "answer": "まじめだ・誠実だ・実用的だ",
+     "note": "対義語：あだなり"
+    },
+    {
+     "id": "kobun-words-36fd7df8",
+     "level": 2,
+     "prompt": "あながちなり",
+     "answer": "強引だ・いちずだ",
+     "note": "現代「あながち〜ない」と区別"
+    },
+    {
+     "id": "kobun-words-e19bd25f",
+     "level": 2,
+     "prompt": "あぢきなし",
+     "answer": "どうにもならない・つまらない"
+    },
+    {
+     "id": "kobun-words-e7c1ab05",
+     "level": 2,
+     "prompt": "いはけなし",
+     "answer": "幼い・あどけない"
+    },
+    {
+     "id": "kobun-words-bd31d29b",
+     "level": 2,
+     "prompt": "いとほし",
+     "answer": "気の毒だ・かわいそうだ・いとしい"
+    },
+    {
+     "id": "kobun-words-bef1ecaf",
+     "level": 2,
+     "prompt": "うしろめたし",
+     "answer": "気がかりだ・不安だ",
+     "note": "「後ろ目痛し」。対義語：うしろやすし"
+    },
+    {
+     "id": "kobun-words-4b4ddb34",
+     "level": 2,
+     "prompt": "うるはし",
+     "answer": "きちんと整って美しい・端正だ",
+     "note": "整然とした美"
+    },
+    {
+     "id": "kobun-words-969cb23a",
+     "level": 2,
+     "prompt": "おぼつかなし",
+     "answer": "はっきりしない・気がかりだ・待ち遠しい"
+    },
+    {
+     "id": "kobun-words-9deb9d6d",
+     "level": 2,
+     "prompt": "おほけなし",
+     "answer": "身のほど知らずだ・恐れ多い"
+    },
+    {
+     "id": "kobun-words-c2adf68a",
+     "level": 2,
+     "prompt": "かしこし",
+     "answer": "恐れ多い・すぐれている",
+     "note": "「畏し／賢し」"
+    },
+    {
+     "id": "kobun-words-563a1fb1",
+     "level": 2,
+     "prompt": "くちをし",
+     "answer": "残念だ・期待はずれだ",
+     "note": "「口惜し」"
+    },
+    {
+     "id": "kobun-words-b9f4bb88",
+     "level": 2,
+     "prompt": "こころぐるし",
+     "answer": "気の毒だ・心配だ",
+     "note": "他者へのいたわり"
+    },
+    {
+     "id": "kobun-words-7f8ae415",
+     "level": 2,
+     "prompt": "こころもとなし",
+     "answer": "待ち遠しい・不安だ・はっきりしない"
+    },
+    {
+     "id": "kobun-words-8ad98a8b",
+     "level": 2,
+     "prompt": "すさまじ",
+     "answer": "興ざめだ・殺風景だ",
+     "note": "時期はずれで不調和なもの"
+    },
+    {
+     "id": "kobun-words-ac70de9a",
+     "level": 2,
+     "prompt": "つきづきし",
+     "answer": "ふさわしい・似つかわしい",
+     "note": "対義語：つきなし"
+    },
+    {
+     "id": "kobun-words-8ba20a9e",
+     "level": 2,
+     "prompt": "なまめかし",
+     "answer": "若々しく優美だ・上品だ",
+     "note": "現代の「色っぽい」とずれる"
+    },
+    {
+     "id": "kobun-words-7f406110",
+     "level": 2,
+     "prompt": "はしたなし",
+     "answer": "中途半端だ・きまりが悪い・そっけない"
+    },
+    {
+     "id": "kobun-words-921c9e79",
+     "level": 2,
+     "prompt": "ねんごろなり",
+     "answer": "心をこめている・親しい"
+    },
+    {
+     "id": "kobun-words-3b6fb84a",
+     "level": 2,
+     "prompt": "びんなし",
+     "answer": "不都合だ・気の毒だ",
+     "note": "「便無し」"
+    },
+    {
+     "id": "kobun-words-3aa092e8",
+     "level": 2,
+     "prompt": "むつかし",
+     "answer": "不快だ・うっとうしい"
+    },
+    {
+     "id": "kobun-words-b7fadcf9",
+     "level": 2,
+     "prompt": "めづらし",
+     "answer": "新鮮だ・すばらしい",
+     "note": "「愛づ」から。賞美したい"
+    },
+    {
+     "id": "kobun-words-0e648130",
+     "level": 2,
+     "prompt": "やさし",
+     "answer": "身も細るほど恥ずかしい・優美だ・殊勝だ",
+     "note": "「痩す」から"
+    },
+    {
+     "id": "kobun-words-7754f608",
+     "level": 2,
+     "prompt": "ゆゆし",
+     "answer": "不吉だ・恐れ多い・程度がはなはだしい",
+     "note": "神聖で触れてはならない"
+    },
+    {
+     "id": "kobun-words-7b95ca63",
+     "level": 2,
+     "prompt": "らうたし",
+     "answer": "かわいらしい・いじらしい",
+     "note": "「労甚し」＝いたわってやりたい"
+    },
+    {
+     "id": "kobun-words-462c969b",
+     "level": 2,
+     "prompt": "をこなり",
+     "answer": "愚かだ・ばかげている"
+    },
+    {
+     "id": "kobun-words-fec4c910",
+     "level": 2,
+     "prompt": "ありく",
+     "answer": "歩き回る・〜してまわる",
+     "note": "補助動詞にも"
+    },
+    {
+     "id": "kobun-words-16f52bd0",
+     "level": 2,
+     "prompt": "うつろふ",
+     "answer": "移り変わる・色あせる・心変わりする"
+    },
+    {
+     "id": "kobun-words-cd296de6",
+     "level": 2,
+     "prompt": "かしづく",
+     "answer": "大切に養い育てる・大切に世話をする"
+    },
+    {
+     "id": "kobun-words-c684f672",
+     "level": 2,
+     "prompt": "ながむ",
+     "answer": "もの思いにふける・ぼんやり見やる",
+     "note": "「眺む」。和歌で「長雨」と掛詞"
+    },
+    {
+     "id": "kobun-words-c7e23cb3",
+     "level": 2,
+     "prompt": "ねぶ",
+     "answer": "年をとる・大人びる"
+    },
+    {
+     "id": "kobun-words-0210f9b6",
+     "level": 2,
+     "prompt": "まもる",
+     "answer": "じっと見つめる",
+     "note": "「目守る」"
+    },
+    {
+     "id": "kobun-words-8040c207",
+     "level": 2,
+     "prompt": "ものす",
+     "answer": "ある・いる・行く・する（種々の動詞の代用）"
+    },
+    {
+     "id": "kobun-words-e1f3b332",
+     "level": 2,
+     "prompt": "やつす",
+     "answer": "目立たないように姿を変える・出家する"
+    },
+    {
+     "id": "kobun-words-e340c141",
+     "level": 2,
+     "prompt": "ゐる",
+     "answer": "座る・とどまる",
+     "note": "「居る」"
+    },
+    {
+     "id": "kobun-words-2a841415",
+     "level": 2,
+     "prompt": "あそび",
+     "answer": "管弦の遊び・詩歌管弦",
+     "note": "平安貴族の「遊び」は音楽"
+    },
+    {
+     "id": "kobun-words-5638cf0e",
+     "level": 2,
+     "prompt": "うつつ",
+     "answer": "現実・正気",
+     "note": "対義語：夢"
+    },
+    {
+     "id": "kobun-words-5feae47b",
+     "level": 2,
+     "prompt": "おこたる",
+     "answer": "病気がよくなる・怠ける"
+    },
+    {
+     "id": "kobun-words-b509536e",
+     "level": 2,
+     "prompt": "かたち",
+     "answer": "容貌・顔立ち"
+    },
+    {
+     "id": "kobun-words-ae07789c",
+     "level": 2,
+     "prompt": "けしき",
+     "answer": "様子・機嫌・意向",
+     "note": "「気色」"
+    },
+    {
+     "id": "kobun-words-059b8a0e",
+     "level": 2,
+     "prompt": "ほい",
+     "answer": "本来の意志・かねてからの願い",
+     "note": "「本意」。出家の志を指すことが多い"
+    },
+    {
+     "id": "kobun-words-bf1c8786",
+     "level": 2,
+     "prompt": "よすが",
+     "answer": "頼りとする縁（夫・妻・子など）"
+    },
+    {
+     "id": "kobun-words-b0952737",
+     "level": 2,
+     "prompt": "さらなり",
+     "answer": "言うまでもない",
+     "note": "「言ふもさらなり」"
+    },
+    {
+     "id": "kobun-words-66d4270d",
+     "level": 2,
+     "prompt": "さながら",
+     "answer": "そのまま・すべて"
+    },
+    {
+     "id": "kobun-words-8235b23d",
+     "level": 2,
+     "prompt": "すなはち",
+     "answer": "すぐに・即座に"
+    },
+    {
+     "id": "kobun-words-7fad6964",
+     "level": 2,
+     "prompt": "せめて",
+     "answer": "しいて・切実に・非常に"
+    },
+    {
+     "id": "kobun-words-255f199c",
+     "level": 2,
+     "prompt": "たえて",
+     "answer": "（打消を伴い）まったく〜ない"
+    },
+    {
+     "id": "kobun-words-c29aaa5f",
+     "level": 2,
+     "prompt": "つゆ",
+     "answer": "（打消を伴い）少しも〜ない"
+    },
+    {
+     "id": "kobun-words-86bcf414",
+     "level": 2,
+     "prompt": "な〜そ",
+     "answer": "〜してくれるな（禁止）",
+     "note": "「な言ひそ」"
+    },
+    {
+     "id": "kobun-words-c82cc615",
+     "level": 2,
+     "prompt": "え〜ず",
+     "answer": "〜できない（不可能）",
+     "note": "「え言はず」"
+    },
+    {
+     "id": "kobun-words-41d5ffab",
+     "level": 3,
+     "prompt": "あいなし",
+     "answer": "不調和だ・つまらない・（連用形で）むやみに"
+    },
+    {
+     "id": "kobun-words-fc539cd3",
+     "level": 3,
+     "prompt": "あらまし",
+     "answer": "予定・計画・概略"
+    },
+    {
+     "id": "kobun-words-17bdf932",
+     "level": 3,
+     "prompt": "いうなり",
+     "answer": "優雅だ・すぐれている",
+     "note": "「優なり」"
+    },
+    {
+     "id": "kobun-words-8835bf8e",
+     "level": 3,
+     "prompt": "いぎたなし",
+     "answer": "寝坊だ・ぐっすり眠っている",
+     "note": "「寝汚し」"
+    },
+    {
+     "id": "kobun-words-987be764",
+     "level": 3,
+     "prompt": "いたづらなり",
+     "answer": "むだだ・空しい・何もすることがない"
+    },
+    {
+     "id": "kobun-words-4ef2af9b",
+     "level": 3,
+     "prompt": "うたてし",
+     "answer": "いやだ・情けない",
+     "note": "副詞「うたて」＝ますますひどく"
+    },
+    {
+     "id": "kobun-words-f05542bc",
+     "level": 3,
+     "prompt": "おとなし",
+     "answer": "大人びている・年長でおもだっている"
+    },
+    {
+     "id": "kobun-words-2e93fb53",
+     "level": 3,
+     "prompt": "おぼろけなり",
+     "answer": "（打消を伴う・伴わずとも）並一通りでない・普通だ",
+     "note": "文脈で正反対の意味に"
+    },
+    {
+     "id": "kobun-words-6228bee3",
+     "level": 3,
+     "prompt": "かたはらいたし",
+     "answer": "傍らで見て苦々しい・気の毒だ・きまりが悪い"
+    },
+    {
+     "id": "kobun-words-69a18d93",
+     "level": 3,
+     "prompt": "けしからず",
+     "answer": "異様だ・よくない",
+     "note": "「けしうはあらず」＝悪くない"
+    },
+    {
+     "id": "kobun-words-37096205",
+     "level": 3,
+     "prompt": "こちたし",
+     "answer": "ぎょうさんだ・うるさい・おびただしい",
+     "note": "「言痛し」"
+    },
+    {
+     "id": "kobun-words-d8f365a2",
+     "level": 3,
+     "prompt": "さかし",
+     "answer": "賢い・しっかりしている・利口ぶっている"
+    },
+    {
+     "id": "kobun-words-b52f8881",
+     "level": 3,
+     "prompt": "すずろなり",
+     "answer": "なんとなく・むやみやたらだ・思いがけない",
+     "note": "「そぞろなり」とも"
+    },
+    {
+     "id": "kobun-words-5b2a1e46",
+     "level": 3,
+     "prompt": "せちなり",
+     "answer": "切実だ・ひたすらだ",
+     "note": "「切なり」"
+    },
+    {
+     "id": "kobun-words-5292e938",
+     "level": 3,
+     "prompt": "たのもし",
+     "answer": "裕福だ・頼りになる",
+     "note": "財産があって頼れる"
+    },
+    {
+     "id": "kobun-words-b81d7fa2",
+     "level": 3,
+     "prompt": "つたなし",
+     "answer": "下手だ・運が悪い・愚かだ"
+    },
+    {
+     "id": "kobun-words-82440168",
+     "level": 3,
+     "prompt": "とし",
+     "answer": "早い・速い・鋭い",
+     "note": "「疾し／利し」"
+    },
+    {
+     "id": "kobun-words-cc13a797",
+     "level": 3,
+     "prompt": "なのめなり",
+     "answer": "ありふれている・いいかげんだ",
+     "note": "「なのめならず」＝並一通りでない"
+    },
+    {
+     "id": "kobun-words-7771fc74",
+     "level": 3,
+     "prompt": "なほざりなり",
+     "answer": "いいかげんだ・おろそかだ"
+    },
+    {
+     "id": "kobun-words-85618aff",
+     "level": 3,
+     "prompt": "にほふ",
+     "answer": "美しく照り映える・香る",
+     "note": "視覚的な美が基本"
+    },
+    {
+     "id": "kobun-words-9f7784db",
+     "level": 3,
+     "prompt": "はかなし",
+     "answer": "頼りない・ちょっとした・取るに足りない"
+    },
+    {
+     "id": "kobun-words-06c0e959",
+     "level": 3,
+     "prompt": "ふびんなり",
+     "answer": "不都合だ・かわいそうだ",
+     "note": "「不便なり」"
+    },
+    {
+     "id": "kobun-words-cbcc0931",
+     "level": 3,
+     "prompt": "まさなし",
+     "answer": "よくない・みっともない",
+     "note": "「正無し」"
+    },
+    {
+     "id": "kobun-words-2f96f67f",
+     "level": 3,
+     "prompt": "むげなり",
+     "answer": "ひどい・最悪だ",
+     "note": "連用形「むげに」＝ひどく"
+    },
+    {
+     "id": "kobun-words-a4991423",
+     "level": 3,
+     "prompt": "めざまし",
+     "answer": "気にくわない・（すばらしいほど）意外だ"
+    },
+    {
+     "id": "kobun-words-37a8daa7",
+     "level": 3,
+     "prompt": "ものし",
+     "answer": "不快だ・目障りだ"
+    },
+    {
+     "id": "kobun-words-5e7d8102",
+     "level": 3,
+     "prompt": "ゆくりなし",
+     "answer": "思いがけない・突然だ"
+    },
+    {
+     "id": "kobun-words-8f379daf",
+     "level": 3,
+     "prompt": "よしなし",
+     "answer": "理由がない・つまらない・方法がない"
+    },
+    {
+     "id": "kobun-words-d6268f06",
+     "level": 3,
+     "prompt": "わりなし",
+     "answer": "道理に合わない・どうしようもない・ひどい",
+     "note": "「理無し」"
+    },
+    {
+     "id": "kobun-words-c49e9945",
+     "level": 3,
+     "prompt": "あくがる",
+     "answer": "（魂が）体から抜け出る・さまよい出る",
+     "note": "「憧る」の語源"
+    },
+    {
+     "id": "kobun-words-a07506b1",
+     "level": 3,
+     "prompt": "おとなふ",
+     "answer": "音を立てる・訪れる"
+    },
+    {
+     "id": "kobun-words-6c569f14",
+     "level": 3,
+     "prompt": "かこつ",
+     "answer": "口実にする・嘆く"
+    },
+    {
+     "id": "kobun-words-ec71d284",
+     "level": 3,
+     "prompt": "ぐす",
+     "answer": "連れて行く・備わる",
+     "note": "「具す」"
+    },
+    {
+     "id": "kobun-words-1e7c787a",
+     "level": 3,
+     "prompt": "ここらそこら",
+     "answer": "たくさん"
+    },
+    {
+     "id": "kobun-words-955926b9",
+     "level": 3,
+     "prompt": "しのぶ",
+     "answer": "こらえる（忍ぶ）・思い慕う（偲ぶ）",
+     "note": "本来別語"
+    },
+    {
+     "id": "kobun-words-605e96d4",
+     "level": 3,
+     "prompt": "すさぶ",
+     "answer": "心のおもむくままに〜する・荒れる"
+    },
+    {
+     "id": "kobun-words-475c568e",
+     "level": 3,
+     "prompt": "たまふ（下二段）",
+     "answer": "〜させていただく（謙譲・会話文中の自己の動作）",
+     "note": "四段活用は尊敬"
+    },
+    {
+     "id": "kobun-words-0fd9f544",
+     "level": 3,
+     "prompt": "ときめく",
+     "answer": "時流に乗って栄える・寵愛を受ける"
+    },
+    {
+     "id": "kobun-words-3f811151",
+     "level": 3,
+     "prompt": "ならふ",
+     "answer": "慣れる・習う"
+    },
+    {
+     "id": "kobun-words-891a5bc4",
+     "level": 3,
+     "prompt": "なやむ",
+     "answer": "病気で苦しむ"
+    },
+    {
+     "id": "kobun-words-895b9b81",
+     "level": 3,
+     "prompt": "はぐくむ",
+     "answer": "養い育てる"
+    },
+    {
+     "id": "kobun-words-3ed32b44",
+     "level": 3,
+     "prompt": "まうく",
+     "answer": "準備する・手に入れる",
+     "note": "「設く・儲く」"
+    },
+    {
+     "id": "kobun-words-8e4bf23b",
+     "level": 3,
+     "prompt": "みそかなり",
+     "answer": "ひそかだ",
+     "note": "「みそかごと」＝秘密の事"
+    },
+    {
+     "id": "kobun-words-a4232f8e",
+     "level": 3,
+     "prompt": "むすぶ",
+     "answer": "手ですくう・約束する",
+     "note": "「水をむすぶ」"
+    },
+    {
+     "id": "kobun-words-c7abada0",
+     "level": 3,
+     "prompt": "よばふ",
+     "answer": "求婚する・呼び続ける"
+    },
+    {
+     "id": "kobun-words-f1059972",
+     "level": 3,
+     "prompt": "わぶ",
+     "answer": "困る・つらく思う・〜しかねる",
+     "note": "「住みわぶ」"
+    },
+    {
+     "id": "kobun-words-14a09246",
+     "level": 3,
+     "prompt": "おほやけ",
+     "answer": "朝廷・天皇",
+     "note": "対義語：わたくし"
+    },
+    {
+     "id": "kobun-words-e50e366c",
+     "level": 3,
+     "prompt": "かたへ",
+     "answer": "そば・仲間・一部分"
+    },
+    {
+     "id": "kobun-words-ab8d0350",
+     "level": 3,
+     "prompt": "ついで",
+     "answer": "順序・機会"
+    },
+    {
+     "id": "kobun-words-f07062dd",
+     "level": 3,
+     "prompt": "としなみ",
+     "answer": "年月の流れ",
+     "note": "「寄る年波」"
+    },
+    {
+     "id": "kobun-words-f9c713f1",
+     "level": 3,
+     "prompt": "ためし",
+     "answer": "先例・手本"
+    },
+    {
+     "id": "kobun-words-953b22e6",
+     "level": 3,
+     "prompt": "ふみ",
+     "answer": "手紙・漢詩・漢籍"
+    },
+    {
+     "id": "kobun-words-6bd65400",
+     "level": 3,
+     "prompt": "ほど",
+     "answer": "時分・身分・広さ・様子"
+    },
+    {
+     "id": "kobun-words-ce6c4e15",
+     "level": 3,
+     "prompt": "ゆゑ",
+     "answer": "理由・由緒・風情"
+    },
+    {
+     "id": "kobun-words-7f586fc1",
+     "level": 3,
+     "prompt": "ことごとし",
+     "answer": "大げさだ"
+    },
+    {
+     "id": "kobun-words-b79fbc29",
+     "level": 3,
+     "prompt": "いかで",
+     "answer": "どうして・なんとかして"
+    },
+    {
+     "id": "kobun-words-5bf1ec08",
+     "level": 3,
+     "prompt": "あまた",
+     "answer": "たくさん"
+    },
+    {
+     "id": "kobun-words-9f4870bd",
+     "level": 3,
+     "prompt": "いとど",
+     "answer": "ますます"
+    },
+    {
+     "id": "kobun-words-02e9c7d6",
+     "level": 3,
+     "prompt": "うたた",
+     "answer": "ますます・ひどく"
+    },
+    {
+     "id": "kobun-words-86d32ffe",
+     "level": 3,
+     "prompt": "かつ",
+     "answer": "一方では・すぐに"
+    },
+    {
+     "id": "kobun-words-3fb670c8",
+     "level": 3,
+     "prompt": "げに",
+     "answer": "本当に"
+    },
+    {
+     "id": "kobun-words-a8f67d24",
+     "level": 3,
+     "prompt": "さすがに",
+     "answer": "そうはいってもやはり"
+    },
+    {
+     "id": "kobun-words-d3654779",
+     "level": 3,
+     "prompt": "すべて〜ず",
+     "answer": "まったく〜ない"
+    },
+    {
+     "id": "kobun-words-afc978ae",
+     "level": 3,
+     "prompt": "なべて",
+     "answer": "一般に・すべて"
+    },
+    {
+     "id": "kobun-words-4602be15",
+     "level": 3,
+     "prompt": "ひねもす",
+     "answer": "一日中",
+     "note": "対：よもすがら（一晩中）"
+    },
+    {
+     "id": "kobun-words-e83dee91",
+     "level": 3,
+     "prompt": "よもすがら",
+     "answer": "一晩中"
+    },
+    {
+     "id": "kobun-words-8ac7fd2b",
+     "level": 3,
+     "prompt": "ゆめゆめ〜な",
+     "answer": "決して〜するな"
+    },
+    {
+     "id": "kobun-words-0cc5204d",
+     "level": 4,
+     "prompt": "あえかなり",
+     "answer": "か弱い・きゃしゃだ"
+    },
+    {
+     "id": "kobun-words-c34ef3a8",
+     "level": 4,
+     "prompt": "あてなり",
+     "answer": "高貴だ・上品だ",
+     "note": "「貴なり」"
+    },
+    {
+     "id": "kobun-words-4569d99c",
+     "level": 4,
+     "prompt": "いぶせし",
+     "answer": "気が晴れない・うっとうしい"
+    },
+    {
+     "id": "kobun-words-748f1629",
+     "level": 4,
+     "prompt": "うちつけなり",
+     "answer": "突然だ・軽率だ"
+    },
+    {
+     "id": "kobun-words-6955cfbe",
+     "level": 4,
+     "prompt": "おいらかなり",
+     "answer": "おっとりしている"
+    },
+    {
+     "id": "kobun-words-3ad67911",
+     "level": 4,
+     "prompt": "かごとがまし",
+     "answer": "恨みがましい・言い訳がましい"
+    },
+    {
+     "id": "kobun-words-a317f5da",
+     "level": 4,
+     "prompt": "けやけし",
+     "answer": "際立っている・きっぱりしている"
+    },
+    {
+     "id": "kobun-words-e8e2debf",
+     "level": 4,
+     "prompt": "こころばへ",
+     "answer": "気立て・趣向"
+    },
+    {
+     "id": "kobun-words-9b2ecebf",
+     "level": 4,
+     "prompt": "こころにくし",
+     "answer": "奥ゆかしい・心ひかれる",
+     "note": "現代の「心憎い」に近いが本来は称賛"
+    },
+    {
+     "id": "kobun-words-898db98c",
+     "level": 4,
+     "prompt": "さがなし",
+     "answer": "意地が悪い・口うるさい"
+    },
+    {
+     "id": "kobun-words-c2c8fd6e",
+     "level": 4,
+     "prompt": "しるし",
+     "answer": "はっきりしている・予想通りだ",
+     "note": "「著し」。「〜もしるく」＝予想通りに"
+    },
+    {
+     "id": "kobun-words-83e16ccc",
+     "level": 4,
+     "prompt": "そぞろなり",
+     "answer": "わけもなく・むやみに"
+    },
+    {
+     "id": "kobun-words-7f7c6a13",
+     "level": 4,
+     "prompt": "たどたどし",
+     "answer": "不案内だ・おぼつかない"
+    },
+    {
+     "id": "kobun-words-678e609e",
+     "level": 4,
+     "prompt": "ところせし",
+     "answer": "窮屈だ・気づまりだ・堂々としている",
+     "note": "「所狭し」"
+    },
+    {
+     "id": "kobun-words-d0fee023",
+     "level": 4,
+     "prompt": "なまなまし",
+     "answer": "未熟だ・中途半端だ"
+    },
+    {
+     "id": "kobun-words-ef5f7089",
+     "level": 4,
+     "prompt": "はづかし",
+     "answer": "（こちらが恥ずかしくなるほど相手が）立派だ"
+    },
+    {
+     "id": "kobun-words-0e45163f",
+     "level": 4,
+     "prompt": "ひがひがし",
+     "answer": "ひねくれている・情趣を解さない"
+    },
+    {
+     "id": "kobun-words-f01995b1",
+     "level": 4,
+     "prompt": "びびし",
+     "answer": "華やかで美しい",
+     "note": "「美美し」"
+    },
+    {
+     "id": "kobun-words-a65dfccc",
+     "level": 4,
+     "prompt": "まばゆし",
+     "answer": "まぶしいほど美しい・恥ずかしい"
+    },
+    {
+     "id": "kobun-words-bebb8ce1",
+     "level": 4,
+     "prompt": "むくつけし",
+     "answer": "気味が悪い・無骨だ"
+    },
+    {
+     "id": "kobun-words-2d9b64f4",
+     "level": 4,
+     "prompt": "ゆくりかなり",
+     "answer": "思いがけない"
+    },
+    {
+     "id": "kobun-words-7cd025aa",
+     "level": 4,
+     "prompt": "よしばむ",
+     "answer": "由緒ありげにふるまう・気取る"
+    },
+    {
+     "id": "kobun-words-ec2f1372",
+     "level": 4,
+     "prompt": "をさをさ〜ず",
+     "answer": "ほとんど〜ない"
+    },
+    {
+     "id": "kobun-words-00104d51",
+     "level": 4,
+     "prompt": "あからさまなり",
+     "answer": "ほんのちょっと・かりそめだ",
+     "note": "現代語とまったく異なる"
+    },
+    {
+     "id": "kobun-words-b975054d",
+     "level": 4,
+     "prompt": "いさよふ",
+     "answer": "ためらう・進まない",
+     "note": "「十六夜（いざよひ）」"
+    },
+    {
+     "id": "kobun-words-f2807cd0",
+     "level": 4,
+     "prompt": "おこす",
+     "answer": "寄こす"
+    },
+    {
+     "id": "kobun-words-d8c4d12b",
+     "level": 4,
+     "prompt": "おもひくんず",
+     "answer": "ふさぎこむ",
+     "note": "「思ひ屈ず」"
+    },
+    {
+     "id": "kobun-words-a6d79591",
+     "level": 4,
+     "prompt": "かづく",
+     "answer": "（褒美を）いただく・与える・かぶる",
+     "note": "四段＝いただく、下二段＝与える"
+    },
+    {
+     "id": "kobun-words-ddf378ce",
+     "level": 4,
+     "prompt": "ことわる",
+     "answer": "判断する・説明する",
+     "note": "「理る」"
+    },
+    {
+     "id": "kobun-words-b5b93477",
+     "level": 4,
+     "prompt": "さはる",
+     "answer": "差し支える",
+     "note": "「障る」"
+    },
+    {
+     "id": "kobun-words-bab14bb8",
+     "level": 4,
+     "prompt": "しつらふ",
+     "answer": "準備して整える・飾りつける"
+    },
+    {
+     "id": "kobun-words-24e7d596",
+     "level": 4,
+     "prompt": "すまふ",
+     "answer": "抵抗する・辞退する",
+     "note": "「争ふ・辞ふ」"
+    },
+    {
+     "id": "kobun-words-c91aaa57",
+     "level": 4,
+     "prompt": "たばかる",
+     "answer": "工夫する・相談する・だます"
+    },
+    {
+     "id": "kobun-words-0b72a185",
+     "level": 4,
+     "prompt": "ときめかす",
+     "answer": "寵愛する"
+    },
+    {
+     "id": "kobun-words-4ea1d88a",
+     "level": 4,
+     "prompt": "ながらふ",
+     "answer": "生きながらえる"
+    },
+    {
+     "id": "kobun-words-3085c9dc",
+     "level": 4,
+     "prompt": "なずらふ",
+     "answer": "比べる・準じる"
+    },
+    {
+     "id": "kobun-words-2a364e25",
+     "level": 4,
+     "prompt": "のたまはす",
+     "answer": "おっしゃる（最高敬語）"
+    },
+    {
+     "id": "kobun-words-7dfcdb08",
+     "level": 4,
+     "prompt": "まねぶ",
+     "answer": "まねる・そのまま伝える・学ぶ"
+    },
+    {
+     "id": "kobun-words-f318a49a",
+     "level": 4,
+     "prompt": "みゆ",
+     "answer": "見える・結婚する・姿を見せる",
+     "note": "「見ゆ」"
+    },
+    {
+     "id": "kobun-words-5b1ba3a8",
+     "level": 4,
+     "prompt": "めづ",
+     "answer": "愛する・ほめる",
+     "note": "「愛づ」"
+    },
+    {
+     "id": "kobun-words-a6f3dd16",
+     "level": 4,
+     "prompt": "ゆるす",
+     "answer": "許す・認める・緩める"
+    },
+    {
+     "id": "kobun-words-7493d7ce",
+     "level": 4,
+     "prompt": "うしろみ",
+     "answer": "世話・後見人"
+    },
+    {
+     "id": "kobun-words-98c7be9f",
+     "level": 4,
+     "prompt": "おぼえ",
+     "answer": "評判・寵愛"
+    },
+    {
+     "id": "kobun-words-17d20cf5",
+     "level": 4,
+     "prompt": "きは",
+     "answer": "身分・程度"
+    },
+    {
+     "id": "kobun-words-9f92a900",
+     "level": 4,
+     "prompt": "ざえ",
+     "answer": "学問（特に漢学）・才能",
+     "note": "「才」"
+    },
+    {
+     "id": "kobun-words-e45f2f23",
+     "level": 4,
+     "prompt": "せうそこ",
+     "answer": "手紙・訪問",
+     "note": "「消息」"
+    },
+    {
+     "id": "kobun-words-01868a12",
+     "level": 4,
+     "prompt": "たより",
+     "answer": "よい機会・縁故・手段"
+    },
+    {
+     "id": "kobun-words-aa809b0e",
+     "level": 4,
+     "prompt": "ほだし",
+     "answer": "束縛（特に出家の妨げとなる妻子など）"
+    },
+    {
+     "id": "kobun-words-3c93eb64",
+     "level": 4,
+     "prompt": "まうけ",
+     "answer": "準備・ごちそう"
+    },
+    {
+     "id": "kobun-words-a9dc2b3a",
+     "level": 4,
+     "prompt": "やむごとなし",
+     "answer": "身分が高い・格別だ・捨てておけない"
+    },
+    {
+     "id": "kobun-words-69258356",
+     "level": 4,
+     "prompt": "わざと",
+     "answer": "わざわざ・正式に・本格的に"
+    },
+    {
+     "id": "kobun-words-0a743bf9",
+     "level": 4,
+     "prompt": "あやにく",
+     "answer": "あいにく・意地悪だ"
+    },
+    {
+     "id": "kobun-words-7efbc011",
+     "level": 4,
+     "prompt": "おのづから",
+     "answer": "自然に・偶然・たまたま・ひょっとして"
+    },
+    {
+     "id": "kobun-words-a6bfa616",
+     "level": 4,
+     "prompt": "かまへて",
+     "answer": "必ず・なんとかして"
+    },
+    {
+     "id": "kobun-words-3a6e6406",
+     "level": 4,
+     "prompt": "ことに",
+     "answer": "格別に"
+    },
+    {
+     "id": "kobun-words-6dff5844",
+     "level": 4,
+     "prompt": "さらに〜ず",
+     "answer": "決して〜ない"
+    },
+    {
+     "id": "kobun-words-b75ed7d9",
+     "level": 4,
+     "prompt": "なかなかなり",
+     "answer": "中途半端だ・かえってしないほうがよい"
+    },
+    {
+     "id": "kobun-words-06c62888",
+     "level": 4,
+     "prompt": "はた",
+     "answer": "また・やはり・もしかして"
+    },
+    {
+     "id": "kobun-words-071196e3",
+     "level": 4,
+     "prompt": "やうやう",
+     "answer": "だんだん・しだいに",
+     "note": "『枕草子』「やうやう白くなりゆく」"
+    },
+    {
+     "id": "kobun-words-bf774794",
+     "level": 5,
+     "prompt": "あらまほし",
+     "answer": "理想的だ・望ましい"
+    },
+    {
+     "id": "kobun-words-2ba5964b",
+     "level": 5,
+     "prompt": "いふかひなし",
+     "answer": "言っても仕方がない・身分が低い・ふがいない"
+    },
+    {
+     "id": "kobun-words-93aa19e3",
+     "level": 5,
+     "prompt": "うるせし",
+     "answer": "気が利いている・巧みだ"
+    },
+    {
+     "id": "kobun-words-88448990",
+     "level": 5,
+     "prompt": "おどろおどろし",
+     "answer": "大げさだ・気味が悪い"
+    },
+    {
+     "id": "kobun-words-b5758f01",
+     "level": 5,
+     "prompt": "かたくななり",
+     "answer": "教養がない・見苦しい・頑固だ"
+    },
+    {
+     "id": "kobun-words-47e963ea",
+     "level": 5,
+     "prompt": "からし",
+     "answer": "つらい・ひどい",
+     "note": "「辛し」"
+    },
+    {
+     "id": "kobun-words-6d5e62d3",
+     "level": 5,
+     "prompt": "こころおとり",
+     "answer": "予想より劣って見えること・幻滅",
+     "note": "対：こころまさり"
+    },
+    {
+     "id": "kobun-words-f13f84ae",
+     "level": 5,
+     "prompt": "さうなし",
+     "answer": "比べるものがない・ためらわない",
+     "note": "「双無し／左右無し」"
+    },
+    {
+     "id": "kobun-words-22eed7cc",
+     "level": 5,
+     "prompt": "すきずきし",
+     "answer": "色好みだ・風流好みだ"
+    },
+    {
+     "id": "kobun-words-afcb2a3c",
+     "level": 5,
+     "prompt": "ねたし",
+     "answer": "しゃくだ・いまいましい"
+    },
+    {
+     "id": "kobun-words-aa019be8",
+     "level": 5,
+     "prompt": "ひたぶるなり",
+     "answer": "ひたすらだ"
+    },
+    {
+     "id": "kobun-words-40230439",
+     "level": 5,
+     "prompt": "ものぐるほし",
+     "answer": "気が変になりそうだ",
+     "note": "『徒然草』序段"
+    },
+    {
+     "id": "kobun-words-50359547",
+     "level": 5,
+     "prompt": "ものものし",
+     "answer": "重々しい・いかめしい"
+    },
+    {
+     "id": "kobun-words-86bb0199",
+     "level": 5,
+     "prompt": "らうらうじ",
+     "answer": "物慣れて巧みだ・上品で美しい"
+    },
+    {
+     "id": "kobun-words-8caf2bab",
+     "level": 5,
+     "prompt": "をさなし",
+     "answer": "幼い・幼稚だ"
+    },
+    {
+     "id": "kobun-words-7eda5159",
+     "level": 5,
+     "prompt": "あはひ",
+     "answer": "間柄・色の配合"
+    },
+    {
+     "id": "kobun-words-45e7bb20",
+     "level": 5,
+     "prompt": "ありし",
+     "answer": "以前の・生前の"
+    },
+    {
+     "id": "kobun-words-a0c5bb1a",
+     "level": 5,
+     "prompt": "いささめなり",
+     "answer": "かりそめだ"
+    },
+    {
+     "id": "kobun-words-fa683c73",
+     "level": 5,
+     "prompt": "こころばせ",
+     "answer": "気立て・機転"
+    },
+    {
+     "id": "kobun-words-a03107fe",
+     "level": 5,
+     "prompt": "すくせ",
+     "answer": "前世からの因縁",
+     "note": "「宿世」。仏教的運命観"
+    },
+    {
+     "id": "kobun-words-4f1cc701",
+     "level": 5,
+     "prompt": "ちぎり",
+     "answer": "約束・前世からの因縁・夫婦の縁"
+    },
+    {
+     "id": "kobun-words-eb653d0b",
+     "level": 5,
+     "prompt": "ゆかり",
+     "answer": "縁・関係のある人"
+    },
+    {
+     "id": "kobun-words-dede3a27",
+     "level": 5,
+     "prompt": "あながちに",
+     "answer": "むやみに・ひたすら"
+    },
+    {
+     "id": "kobun-words-2de6a5cc",
+     "level": 5,
+     "prompt": "いつしか",
+     "answer": "早く・いつの間にか"
+    },
+    {
+     "id": "kobun-words-7bfbd2a5",
+     "level": 5,
+     "prompt": "おほかた〜ず",
+     "answer": "まったく〜ない"
+    },
+    {
+     "id": "kobun-words-340c0e5f",
+     "level": 5,
+     "prompt": "かけて〜ず",
+     "answer": "少しも〜ない"
+    },
+    {
+     "id": "kobun-words-0551210f",
+     "level": 5,
+     "prompt": "さるべき",
+     "answer": "適当な・そうなるはずの因縁の・立派な"
+    },
+    {
+     "id": "kobun-words-0ffe2813",
+     "level": 5,
+     "prompt": "ただならず",
+     "answer": "普通でない・妊娠している"
+    },
+    {
+     "id": "kobun-words-9bb27263",
+     "level": 5,
+     "prompt": "ゆくりなく",
+     "answer": "思いがけなく"
+    },
+    {
+     "id": "kobun-words-d0555998",
+     "level": 5,
+     "prompt": "をりふし",
+     "answer": "季節・ちょうどその時"
+    }
+   ],
+   "description": "入試頻出の古文単語。例文は古典本文に基づく",
+   "instruction": "次の古語の意味を答えよ。"
+  }
+ ]
 }

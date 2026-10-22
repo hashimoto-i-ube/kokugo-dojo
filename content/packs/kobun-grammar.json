@@ -3,7 +3,1739 @@
  "id": "kobun-grammar",
  "subject": "kobunGrammar",
  "title": "古典文法",
- "version": "2026.10.22",
+ "version": "2026.10.22.1",
  "curriculum": "H30",
- "decks": []
+ "decks": [
+  {
+   "id": "grammar-yogen",
+   "title": "用言の活用",
+   "kind": "choice",
+   "items": [
+    {
+     "id": "grammar-yogen-a9247a52",
+     "level": 1,
+     "prompt": "月を[[見る]]",
+     "answer": "マ行上一段活用",
+     "distractors": [
+      "マ行四段活用",
+      "マ行下一段活用",
+      "マ行上二段活用"
+     ],
+     "note": "上一段は「ひ・い・き・に・み・ゐ」＋る（干る・射る・着る・似る・見る・居る など）"
+    },
+    {
+     "id": "grammar-yogen-f18c84b4",
+     "level": 1,
+     "prompt": "戸を[[蹴る]]",
+     "answer": "カ行下一段活用",
+     "distractors": [
+      "ラ行四段活用",
+      "カ行上一段活用",
+      "カ行下二段活用"
+     ],
+     "note": "下一段活用は「蹴る」一語のみ"
+    },
+    {
+     "id": "grammar-yogen-0469591e",
+     "level": 1,
+     "prompt": "人[[来]]けり",
+     "answer": "カ行変格活用",
+     "distractors": [
+      "カ行四段活用",
+      "カ行上二段活用",
+      "サ行変格活用"
+     ],
+     "note": "カ変は「来（く）」一語"
+    },
+    {
+     "id": "grammar-yogen-c39c8bc3",
+     "level": 1,
+     "prompt": "旅を[[す]]",
+     "answer": "サ行変格活用",
+     "distractors": [
+      "サ行四段活用",
+      "サ行下二段活用",
+      "ナ行変格活用"
+     ],
+     "note": "サ変は「す」「おはす」（＋複合語「〜す」）"
+    },
+    {
+     "id": "grammar-yogen-e4229e52",
+     "level": 1,
+     "prompt": "人[[死ぬ]]",
+     "answer": "ナ行変格活用",
+     "distractors": [
+      "ナ行四段活用",
+      "ナ行下二段活用",
+      "ナ行上二段活用"
+     ],
+     "note": "ナ変は「死ぬ」「往（去）ぬ」の二語"
+    },
+    {
+     "id": "grammar-yogen-7aa474e1",
+     "level": 1,
+     "prompt": "雨[[あり]]",
+     "answer": "ラ行変格活用",
+     "distractors": [
+      "ラ行四段活用",
+      "ラ行下二段活用",
+      "ラ行上二段活用"
+     ],
+     "note": "ラ変は「あり・をり・はべり・いまそかり」"
+    },
+    {
+     "id": "grammar-yogen-868c5a0f",
+     "level": 2,
+     "prompt": "花[[咲か]]ず",
+     "answer": "カ行四段活用",
+     "distractors": [
+      "カ行上二段活用",
+      "カ行下二段活用",
+      "カ行変格活用"
+     ],
+     "note": "「ず」をつけてア段＝四段"
+    },
+    {
+     "id": "grammar-yogen-763febb0",
+     "level": 2,
+     "prompt": "夜[[明け]]ず",
+     "answer": "カ行下二段活用",
+     "distractors": [
+      "カ行四段活用",
+      "カ行上二段活用",
+      "カ行下一段活用"
+     ],
+     "note": "「ず」をつけてエ段＝下二段"
+    },
+    {
+     "id": "grammar-yogen-1313627d",
+     "level": 2,
+     "prompt": "時[[過ぎ]]ず",
+     "answer": "ガ行上二段活用",
+     "distractors": [
+      "ガ行四段活用",
+      "ガ行上一段活用",
+      "ガ行下二段活用"
+     ],
+     "note": "「ず」をつけてイ段＝上二段（上一段は暗記）"
+    },
+    {
+     "id": "grammar-yogen-c7d10b4b",
+     "level": 2,
+     "prompt": "心を[[恨み]]けり",
+     "answer": "マ行上二段活用",
+     "distractors": [
+      "マ行四段活用",
+      "マ行上一段活用",
+      "マ行下二段活用"
+     ],
+     "note": "「恨む」は古文では上二段（恨みず）"
+    },
+    {
+     "id": "grammar-yogen-4981adb1",
+     "level": 2,
+     "prompt": "年[[老い]]ず",
+     "answer": "ヤ行上二段活用",
+     "distractors": [
+      "ア行上二段活用",
+      "ハ行上二段活用",
+      "ヤ行上一段活用"
+     ],
+     "note": "老ゆ・悔ゆ・報ゆ はヤ行上二段"
+    },
+    {
+     "id": "grammar-yogen-05d90007",
+     "level": 2,
+     "prompt": "船に[[植ゑ]]ず",
+     "answer": "ワ行下二段活用",
+     "distractors": [
+      "ア行下二段活用",
+      "ヤ行下二段活用",
+      "ハ行下二段活用"
+     ],
+     "note": "植う・飢う・据うはワ行下二段"
+    },
+    {
+     "id": "grammar-yogen-9a2d9edf",
+     "level": 2,
+     "prompt": "心[[得]]ず",
+     "answer": "ア行下二段活用",
+     "distractors": [
+      "ヤ行下二段活用",
+      "ワ行下二段活用",
+      "ア行四段活用"
+     ],
+     "note": "ア行の動詞は「得・心得・所得」のみ"
+    },
+    {
+     "id": "grammar-yogen-8597fce0",
+     "level": 2,
+     "prompt": "[[往ぬ]]べし",
+     "answer": "ナ行変格活用",
+     "distractors": [
+      "ナ行四段活用",
+      "ナ行下二段活用",
+      "ナ行上二段活用"
+     ],
+     "note": "「往（去）ぬ」もナ変"
+    },
+    {
+     "id": "grammar-yogen-6f019aeb",
+     "level": 2,
+     "prompt": "人[[居]]たり",
+     "answer": "ワ行上一段活用",
+     "distractors": [
+      "ア行上一段活用",
+      "ヤ行上一段活用",
+      "ワ行上二段活用"
+     ],
+     "note": "「居る・率る」はワ行上一段"
+    },
+    {
+     "id": "grammar-yogen-6bf5d99b",
+     "level": 2,
+     "prompt": "弓を[[射る]]",
+     "answer": "ヤ行上一段活用",
+     "distractors": [
+      "ア行上一段活用",
+      "ワ行上一段活用",
+      "ヤ行上二段活用"
+     ],
+     "note": "射る・鋳るはヤ行"
+    },
+    {
+     "id": "grammar-yogen-e9ea8c4d",
+     "level": 2,
+     "prompt": "山[[高く]]して",
+     "answer": "ク活用・連用形",
+     "distractors": [
+      "シク活用・連用形",
+      "ク活用・終止形",
+      "シク活用・連体形"
+     ],
+     "note": "「〜く」＝ク活用、「〜しく」＝シク活用"
+    },
+    {
+     "id": "grammar-yogen-3a4206e7",
+     "level": 2,
+     "prompt": "いと[[をかしき]]こと",
+     "answer": "シク活用・連体形",
+     "distractors": [
+      "ク活用・連体形",
+      "シク活用・已然形",
+      "シク活用・終止形"
+     ],
+     "note": "「をかし」は「をかしく」→シク活用"
+    },
+    {
+     "id": "grammar-yogen-6861ab56",
+     "level": 2,
+     "prompt": "月の光[[清らなり]]",
+     "answer": "ナリ活用・終止形",
+     "distractors": [
+      "タリ活用・終止形",
+      "ナリ活用・連体形",
+      "ナリ活用・連用形"
+     ],
+     "note": "形容動詞はナリ活用・タリ活用"
+    },
+    {
+     "id": "grammar-yogen-3986b2df",
+     "level": 2,
+     "prompt": "威風[[堂々たり]]",
+     "answer": "タリ活用・終止形",
+     "distractors": [
+      "ナリ活用・終止形",
+      "タリ活用・連体形",
+      "ク活用・終止形"
+     ],
+     "note": "タリ活用は漢語に多い"
+    },
+    {
+     "id": "grammar-yogen-afe12a1c",
+     "level": 3,
+     "prompt": "花こそ[[散れ]]",
+     "answer": "已然形",
+     "distractors": [
+      "命令形",
+      "連用形",
+      "終止形"
+     ],
+     "note": "係助詞「こそ」→文末は已然形（係り結び）"
+    },
+    {
+     "id": "grammar-yogen-d093ffb3",
+     "level": 3,
+     "prompt": "人ぞ[[来る]]",
+     "answer": "連体形",
+     "distractors": [
+      "終止形",
+      "已然形",
+      "連用形"
+     ],
+     "note": "係助詞「ぞ・なむ・や・か」→連体形"
+    },
+    {
+     "id": "grammar-yogen-5430a245",
+     "level": 3,
+     "prompt": "雨[[降れ]]ば",
+     "answer": "已然形",
+     "distractors": [
+      "未然形",
+      "命令形",
+      "仮定形"
+     ],
+     "note": "已然形＋ば＝確定条件（〜ので・〜と）"
+    },
+    {
+     "id": "grammar-yogen-8f177f78",
+     "level": 3,
+     "prompt": "雨[[降ら]]ば",
+     "answer": "未然形",
+     "distractors": [
+      "已然形",
+      "連用形",
+      "終止形"
+     ],
+     "note": "未然形＋ば＝順接仮定条件（もし〜ならば）"
+    },
+    {
+     "id": "grammar-yogen-d2793ec3",
+     "level": 3,
+     "prompt": "春[[来]]ば（「来」の活用形は？）",
+     "answer": "未然形（こ）",
+     "distractors": [
+      "連用形（き）",
+      "終止形（く）",
+      "已然形（くれ）"
+     ],
+     "note": "カ変の未然形は「こ」→「来ば（こば）」"
+    },
+    {
+     "id": "grammar-yogen-c6f27dd0",
+     "level": 3,
+     "prompt": "疾く[[来]]（こ）よ",
+     "answer": "命令形",
+     "distractors": [
+      "未然形",
+      "連用形",
+      "終止形"
+     ],
+     "note": "カ変の命令形は「こ」「こよ」"
+    },
+    {
+     "id": "grammar-yogen-8b1089ca",
+     "level": 3,
+     "prompt": "「あはれ」と[[思し]]けり",
+     "answer": "連用形",
+     "distractors": [
+      "未然形",
+      "終止形",
+      "連体形"
+     ],
+     "note": "「けり」は連用形接続"
+    },
+    {
+     "id": "grammar-yogen-72c647f9",
+     "level": 3,
+     "prompt": "心[[もとなかり]]き",
+     "answer": "ク活用・連用形（補助活用）",
+     "distractors": [
+      "ク活用・未然形",
+      "シク活用・連用形",
+      "ナリ活用・連用形"
+     ],
+     "note": "助動詞に続くときは補助活用（カリ活用）"
+    },
+    {
+     "id": "grammar-yogen-1531681a",
+     "level": 4,
+     "prompt": "「蹴る」の未然形",
+     "answer": "け",
+     "distractors": [
+      "き",
+      "か",
+      "こ"
+     ],
+     "note": "下一段：け・け・ける・ける・けれ・けよ"
+    },
+    {
+     "id": "grammar-yogen-1ec59dcb",
+     "level": 4,
+     "prompt": "「死ぬ」の連体形",
+     "answer": "死ぬる",
+     "distractors": [
+      "死ぬ",
+      "死ね",
+      "死なる"
+     ],
+     "note": "ナ変：な・に・ぬ・ぬる・ぬれ・ね"
+    },
+    {
+     "id": "grammar-yogen-d3a6fa9f",
+     "level": 4,
+     "prompt": "「あり」の終止形",
+     "answer": "あり",
+     "distractors": [
+      "ある",
+      "あれ",
+      "ありき"
+     ],
+     "note": "ラ変は終止形が「り」（イ段）"
+    },
+    {
+     "id": "grammar-yogen-0a067235",
+     "level": 4,
+     "prompt": "「おはす」の活用の種類",
+     "answer": "サ行変格活用",
+     "distractors": [
+      "サ行四段活用",
+      "サ行下二段活用",
+      "ラ行変格活用"
+     ],
+     "note": "尊敬の本動詞。サ変"
+    },
+    {
+     "id": "grammar-yogen-f79885e5",
+     "level": 4,
+     "prompt": "「消ゆ」の活用の種類",
+     "answer": "ヤ行下二段活用",
+     "distractors": [
+      "ア行下二段活用",
+      "ヤ行上二段活用",
+      "ワ行下二段活用"
+     ],
+     "note": "「越ゆ・覚ゆ・消ゆ・見ゆ・聞こゆ」はヤ行下二段"
+    },
+    {
+     "id": "grammar-yogen-fa8e8839",
+     "level": 5,
+     "prompt": "「恋ふ」の活用の種類",
+     "answer": "ハ行上二段活用",
+     "distractors": [
+      "ハ行四段活用",
+      "ハ行下二段活用",
+      "ワ行上二段活用"
+     ],
+     "note": "「恋ひず」とイ段。四段ではない"
+    },
+    {
+     "id": "grammar-yogen-6cab8eb4",
+     "level": 5,
+     "prompt": "「飽く」の活用の種類",
+     "answer": "カ行四段活用",
+     "distractors": [
+      "カ行上二段活用",
+      "カ行上一段活用",
+      "カ行下二段活用"
+     ],
+     "note": "「飽かず」→四段（現代語「飽きる」に引かれない）"
+    },
+    {
+     "id": "grammar-yogen-fe916e0f",
+     "level": 5,
+     "prompt": "「借る」の活用の種類",
+     "answer": "ラ行四段活用",
+     "distractors": [
+      "ラ行上一段活用",
+      "ラ行上二段活用",
+      "ラ行下二段活用"
+     ],
+     "note": "「借らず」→四段（現代語「借りる」と異なる）"
+    },
+    {
+     "id": "grammar-yogen-5f68111c",
+     "level": 5,
+     "prompt": "「足る」の活用の種類",
+     "answer": "ラ行四段活用",
+     "distractors": [
+      "ラ行上一段活用",
+      "ラ行上二段活用",
+      "ラ行変格活用"
+     ],
+     "note": "「足らず」→四段"
+    }
+   ],
+   "description": "動詞・形容詞・形容動詞の活用の種類と活用形",
+   "instruction": "傍線部の語の活用の種類（または活用形）を答えよ。"
+  },
+  {
+   "id": "grammar-jodoshi",
+   "title": "助動詞（意味・接続）",
+   "kind": "flash",
+   "items": [
+    {
+     "id": "grammar-jodoshi-66830aaf",
+     "level": 1,
+     "prompt": "「ず」の意味と接続",
+     "answer": "打消／未然形接続",
+     "note": "活用：ず・ざら／ず・ざり／ず／ぬ・ざる／ね・ざれ／ざれ（特殊型）"
+    },
+    {
+     "id": "grammar-jodoshi-9f508b26",
+     "level": 1,
+     "prompt": "「き」の意味と接続",
+     "answer": "過去（直接体験）／連用形接続",
+     "note": "せ・○・き・し・しか・○。カ変・サ変には特殊な接続（こし・きし・せし）"
+    },
+    {
+     "id": "grammar-jodoshi-370a5916",
+     "level": 1,
+     "prompt": "「けり」の意味と接続",
+     "answer": "過去（伝聞）・詠嘆／連用形接続",
+     "note": "和歌・会話文中、「なりけり」は詠嘆が多い"
+    },
+    {
+     "id": "grammar-jodoshi-3760f18f",
+     "level": 1,
+     "prompt": "「む（ん）」の意味",
+     "answer": "推量・意志・勧誘・仮定・婉曲",
+     "note": "「すいかてにかえ」と覚える。主語が一人称なら意志、二人称なら勧誘"
+    },
+    {
+     "id": "grammar-jodoshi-ae181cb6",
+     "level": 1,
+     "prompt": "「べし」の意味",
+     "answer": "推量・意志・可能・当然・命令・適当",
+     "note": "「すいかとうめいて」。終止形接続（ラ変型は連体形）"
+    },
+    {
+     "id": "grammar-jodoshi-8f492a06",
+     "level": 1,
+     "prompt": "「る・らる」の意味",
+     "answer": "受身・尊敬・自発・可能",
+     "note": "未然形接続。る＝四段・ナ変・ラ変、らる＝それ以外"
+    },
+    {
+     "id": "grammar-jodoshi-e5270c21",
+     "level": 1,
+     "prompt": "「す・さす・しむ」の意味",
+     "answer": "使役・尊敬",
+     "note": "尊敬語（給ふ・おはします等）を伴うと尊敬が多い"
+    },
+    {
+     "id": "grammar-jodoshi-b8b979e2",
+     "level": 1,
+     "prompt": "「つ・ぬ」の意味と接続",
+     "answer": "完了・強意（確述）／連用形接続",
+     "note": "「てむ・なむ・つべし・ぬべし」の「つ・ぬ」は強意"
+    },
+    {
+     "id": "grammar-jodoshi-970fc284",
+     "level": 1,
+     "prompt": "「たり（完了）」の意味と接続",
+     "answer": "完了・存続／連用形接続",
+     "note": "「〜ている・〜た」"
+    },
+    {
+     "id": "grammar-jodoshi-f7751fd7",
+     "level": 1,
+     "prompt": "「り」の意味と接続",
+     "answer": "完了・存続／サ変の未然形・四段の已然形（命令形）に接続",
+     "note": "「さみしいり」：サ未・四已"
+    },
+    {
+     "id": "grammar-jodoshi-b2871d33",
+     "level": 1,
+     "prompt": "「なり（断定）」の意味と接続",
+     "answer": "断定・存在／体言・連体形接続",
+     "note": "存在＝「〜にある」（場所＋なる）"
+    },
+    {
+     "id": "grammar-jodoshi-ff573afd",
+     "level": 1,
+     "prompt": "「なり（伝聞推定）」の意味と接続",
+     "answer": "伝聞・推定／終止形接続（ラ変型は連体形）",
+     "note": "音・声を根拠とする推定"
+    },
+    {
+     "id": "grammar-jodoshi-d85f0457",
+     "level": 1,
+     "prompt": "「らむ」の意味",
+     "answer": "現在推量・現在の原因推量・伝聞婉曲",
+     "note": "終止形接続（ラ変型は連体形）"
+    },
+    {
+     "id": "grammar-jodoshi-fe58b6a5",
+     "level": 1,
+     "prompt": "「けむ」の意味",
+     "answer": "過去推量・過去の原因推量・過去の伝聞婉曲",
+     "note": "連用形接続"
+    },
+    {
+     "id": "grammar-jodoshi-0a9dc41a",
+     "level": 1,
+     "prompt": "「まし」の意味",
+     "answer": "反実仮想・ためらいの意志・（不可能な）希望",
+     "note": "「ましかば〜まし」「ませば〜まし」「せば〜まし」"
+    },
+    {
+     "id": "grammar-jodoshi-9703f004",
+     "level": 1,
+     "prompt": "「じ」の意味",
+     "answer": "打消推量・打消意志",
+     "note": "「む」の打消。未然形接続。無変化型"
+    },
+    {
+     "id": "grammar-jodoshi-8098d255",
+     "level": 1,
+     "prompt": "「まじ」の意味",
+     "answer": "打消推量・打消意志・不可能・打消当然・禁止・不適当",
+     "note": "「べし」の打消。終止形接続"
+    },
+    {
+     "id": "grammar-jodoshi-ab16841f",
+     "level": 1,
+     "prompt": "「まほし」の意味と接続",
+     "answer": "希望（〜たい）／未然形接続",
+     "note": "自己の希望"
+    },
+    {
+     "id": "grammar-jodoshi-39ab0272",
+     "level": 1,
+     "prompt": "「たし」の意味と接続",
+     "answer": "希望（〜たい）／連用形接続",
+     "note": "中世以降に多い"
+    },
+    {
+     "id": "grammar-jodoshi-dfb10011",
+     "level": 1,
+     "prompt": "「ごとし」の意味",
+     "answer": "比況（〜のようだ）・例示",
+     "note": "連体形・助詞「が」「の」に接続"
+    },
+    {
+     "id": "grammar-jodoshi-483f6391",
+     "level": 2,
+     "prompt": "「めり」の意味と接続",
+     "answer": "推定（視覚）・婉曲／終止形接続（ラ変型は連体形）",
+     "note": "「〜ようだ・〜ように見える」"
+    },
+    {
+     "id": "grammar-jodoshi-c7e8f609",
+     "level": 2,
+     "prompt": "「らし」の意味",
+     "answer": "推定（根拠ある推定）",
+     "note": "終止形接続（ラ変型は連体形）。和歌に多い"
+    },
+    {
+     "id": "grammar-jodoshi-54c063c9",
+     "level": 2,
+     "prompt": "「たり（断定）」の意味と接続",
+     "answer": "断定／体言接続",
+     "note": "「〜である」。漢文訓読調"
+    },
+    {
+     "id": "grammar-jodoshi-aa295223",
+     "level": 2,
+     "prompt": "「むず（んず）」の意味",
+     "answer": "推量・意志・適当など（「む」と同じ）",
+     "note": "「むとす」の約"
+    },
+    {
+     "id": "grammar-jodoshi-bed313a2",
+     "level": 2,
+     "prompt": "「り」と「たり」の違い",
+     "answer": "意味は同じ（完了・存続）。接続が異なる",
+     "note": "「り」はサ未・四已、「たり」は連用形"
+    },
+    {
+     "id": "grammar-jodoshi-d87ba3b6",
+     "level": 2,
+     "prompt": "「る・らる」が可能になりやすい条件",
+     "answer": "打消・反語を伴うとき（平安時代）",
+     "note": "「え〜ず」とともに不可能を表す"
+    },
+    {
+     "id": "grammar-jodoshi-fa67b035",
+     "level": 2,
+     "prompt": "「る・らる」が自発になりやすい語",
+     "answer": "心情・知覚の動詞（思ふ・偲ぶ・泣く・眺む など）",
+     "note": "「思はる」＝自然と思われる"
+    },
+    {
+     "id": "grammar-jodoshi-f60189ae",
+     "level": 2,
+     "prompt": "「る・らる」が尊敬になりにくい場合",
+     "answer": "下に尊敬語「給ふ」が続くとき（「られ給ふ」は受身などになる）",
+     "note": "「せ給ふ」「させ給ふ」は最高敬語"
+    },
+    {
+     "id": "grammar-jodoshi-eb355435",
+     "level": 3,
+     "prompt": "「せ給ふ」の「せ」の意味",
+     "answer": "尊敬（二重敬語・最高敬語）が多い。使役の対象が明示されれば使役",
+     "note": "「〜に」「〜して」があれば使役"
+    },
+    {
+     "id": "grammar-jodoshi-7824e14c",
+     "level": 3,
+     "prompt": "「なむ」の識別：未然形＋なむ",
+     "answer": "他への願望の終助詞（〜してほしい）",
+     "note": "例「咲かなむ」"
+    },
+    {
+     "id": "grammar-jodoshi-1822074d",
+     "level": 3,
+     "prompt": "「なむ」の識別：連用形＋なむ",
+     "answer": "完了（強意）の助動詞「ぬ」未然形＋推量の助動詞「む」",
+     "note": "例「咲きなむ」＝きっと咲くだろう"
+    },
+    {
+     "id": "grammar-jodoshi-244cf280",
+     "level": 3,
+     "prompt": "「なむ」の識別：体言など＋なむ（文末連体形）",
+     "answer": "強意の係助詞",
+     "note": "係り結び"
+    },
+    {
+     "id": "grammar-jodoshi-597c5ac6",
+     "level": 3,
+     "prompt": "「ぬ」の識別：未然形＋ぬ",
+     "answer": "打消の助動詞「ず」の連体形",
+     "note": "例「咲かぬ花」"
+    },
+    {
+     "id": "grammar-jodoshi-065ef864",
+     "level": 3,
+     "prompt": "「ぬ」の識別：連用形＋ぬ",
+     "answer": "完了の助動詞「ぬ」の終止形",
+     "note": "例「咲きぬ」"
+    },
+    {
+     "id": "grammar-jodoshi-9649488f",
+     "level": 3,
+     "prompt": "「ね」の識別：未然形＋ね",
+     "answer": "打消「ず」の已然形",
+     "note": "「こそ〜ね」など"
+    },
+    {
+     "id": "grammar-jodoshi-67d39e81",
+     "level": 3,
+     "prompt": "「ね」の識別：連用形＋ね",
+     "answer": "完了「ぬ」の命令形"
+    },
+    {
+     "id": "grammar-jodoshi-1a99fd98",
+     "level": 3,
+     "prompt": "「なり」の識別：終止形＋なり",
+     "answer": "伝聞推定の助動詞",
+     "note": "「鳴くなり」。ラ変型には連体形接続（撥音便無表記「あなり」）"
+    },
+    {
+     "id": "grammar-jodoshi-ad3407f7",
+     "level": 3,
+     "prompt": "「なり」の識別：体言・連体形＋なり",
+     "answer": "断定（存在）の助動詞"
+    },
+    {
+     "id": "grammar-jodoshi-7d937543",
+     "level": 3,
+     "prompt": "「なり」の識別：「静かなり」など",
+     "answer": "形容動詞の活用語尾",
+     "note": "「いと」をつけて意味が通れば形容動詞"
+    },
+    {
+     "id": "grammar-jodoshi-4b3019d3",
+     "level": 3,
+     "prompt": "「なり」の識別：「春になりぬ」",
+     "answer": "動詞「なる」の連用形",
+     "note": "「〜に（と）なる」"
+    },
+    {
+     "id": "grammar-jodoshi-c4f9a0ec",
+     "level": 3,
+     "prompt": "「らむ」の識別：「咲くらむ」",
+     "answer": "現在推量の助動詞「らむ」",
+     "note": "終止形接続"
+    },
+    {
+     "id": "grammar-jodoshi-55ac96ee",
+     "level": 3,
+     "prompt": "「らむ」の識別：「咲けらむ」",
+     "answer": "完了「り」の未然形＋推量「む」",
+     "note": "四段已然形（エ段）＋ら"
+    },
+    {
+     "id": "grammar-jodoshi-3d4712c7",
+     "level": 3,
+     "prompt": "「る」の識別：エ段音＋る",
+     "answer": "完了「り」の連体形",
+     "note": "サ未・四已に接続"
+    },
+    {
+     "id": "grammar-jodoshi-d5cd79b4",
+     "level": 3,
+     "prompt": "「る」の識別：ア段音＋る",
+     "answer": "受身・尊敬・自発・可能の「る」",
+     "note": "四段・ナ変・ラ変の未然形"
+    },
+    {
+     "id": "grammar-jodoshi-7f820dd4",
+     "level": 3,
+     "prompt": "「に」の識別：連用形＋に＋き・けり・たり・けむ",
+     "answer": "完了「ぬ」の連用形",
+     "note": "例「咲きにけり」"
+    },
+    {
+     "id": "grammar-jodoshi-386a929b",
+     "level": 3,
+     "prompt": "「に」の識別：体言・連体形＋に＋あり・侍り",
+     "answer": "断定「なり」の連用形",
+     "note": "「にやあらむ」の「に」"
+    },
+    {
+     "id": "grammar-jodoshi-ba50791e",
+     "level": 3,
+     "prompt": "「し」の識別：連用形＋し（文中で体言に続く）",
+     "answer": "過去「き」の連体形",
+     "note": "「ありし人」"
+    },
+    {
+     "id": "grammar-jodoshi-ef512596",
+     "level": 3,
+     "prompt": "「けり」の詠嘆になりやすい場合",
+     "answer": "和歌の中・会話文中・「なりけり」",
+     "note": "「気づき」の詠嘆"
+    },
+    {
+     "id": "grammar-jodoshi-77a65a35",
+     "level": 3,
+     "prompt": "「べし」の「当然」の訳",
+     "answer": "〜はずだ・〜なければならない"
+    },
+    {
+     "id": "grammar-jodoshi-946849af",
+     "level": 3,
+     "prompt": "「む」が婉曲・仮定になる位置",
+     "answer": "文中の連体形（直後に体言・助詞）",
+     "note": "「思はむ子」＝思うような子"
+    },
+    {
+     "id": "grammar-jodoshi-7ea5a1f0",
+     "level": 4,
+     "prompt": "「まし」と「まほし」の違い",
+     "answer": "まし＝反実仮想、まほし＝希望",
+     "note": "「見まほし」＝見たい"
+    },
+    {
+     "id": "grammar-jodoshi-4d0065aa",
+     "level": 4,
+     "prompt": "「き」のカ変・サ変への特殊な接続",
+     "answer": "カ変：こし・こしか・きし・きしか／サ変：せし・せしか",
+     "note": "連体形「し」・已然形「しか」は未然形にも付く。サ変の終止形接続は連用形「し」＋き＝「しき」"
+    },
+    {
+     "id": "grammar-jodoshi-fa300cd1",
+     "level": 4,
+     "prompt": "「めり」「なり」がラ変型に付くときの撥音便",
+     "answer": "あるめり→あんめり→あめり（「ん」無表記）",
+     "note": "「あなり」「ざなり」「たなり」"
+    },
+    {
+     "id": "grammar-jodoshi-a2a95edb",
+     "level": 4,
+     "prompt": "「じ」と「まじ」の関係",
+     "answer": "じ＝「む」の打消、まじ＝「べし」の打消",
+     "note": "対応関係で意味を判断"
+    },
+    {
+     "id": "grammar-jodoshi-c86af857",
+     "level": 4,
+     "prompt": "「むとす」の訳",
+     "answer": "〜しようとする",
+     "note": "「むず」の元の形"
+    },
+    {
+     "id": "grammar-jodoshi-d4ee22f7",
+     "level": 4,
+     "prompt": "「たまふ」の下に「る」が付いた「給へる」の「る」",
+     "answer": "完了・存続「り」の連体形",
+     "note": "四段「給ふ」の已然形＋り"
+    },
+    {
+     "id": "grammar-jodoshi-af1e1f76",
+     "level": 5,
+     "prompt": "反実仮想の型を三つ",
+     "answer": "ましかば〜まし／ませば〜まし／せば〜まし（＋未然形ば〜まし）",
+     "note": "事実に反する仮定とその帰結"
+    },
+    {
+     "id": "grammar-jodoshi-870b1beb",
+     "level": 5,
+     "prompt": "「〜まし」が反実仮想でないとき",
+     "answer": "疑問語を伴う「ためらいの意志」（〜しようかしら）",
+     "note": "「いかにせまし」"
+    },
+    {
+     "id": "grammar-jodoshi-19e727f0",
+     "level": 5,
+     "prompt": "「べからず」の意味（命令的文脈）",
+     "answer": "禁止（〜してはならない）",
+     "note": "「まじ」も禁止になる"
+    },
+    {
+     "id": "grammar-jodoshi-7e4cbba4",
+     "level": 5,
+     "prompt": "「なり」（伝聞推定）の推定の根拠",
+     "answer": "聴覚（音・声）",
+     "note": "「めり」は視覚"
+    },
+    {
+     "id": "grammar-jodoshi-1c5fd43b",
+     "level": 5,
+     "prompt": "「つ」と「ぬ」の傾向の違い",
+     "answer": "つ＝意図的・他動的、ぬ＝自然的・自動的",
+     "note": "傾向であり絶対ではない"
+    }
+   ],
+   "description": "全助動詞の意味・接続・活用型",
+   "instruction": "次の助動詞について答えよ。"
+  },
+  {
+   "id": "grammar-shikibetsu",
+   "title": "文法の識別（実戦）",
+   "kind": "choice",
+   "items": [
+    {
+     "id": "grammar-shikibetsu-c00b580e",
+     "level": 2,
+     "prompt": "花[[咲かぬ]]里 の「ぬ」",
+     "answer": "打消の助動詞「ず」の連体形",
+     "distractors": [
+      "完了の助動詞「ぬ」の終止形",
+      "ナ変動詞の活用語尾",
+      "完了の助動詞「ぬ」の連体形"
+     ],
+     "note": "未然形（咲か）＋ぬ、体言に続く"
+    },
+    {
+     "id": "grammar-shikibetsu-222e4c85",
+     "level": 2,
+     "prompt": "秋[[来ぬ]]と目にはさやかに見えねども の「ぬ」",
+     "answer": "完了の助動詞「ぬ」の終止形",
+     "distractors": [
+      "打消の助動詞「ず」の連体形",
+      "打消の助動詞「ず」の終止形",
+      "完了の助動詞「ぬ」の連体形"
+     ],
+     "note": "「来（き）」連用形＋ぬ、引用の「と」に続く"
+    },
+    {
+     "id": "grammar-shikibetsu-e7e32cbe",
+     "level": 2,
+     "prompt": "目にはさやかに見え[[ね]]ども の「ね」",
+     "answer": "打消の助動詞「ず」の已然形",
+     "distractors": [
+      "完了の助動詞「ぬ」の命令形",
+      "完了の助動詞「ぬ」の已然形",
+      "終助詞"
+     ],
+     "note": "「ども」は已然形接続。見え（未然形）＋ね"
+    },
+    {
+     "id": "grammar-shikibetsu-3e97d193",
+     "level": 2,
+     "prompt": "春ぞ[[来にける]] の「に」",
+     "answer": "完了の助動詞「ぬ」の連用形",
+     "distractors": [
+      "断定の助動詞「なり」の連用形",
+      "格助詞",
+      "接続助詞"
+     ],
+     "note": "連用形＋に＋けり"
+    },
+    {
+     "id": "grammar-shikibetsu-26d36031",
+     "level": 2,
+     "prompt": "都の人[[に]]あらず の「に」",
+     "answer": "断定の助動詞「なり」の連用形",
+     "distractors": [
+      "格助詞",
+      "完了の助動詞「ぬ」の連用形",
+      "形容動詞の活用語尾"
+     ],
+     "note": "体言＋に＋あり"
+    },
+    {
+     "id": "grammar-shikibetsu-16064c17",
+     "level": 2,
+     "prompt": "いと[[静かなり]] の「なり」",
+     "answer": "形容動詞の活用語尾",
+     "distractors": [
+      "断定の助動詞",
+      "伝聞推定の助動詞",
+      "動詞"
+     ],
+     "note": "「いと」で修飾できる＝状態を表す"
+    },
+    {
+     "id": "grammar-shikibetsu-4683cab0",
+     "level": 3,
+     "prompt": "笛の音[[すなり]] の「なり」",
+     "answer": "伝聞推定の助動詞「なり」",
+     "distractors": [
+      "断定の助動詞「なり」",
+      "形容動詞の活用語尾",
+      "動詞「なる」"
+     ],
+     "note": "終止形（す）＋なり、音が根拠"
+    },
+    {
+     "id": "grammar-shikibetsu-94e20e52",
+     "level": 3,
+     "prompt": "男もす[[なる]]日記といふものを の「なる」",
+     "answer": "伝聞推定の助動詞「なり」の連体形",
+     "distractors": [
+      "断定の助動詞「なり」の連体形",
+      "動詞「なる」の連体形",
+      "形容動詞の活用語尾"
+     ],
+     "note": "『土佐日記』冒頭。サ変終止形「す」＋なる"
+    },
+    {
+     "id": "grammar-shikibetsu-97e613d8",
+     "level": 3,
+     "prompt": "女もしてみむとて[[する]]なり の「なり」",
+     "answer": "断定の助動詞「なり」の終止形",
+     "distractors": [
+      "伝聞推定の助動詞「なり」の終止形",
+      "動詞「なる」の連用形",
+      "形容動詞の活用語尾"
+     ],
+     "note": "連体形（する）＋なり"
+    },
+    {
+     "id": "grammar-shikibetsu-a4e23d09",
+     "level": 3,
+     "prompt": "いつしか梅[[咲かなむ]] の「なむ」",
+     "answer": "他への願望の終助詞",
+     "distractors": [
+      "強意の係助詞",
+      "完了「ぬ」未然形＋推量「む」",
+      "ナ変動詞の一部"
+     ],
+     "note": "未然形＋なむ＝〜してほしい"
+    },
+    {
+     "id": "grammar-shikibetsu-9482c5fb",
+     "level": 3,
+     "prompt": "風[[吹きなむ]] の「なむ」",
+     "answer": "完了（強意）「ぬ」の未然形＋推量「む」",
+     "distractors": [
+      "他への願望の終助詞",
+      "強意の係助詞",
+      "ナ変動詞の一部"
+     ],
+     "note": "連用形＋なむ＝きっと〜だろう"
+    },
+    {
+     "id": "grammar-shikibetsu-a6352563",
+     "level": 3,
+     "prompt": "その人[[なむ]]ありける の「なむ」",
+     "answer": "強意の係助詞",
+     "distractors": [
+      "他への願望の終助詞",
+      "完了「ぬ」未然形＋推量「む」",
+      "ナ変動詞の一部"
+     ],
+     "note": "体言＋なむ、文末「ける」連体形"
+    },
+    {
+     "id": "grammar-shikibetsu-dd7f9333",
+     "level": 3,
+     "prompt": "人の[[言へる]]ことは の「る」",
+     "answer": "完了（存続）の助動詞「り」の連体形",
+     "distractors": [
+      "受身の助動詞「る」の連体形",
+      "自発の助動詞「る」の終止形",
+      "動詞の活用語尾"
+     ],
+     "note": "言へ（四段已然形）＋る"
+    },
+    {
+     "id": "grammar-shikibetsu-799a40b8",
+     "level": 3,
+     "prompt": "故郷の[[偲ばるる]] の「るる」",
+     "answer": "自発の助動詞「る」の連体形",
+     "distractors": [
+      "受身の助動詞「る」の連体形",
+      "完了の助動詞「り」の連体形",
+      "尊敬の助動詞「る」の連体形"
+     ],
+     "note": "心情動詞（偲ぶ）＋る＝自然と〜される"
+    },
+    {
+     "id": "grammar-shikibetsu-29f43f3b",
+     "level": 3,
+     "prompt": "人に[[笑はる]] の「る」",
+     "answer": "受身の助動詞「る」",
+     "distractors": [
+      "尊敬の助動詞「る」",
+      "自発の助動詞「る」",
+      "完了の助動詞「り」"
+     ],
+     "note": "「〜に」＝動作主"
+    },
+    {
+     "id": "grammar-shikibetsu-229cdc30",
+     "level": 3,
+     "prompt": "帝の[[仰せらる]] の「らる」",
+     "answer": "尊敬の助動詞「らる」",
+     "distractors": [
+      "受身の助動詞「らる」",
+      "自発の助動詞「らる」",
+      "可能の助動詞「らる」"
+     ],
+     "note": "主語が帝（高貴な人物）"
+    },
+    {
+     "id": "grammar-shikibetsu-1e5f606d",
+     "level": 3,
+     "prompt": "少しも[[寝られず]] の「られ」",
+     "answer": "可能の助動詞「らる」の未然形",
+     "distractors": [
+      "受身の助動詞「らる」の未然形",
+      "尊敬の助動詞「らる」の未然形",
+      "自発の助動詞「らる」の未然形"
+     ],
+     "note": "打消を伴う＝可能"
+    },
+    {
+     "id": "grammar-shikibetsu-9ca08fe2",
+     "level": 4,
+     "prompt": "帝、御覧じて[[させ給ふ]] の「させ」（動作主は帝のみ）",
+     "answer": "尊敬の助動詞「さす」の連用形",
+     "distractors": [
+      "使役の助動詞「さす」の連用形",
+      "動詞「さす」の連用形",
+      "謙譲の補助動詞"
+     ],
+     "note": "「させ給ふ」＝最高敬語。使役対象がない"
+    },
+    {
+     "id": "grammar-shikibetsu-69b00584",
+     "level": 4,
+     "prompt": "人を遣はして[[言はせ給ふ]] の「せ」",
+     "answer": "使役の助動詞「す」の連用形",
+     "distractors": [
+      "尊敬の助動詞「す」の連用形",
+      "サ変動詞「す」の連用形",
+      "過去の助動詞「き」の未然形"
+     ],
+     "note": "使役の対象（人を遣はして）がある"
+    },
+    {
+     "id": "grammar-shikibetsu-06aaff73",
+     "level": 4,
+     "prompt": "世の中にたえて桜のなかり[[せ]]ば の「せ」",
+     "answer": "過去の助動詞「き」の未然形",
+     "distractors": [
+      "サ変動詞「す」の未然形",
+      "使役の助動詞「す」の未然形",
+      "尊敬の助動詞「す」の未然形"
+     ],
+     "note": "「せば〜まし」＝反実仮想"
+    },
+    {
+     "id": "grammar-shikibetsu-df44f33b",
+     "level": 4,
+     "prompt": "見[[し]]人 の「し」",
+     "answer": "過去の助動詞「き」の連体形",
+     "distractors": [
+      "強意の副助詞",
+      "サ変動詞「す」の連用形",
+      "形容詞の活用語尾"
+     ],
+     "note": "連用形＋し＋体言"
+    },
+    {
+     "id": "grammar-shikibetsu-49a9cb7d",
+     "level": 4,
+     "prompt": "花[[し]]散らば の「し」",
+     "answer": "強意の副助詞",
+     "distractors": [
+      "過去の助動詞「き」の連体形",
+      "サ変動詞の連用形",
+      "形容詞の活用語尾"
+     ],
+     "note": "取り除いても文意が通る"
+    },
+    {
+     "id": "grammar-shikibetsu-1cbcad22",
+     "level": 4,
+     "prompt": "今は限り[[と]]思ひて の「と」",
+     "answer": "格助詞（引用）",
+     "distractors": [
+      "接続助詞",
+      "断定の助動詞「たり」の連用形",
+      "並列の格助詞"
+     ],
+     "note": "「〜と思ふ」"
+    },
+    {
+     "id": "grammar-shikibetsu-b66b9b40",
+     "level": 4,
+     "prompt": "堂々[[と]]して の「と」",
+     "answer": "形容動詞（タリ活用）の連用形活用語尾",
+     "distractors": [
+      "格助詞",
+      "接続助詞",
+      "断定の助動詞"
+     ],
+     "note": "「堂々たり」の連用形「堂々と」"
+    },
+    {
+     "id": "grammar-shikibetsu-74951510",
+     "level": 5,
+     "prompt": "「来む」の「む」と「行かむ人」の「む」の意味",
+     "answer": "前者は推量／意志など（文末）、後者は婉曲",
+     "distractors": [
+      "どちらも婉曲",
+      "どちらも推量",
+      "前者が婉曲・後者が意志"
+     ],
+     "note": "連体形で体言に続く「む」は婉曲"
+    },
+    {
+     "id": "grammar-shikibetsu-56010ec9",
+     "level": 5,
+     "prompt": "夢と知りせば覚めざら[[まし]]",
+     "answer": "反実仮想の助動詞「まし」の終止形",
+     "distractors": [
+      "推量の助動詞「む」",
+      "ためらいの意志の「まし」",
+      "希望の助動詞「まほし」"
+     ],
+     "note": "小野小町。「せば〜まし」＝もし〜だったら…だろうに"
+    },
+    {
+     "id": "grammar-shikibetsu-dcbe29d4",
+     "level": 5,
+     "prompt": "あはれ[[なる]]こと の「なる」",
+     "answer": "形容動詞「あはれなり」の連体形活用語尾",
+     "distractors": [
+      "断定の助動詞「なり」の連体形",
+      "伝聞推定の助動詞「なり」の連体形",
+      "動詞「なる」の連体形"
+     ],
+     "note": "「いと」で修飾可能"
+    },
+    {
+     "id": "grammar-shikibetsu-b6367ea5",
+     "level": 5,
+     "prompt": "「あなり」の「な」",
+     "answer": "ラ変連体形「ある」の撥音便「あん」の撥音無表記",
+     "distractors": [
+      "断定の助動詞の語幹",
+      "完了の助動詞「ぬ」の未然形",
+      "係助詞"
+     ],
+     "note": "あるなり→あんなり→あなり。「なり」は伝聞推定"
+    }
+   ],
+   "description": "共通テスト・二次の文法識別問題",
+   "instruction": "傍線部の文法的説明として正しいものを選べ。"
+  },
+  {
+   "id": "grammar-keigo",
+   "title": "敬語",
+   "kind": "flash",
+   "items": [
+    {
+     "id": "grammar-keigo-0facef91",
+     "level": 1,
+     "prompt": "のたまふ",
+     "answer": "尊敬語：おっしゃる（言ふ）",
+     "note": "のたまはす＝より高い敬意"
+    },
+    {
+     "id": "grammar-keigo-a49417d3",
+     "level": 1,
+     "prompt": "おはす・おはします",
+     "answer": "尊敬語：いらっしゃる（あり・行く・来）"
+    },
+    {
+     "id": "grammar-keigo-d2164336",
+     "level": 1,
+     "prompt": "給ふ（四段・本動詞）",
+     "answer": "尊敬語：お与えになる・くださる（与ふ）",
+     "note": "補助動詞：〜なさる"
+    },
+    {
+     "id": "grammar-keigo-69827c8a",
+     "level": 1,
+     "prompt": "思す・思しめす",
+     "answer": "尊敬語：お思いになる（思ふ）"
+    },
+    {
+     "id": "grammar-keigo-556874e7",
+     "level": 1,
+     "prompt": "御覧ず",
+     "answer": "尊敬語：ご覧になる（見る）"
+    },
+    {
+     "id": "grammar-keigo-c6ac2575",
+     "level": 1,
+     "prompt": "申す・聞こゆ",
+     "answer": "謙譲語：申し上げる（言ふ）"
+    },
+    {
+     "id": "grammar-keigo-7cc9213d",
+     "level": 1,
+     "prompt": "参る・まうづ",
+     "answer": "謙譲語：参上する・うかがう（行く・来）",
+     "note": "参る＝差し上げる・召し上がる の意もあり"
+    },
+    {
+     "id": "grammar-keigo-0bb235a5",
+     "level": 1,
+     "prompt": "奉る（謙譲）",
+     "answer": "謙譲語：差し上げる（与ふ）",
+     "note": "尊敬語で「お召しになる・召し上がる・お乗りになる」も"
+    },
+    {
+     "id": "grammar-keigo-897796b7",
+     "level": 1,
+     "prompt": "侍り・候ふ（丁寧）",
+     "answer": "丁寧語：あります・おります・ございます",
+     "note": "本来は謙譲語「お仕えする・お控えする」"
+    },
+    {
+     "id": "grammar-keigo-f8f7d2ae",
+     "level": 1,
+     "prompt": "給ふ（下二段）",
+     "answer": "謙譲語：〜させていただく（会話・手紙で自分の動作に）",
+     "note": "「思ひ給ふ」「見給ふ」など知覚動詞に付く"
+    },
+    {
+     "id": "grammar-keigo-f2ffba1f",
+     "level": 2,
+     "prompt": "大殿籠る",
+     "answer": "尊敬語：おやすみになる（寝）"
+    },
+    {
+     "id": "grammar-keigo-f50b94a5",
+     "level": 2,
+     "prompt": "聞こし召す",
+     "answer": "尊敬語：お聞きになる・召し上がる・お治めになる"
+    },
+    {
+     "id": "grammar-keigo-b95584c9",
+     "level": 2,
+     "prompt": "召す",
+     "answer": "尊敬語：お呼び寄せになる・召し上がる・お召しになる（着る）・お乗りになる"
+    },
+    {
+     "id": "grammar-keigo-ed54a195",
+     "level": 2,
+     "prompt": "遊ばす",
+     "answer": "尊敬語：（詩歌管弦などを）なさる"
+    },
+    {
+     "id": "grammar-keigo-6913eab9",
+     "level": 2,
+     "prompt": "仰す",
+     "answer": "尊敬語：おっしゃる・お命じになる"
+    },
+    {
+     "id": "grammar-keigo-31c69329",
+     "level": 2,
+     "prompt": "承る",
+     "answer": "謙譲語：お受けする・うかがう（聞く・受く）"
+    },
+    {
+     "id": "grammar-keigo-13e306ca",
+     "level": 2,
+     "prompt": "まかる・まかづ",
+     "answer": "謙譲語：退出する・おいとまする（出づ・行く）"
+    },
+    {
+     "id": "grammar-keigo-8788bf7b",
+     "level": 2,
+     "prompt": "賜る",
+     "answer": "謙譲語：いただく（受く）",
+     "note": "尊敬語「くださる」の用法も"
+    },
+    {
+     "id": "grammar-keigo-8d1d5cc4",
+     "level": 2,
+     "prompt": "啓す",
+     "answer": "謙譲語：（皇后・皇太子に）申し上げる",
+     "note": "絶対敬語"
+    },
+    {
+     "id": "grammar-keigo-afccbe82",
+     "level": 2,
+     "prompt": "奏す",
+     "answer": "謙譲語：（天皇・上皇に）申し上げる",
+     "note": "絶対敬語"
+    },
+    {
+     "id": "grammar-keigo-7586dc70",
+     "level": 2,
+     "prompt": "つかうまつる",
+     "answer": "謙譲語：お仕えする・〜して差し上げる（仕ふ・す）"
+    },
+    {
+     "id": "grammar-keigo-3818f4c3",
+     "level": 2,
+     "prompt": "侍り（謙譲の本動詞）",
+     "answer": "謙譲語：お仕えする・お控えする（あり・居り）",
+     "note": "貴人のそばに「侍り」"
+    },
+    {
+     "id": "grammar-keigo-b5f52568",
+     "level": 3,
+     "prompt": "敬語の種類と敬意の主体",
+     "answer": "地の文では作者から、会話文では話し手から",
+     "note": "「誰から」の敬意"
+    },
+    {
+     "id": "grammar-keigo-0ff5edff",
+     "level": 3,
+     "prompt": "尊敬語の敬意の対象",
+     "answer": "動作の主体（〜が・〜は）",
+     "note": "「誰へ」"
+    },
+    {
+     "id": "grammar-keigo-95ae1232",
+     "level": 3,
+     "prompt": "謙譲語の敬意の対象",
+     "answer": "動作の受け手（〜に・〜を）"
+    },
+    {
+     "id": "grammar-keigo-a28d967b",
+     "level": 3,
+     "prompt": "丁寧語の敬意の対象",
+     "answer": "聞き手（会話文）・読み手（地の文）"
+    },
+    {
+     "id": "grammar-keigo-54875f92",
+     "level": 3,
+     "prompt": "二重敬語（最高敬語）",
+     "answer": "「せ給ふ・させ給ふ・おはします」など。天皇・中宮などに",
+     "note": "地の文では最高位の人物に限られる"
+    },
+    {
+     "id": "grammar-keigo-15cc6745",
+     "level": 3,
+     "prompt": "二方面への敬語",
+     "answer": "謙譲語＋尊敬語で、受け手と主体の両方を敬う",
+     "note": "例「申させ給ふ」「聞こえ給ふ」"
+    },
+    {
+     "id": "grammar-keigo-3fb0811e",
+     "level": 3,
+     "prompt": "自敬表現",
+     "answer": "天皇などが自分の動作に尊敬語を用いる表現",
+     "note": "会話文中に見られる"
+    },
+    {
+     "id": "grammar-keigo-6ab6aab1",
+     "level": 4,
+     "prompt": "「参らす」",
+     "answer": "謙譲語：差し上げる（与ふ）・〜申し上げる（補助）"
+    },
+    {
+     "id": "grammar-keigo-ed6a5f3d",
+     "level": 4,
+     "prompt": "「まします」",
+     "answer": "尊敬語：いらっしゃる",
+     "note": "「おはします」と同じ"
+    },
+    {
+     "id": "grammar-keigo-8e101d34",
+     "level": 4,
+     "prompt": "「しろしめす」",
+     "answer": "尊敬語：お治めになる・ご存じである（知る・領る）"
+    },
+    {
+     "id": "grammar-keigo-04d12e07",
+     "level": 4,
+     "prompt": "「きこえさす」",
+     "answer": "謙譲語：申し上げる（「聞こゆ」より高い敬意）"
+    },
+    {
+     "id": "grammar-keigo-1f4df6be",
+     "level": 4,
+     "prompt": "「参る」が尊敬語になる場合",
+     "answer": "召し上がる・なさる（食ふ・飲む・す）",
+     "note": "「御格子参る」＝格子をお上げ（お下ろし）する"
+    },
+    {
+     "id": "grammar-keigo-76ad041a",
+     "level": 4,
+     "prompt": "「奉る」が尊敬語になる場合",
+     "answer": "お召しになる・召し上がる・お乗りになる",
+     "note": "衣服・飲食・乗り物と結びつく"
+    },
+    {
+     "id": "grammar-keigo-15f94b3d",
+     "level": 5,
+     "prompt": "「聞こゆ」が敬語でない場合",
+     "answer": "一般動詞：聞こえる・評判になる",
+     "note": "文脈で判断"
+    },
+    {
+     "id": "grammar-keigo-36b9926e",
+     "level": 5,
+     "prompt": "「侍り」の謙譲・丁寧の見分け",
+     "answer": "貴人のそばに仕えるなら謙譲、会話文で聞き手への配慮なら丁寧"
+    },
+    {
+     "id": "grammar-keigo-d79acab8",
+     "level": 5,
+     "prompt": "「給ふ」四段・下二段の見分け",
+     "answer": "活用（給は・給ひ・給ふ／給へ・給へ・○）と主語（他者か自分か）",
+     "note": "下二段は終止形・命令形がほぼ用いられない"
+    }
+   ],
+   "description": "尊敬語・謙譲語・丁寧語と敬意の方向",
+   "instruction": "次の敬語の種類と意味（普通語）を答えよ。"
+  },
+  {
+   "id": "grammar-joshi",
+   "title": "助詞",
+   "kind": "flash",
+   "items": [
+    {
+     "id": "grammar-joshi-846176c5",
+     "level": 1,
+     "prompt": "係り結び「ぞ・なむ・こそ」",
+     "answer": "強意（ぞ・なむ→連体形、こそ→已然形）"
+    },
+    {
+     "id": "grammar-joshi-ef80bdd7",
+     "level": 1,
+     "prompt": "係り結び「や・か」",
+     "answer": "疑問・反語（→連体形）",
+     "note": "「やは・かは」は反語が多い"
+    },
+    {
+     "id": "grammar-joshi-81a532a7",
+     "level": 1,
+     "prompt": "格助詞「の」の用法",
+     "answer": "主格・連体修飾格・同格・準体格・比喩",
+     "note": "同格「〜で」：白き鳥の、嘴と脚と赤き"
+    },
+    {
+     "id": "grammar-joshi-db76e0ea",
+     "level": 1,
+     "prompt": "接続助詞「ば」",
+     "answer": "未然形＋ば＝順接仮定、已然形＋ば＝順接確定"
+    },
+    {
+     "id": "grammar-joshi-2f579519",
+     "level": 1,
+     "prompt": "接続助詞「ども・ど」",
+     "answer": "逆接確定（〜けれども）",
+     "note": "已然形接続"
+    },
+    {
+     "id": "grammar-joshi-180fb80b",
+     "level": 1,
+     "prompt": "接続助詞「とも」",
+     "answer": "逆接仮定（たとえ〜ても）",
+     "note": "終止形接続（形容詞型は連用形）"
+    },
+    {
+     "id": "grammar-joshi-b01c4268",
+     "level": 2,
+     "prompt": "副助詞「だに」",
+     "answer": "類推（〜さえ）・最小限の限定（せめて〜だけでも）",
+     "note": "後に意志・願望・命令があれば限定"
+    },
+    {
+     "id": "grammar-joshi-5194d833",
+     "level": 2,
+     "prompt": "副助詞「すら」",
+     "answer": "類推（〜さえ）"
+    },
+    {
+     "id": "grammar-joshi-306b5568",
+     "level": 2,
+     "prompt": "副助詞「さへ」",
+     "answer": "添加（〜までも）",
+     "note": "現代語の「さえ」とずれる"
+    },
+    {
+     "id": "grammar-joshi-8e9958d4",
+     "level": 2,
+     "prompt": "副助詞「し・しも」",
+     "answer": "強意",
+     "note": "取り除いても意味が通る"
+    },
+    {
+     "id": "grammar-joshi-3249c65e",
+     "level": 2,
+     "prompt": "終助詞「ばや」",
+     "answer": "自己の希望（〜したい）",
+     "note": "未然形接続"
+    },
+    {
+     "id": "grammar-joshi-43fb9be4",
+     "level": 2,
+     "prompt": "終助詞「なむ」",
+     "answer": "他への願望（〜してほしい）",
+     "note": "未然形接続"
+    },
+    {
+     "id": "grammar-joshi-bad4ee46",
+     "level": 2,
+     "prompt": "終助詞「もがな・がな」",
+     "answer": "願望（〜があればなあ）"
+    },
+    {
+     "id": "grammar-joshi-5d70342d",
+     "level": 2,
+     "prompt": "終助詞「な」（文末・終止形接続）",
+     "answer": "禁止（〜するな）",
+     "note": "「な〜そ」はやわらかい禁止"
+    },
+    {
+     "id": "grammar-joshi-114fc14b",
+     "level": 2,
+     "prompt": "終助詞「かな・かも」",
+     "answer": "詠嘆（〜だなあ）"
+    },
+    {
+     "id": "grammar-joshi-2c782656",
+     "level": 2,
+     "prompt": "接続助詞「で」",
+     "answer": "打消接続（〜ないで）",
+     "note": "未然形接続"
+    },
+    {
+     "id": "grammar-joshi-09b6e145",
+     "level": 2,
+     "prompt": "接続助詞「ものの・ものを・ものから・ものゆゑ」",
+     "answer": "逆接確定（〜のに）／順接もあり",
+     "note": "文脈判断"
+    },
+    {
+     "id": "grammar-joshi-56c870f4",
+     "level": 3,
+     "prompt": "「を」の接続助詞用法",
+     "answer": "順接・逆接・単純接続（〜ので／〜のに／〜と）",
+     "note": "連体形接続"
+    },
+    {
+     "id": "grammar-joshi-ac68ae1f",
+     "level": 3,
+     "prompt": "「に」の接続助詞用法",
+     "answer": "順接・逆接・単純接続",
+     "note": "連体形接続"
+    },
+    {
+     "id": "grammar-joshi-89773e4a",
+     "level": 3,
+     "prompt": "「が」の接続助詞用法",
+     "answer": "逆接・単純接続",
+     "note": "平安後期以降"
+    },
+    {
+     "id": "grammar-joshi-fceb3063",
+     "level": 3,
+     "prompt": "格助詞「より」の用法",
+     "answer": "起点・経由（〜を通って）・手段（〜で）・比較・即時（〜するやいなや）",
+     "note": "「徒歩より」＝徒歩で"
+    },
+    {
+     "id": "grammar-joshi-b33e7f61",
+     "level": 3,
+     "prompt": "格助詞「して」の用法",
+     "answer": "手段・使役の対象（〜に命じて）・共同"
+    },
+    {
+     "id": "grammar-joshi-16550cda",
+     "level": 3,
+     "prompt": "係助詞「も」",
+     "answer": "並列・強意・添加"
+    },
+    {
+     "id": "grammar-joshi-5d83935c",
+     "level": 3,
+     "prompt": "係助詞「は」",
+     "answer": "取り立て・強調",
+     "note": "「〜ずは」＝〜ないならば"
+    },
+    {
+     "id": "grammar-joshi-cffe9fc0",
+     "level": 3,
+     "prompt": "「こそ〜已然形、」の文中用法",
+     "answer": "逆接（〜けれども）で下に続く",
+     "note": "係り結びの留意点"
+    },
+    {
+     "id": "grammar-joshi-96da9305",
+     "level": 3,
+     "prompt": "「もぞ・もこそ」",
+     "answer": "〜したら困る（危惧）",
+     "note": "「雨もぞ降る」＝雨が降ったら困る"
+    },
+    {
+     "id": "grammar-joshi-ac48050d",
+     "level": 4,
+     "prompt": "終助詞「なむ」と係助詞「なむ」の見分け",
+     "answer": "未然形＋なむ（文末）＝終助詞、体言等＋なむ（文中）＝係助詞"
+    },
+    {
+     "id": "grammar-joshi-c68eb8b3",
+     "level": 4,
+     "prompt": "「ばや」と「ば＋や」の見分け",
+     "answer": "未然形＋ばや（文末）＝願望、已然形＋ば＋や＝確定条件＋疑問"
+    },
+    {
+     "id": "grammar-joshi-07010cae",
+     "level": 4,
+     "prompt": "「がな」「もが」",
+     "answer": "願望（〜があればなあ・〜であってほしい）",
+     "note": "上代の「もが」"
+    },
+    {
+     "id": "grammar-joshi-f6aacfdc",
+     "level": 4,
+     "prompt": "間投助詞「や・よ・を」",
+     "answer": "詠嘆・呼びかけ・語調を整える",
+     "note": "和歌に多い"
+    },
+    {
+     "id": "grammar-joshi-bb1da7d6",
+     "level": 5,
+     "prompt": "「〜にしも」「〜をしも」の「しも」",
+     "answer": "強意の副助詞",
+     "note": "打消を伴うと部分否定（必ずしも〜ない）"
+    },
+    {
+     "id": "grammar-joshi-96ccf967",
+     "level": 5,
+     "prompt": "「だに」と「すら」の違い",
+     "answer": "だには「せめて〜だけでも」の限定用法を持つ",
+     "note": "中古以降「すら」は少ない"
+    }
+   ],
+   "instruction": "次の助詞の意味・用法を答えよ。"
+  }
+ ],
+ "lessons": [
+  {
+   "id": "lesson-doshi",
+   "title": "動詞の活用（九種類）",
+   "level": 1,
+   "body": "<h2>活用の種類の見分け方</h2>\n<p>まず<strong>暗記する少数派</strong>（上一段・下一段・カ変・サ変・ナ変・ラ変）を除き、残りは打消の「ず」を付けて判定する。</p>\n<ul>\n<li>ア段＋ず → 四段（書かず）</li>\n<li>イ段＋ず → 上二段（起きず）</li>\n<li>エ段＋ず → 下二段（受けず）</li>\n</ul>\n<h2>活用表</h2>\n<table>\n<tr><th>種類</th><th>例</th><th>未然</th><th>連用</th><th>終止</th><th>連体</th><th>已然</th><th>命令</th></tr>\n<tr><td>四段</td><td>書く</td><td>か</td><td>き</td><td>く</td><td>く</td><td>け</td><td>け</td></tr>\n<tr><td>上二段</td><td>起く</td><td>き</td><td>き</td><td>く</td><td>くる</td><td>くれ</td><td>きよ</td></tr>\n<tr><td>下二段</td><td>受く</td><td>け</td><td>け</td><td>く</td><td>くる</td><td>くれ</td><td>けよ</td></tr>\n<tr><td>上一段</td><td>見る</td><td>み</td><td>み</td><td>みる</td><td>みる</td><td>みれ</td><td>みよ</td></tr>\n<tr><td>下一段</td><td>蹴る</td><td>け</td><td>け</td><td>ける</td><td>ける</td><td>けれ</td><td>けよ</td></tr>\n<tr><td>カ変</td><td>来</td><td>こ</td><td>き</td><td>く</td><td>くる</td><td>くれ</td><td>こ（こよ）</td></tr>\n<tr><td>サ変</td><td>す</td><td>せ</td><td>し</td><td>す</td><td>する</td><td>すれ</td><td>せよ</td></tr>\n<tr><td>ナ変</td><td>死ぬ</td><td>な</td><td>に</td><td>ぬ</td><td>ぬる</td><td>ぬれ</td><td>ね</td></tr>\n<tr><td>ラ変</td><td>あり</td><td>ら</td><td>り</td><td>り</td><td>る</td><td>れ</td><td>れ</td></tr>\n</table>\n<h2>暗記すべき語</h2>\n<ul>\n<li><b>上一段</b>：干る・射る・鋳る・着る・似る・煮る・見る・居る・率る（「ひいきにみゐる」）＋複合語（顧みる・用ゐる など）</li>\n<li><b>下一段</b>：蹴る のみ</li>\n<li><b>カ変</b>：来　<b>サ変</b>：す・おはす（＋「〜す」複合語）</li>\n<li><b>ナ変</b>：死ぬ・往ぬ（去ぬ）　<b>ラ変</b>：あり・をり・はべり・いまそかり</li>\n<li><b>ア行</b>：得・心得・所得（ア行下二段）　<b>ヤ行上二段</b>：老ゆ・悔ゆ・報ゆ　<b>ワ行下二段</b>：植う・飢う・据う</li>\n</ul>\n<h2>形容詞・形容動詞</h2>\n<table>\n<tr><th>種類</th><th>未然</th><th>連用</th><th>終止</th><th>連体</th><th>已然</th><th>命令</th></tr>\n<tr><td>ク活用（なし）</td><td>（く）・から</td><td>く・かり</td><td>し</td><td>き・かる</td><td>けれ</td><td>かれ</td></tr>\n<tr><td>シク活用（をかし）</td><td>（しく）・しから</td><td>しく・しかり</td><td>し</td><td>しき・しかる</td><td>しけれ</td><td>しかれ</td></tr>\n<tr><td>ナリ活用（静かなり）</td><td>なら</td><td>なり・に</td><td>なり</td><td>なる</td><td>なれ</td><td>なれ</td></tr>\n<tr><td>タリ活用（堂々たり）</td><td>たら</td><td>たり・と</td><td>たり</td><td>たる</td><td>たれ</td><td>たれ</td></tr>\n</table>\n<p class=\"note\">右側の「から・かり・かる」系（補助活用）は主に助動詞に続くときに用いる。</p>"
+  },
+  {
+   "id": "lesson-jodoshi",
+   "title": "助動詞一覧（接続別）",
+   "level": 1,
+   "body": "<p>助動詞は<strong>接続 → 意味 → 活用</strong>の順で押さえる。識別問題の多くは「接続」で決まる。</p>\n<table>\n<tr><th>接続</th><th>助動詞</th><th>主な意味</th><th>活用型</th></tr>\n<tr><td rowspan=\"8\">未然形</td><td>る・らる</td><td>受身・尊敬・自発・可能</td><td>下二段型</td></tr>\n<tr><td>す・さす・しむ</td><td>使役・尊敬</td><td>下二段型</td></tr>\n<tr><td>ず</td><td>打消</td><td>特殊型</td></tr>\n<tr><td>む（ん）・むず</td><td>推量・意志・勧誘・仮定・婉曲</td><td>四段型・サ変型</td></tr>\n<tr><td>じ</td><td>打消推量・打消意志</td><td>無変化型</td></tr>\n<tr><td>まし</td><td>反実仮想・ためらいの意志</td><td>特殊型</td></tr>\n<tr><td>まほし</td><td>希望</td><td>形容詞シク型</td></tr>\n<tr><td>き（カ変・サ変の一部）</td><td>過去</td><td>特殊型</td></tr>\n<tr><td rowspan=\"6\">連用形</td><td>き</td><td>過去（体験）</td><td>特殊型</td></tr>\n<tr><td>けり</td><td>過去（伝聞）・詠嘆</td><td>ラ変型</td></tr>\n<tr><td>つ・ぬ</td><td>完了・強意</td><td>下二段型・ナ変型</td></tr>\n<tr><td>たり</td><td>完了・存続</td><td>ラ変型</td></tr>\n<tr><td>けむ（けん）</td><td>過去推量・過去の原因推量・過去伝聞婉曲</td><td>四段型</td></tr>\n<tr><td>たし</td><td>希望</td><td>形容詞ク型</td></tr>\n<tr><td rowspan=\"5\">終止形<br><span class=\"note\">（ラ変型には連体形）</span></td><td>べし</td><td>推量・意志・可能・当然・命令・適当</td><td>形容詞ク型</td></tr>\n<tr><td>まじ</td><td>打消推量・打消意志・不可能・打消当然・禁止・不適当</td><td>形容詞シク型</td></tr>\n<tr><td>らむ（らん）</td><td>現在推量・現在の原因推量・伝聞婉曲</td><td>四段型</td></tr>\n<tr><td>めり</td><td>推定（視覚）・婉曲</td><td>ラ変型</td></tr>\n<tr><td>らし／なり</td><td>推定／伝聞・推定（聴覚）</td><td>無変化型／ラ変型</td></tr>\n<tr><td>連体形・体言</td><td>なり・たり（断定）</td><td>断定・存在（なり）</td><td>形容動詞型</td></tr>\n<tr><td>連体形・が・の</td><td>ごとし</td><td>比況・例示</td><td>形容詞ク型</td></tr>\n<tr><td>サ未・四已</td><td>り</td><td>完了・存続</td><td>ラ変型</td></tr>\n</table>\n<h2>「む」の意味の判別（文末）</h2>\n<ul>\n<li>主語が一人称 → 意志（〜しよう）</li>\n<li>主語が二人称 → 適当・勧誘（〜するのがよい・〜しないか）</li>\n<li>主語が三人称 → 推量（〜だろう）</li>\n<li>文中で連体形（下に体言・助詞）→ 仮定・婉曲（〜としたら・〜ような）</li>\n</ul>"
+  },
+  {
+   "id": "lesson-keigo",
+   "title": "敬語の三方向",
+   "level": 2,
+   "body": "<h2>「誰から」「誰へ」の敬意か</h2>\n<table>\n<tr><th></th><th>誰から</th><th>誰へ</th></tr>\n<tr><td>地の文</td><td>作者（語り手）</td><td rowspan=\"2\">尊敬語→動作の主体<br>謙譲語→動作の受け手<br>丁寧語→読者／聞き手</td></tr>\n<tr><td>会話文・手紙</td><td>話し手・書き手</td></tr>\n</table>\n<h2>主な敬語動詞</h2>\n<table>\n<tr><th>普通語</th><th>尊敬語</th><th>謙譲語</th></tr>\n<tr><td>言ふ</td><td>仰す・のたまふ・のたまはす</td><td>申す・聞こゆ・聞こえさす・奏す・啓す</td></tr>\n<tr><td>行く・来</td><td>おはす・おはします・います</td><td>参る・まうづ・まかる・まかづ</td></tr>\n<tr><td>あり・居り</td><td>おはす・おはします・います・まします</td><td>侍り・候ふ</td></tr>\n<tr><td>与ふ</td><td>給ふ・賜ふ</td><td>奉る・参らす</td></tr>\n<tr><td>受く</td><td>―</td><td>賜る・給はる・承る</td></tr>\n<tr><td>思ふ</td><td>思す・思しめす</td><td>存ず</td></tr>\n<tr><td>見る</td><td>御覧ず</td><td>見給ふ（下二段）</td></tr>\n<tr><td>寝・寝ぬ</td><td>大殿籠る</td><td>―</td></tr>\n<tr><td>食ふ・飲む</td><td>召す・聞こし召す・参る・奉る</td><td>―</td></tr>\n<tr><td>仕ふ・す</td><td>遊ばす（す）</td><td>つかうまつる・つかまつる</td></tr>\n</table>\n<h2>最高敬語（二重尊敬）</h2>\n<p>「せ給ふ」「させ給ふ」「しめ給ふ」は、地の文では<strong>天皇・中宮・上皇など最上位の人物</strong>にだけ用いられる。主語の省略を補う大きな手がかりになる。</p>"
+  }
+ ]
 }

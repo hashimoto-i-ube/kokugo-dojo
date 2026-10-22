@@ -29,16 +29,16 @@
   {
    "id": "kobun-grammar",
    "file": "packs/kobun-grammar.json",
-   "version": "2026.10.22",
-   "sha256": "2dd30eedacbb66aaa2e7b127aef014bf85e58b0185dfa03c27d05f376924a03c",
-   "bytes": 164
+   "version": "2026.10.22.1",
+   "sha256": "bd6308ff23a6edf97d28a0191eebcccd610be1eab0c3f36ff8b1dcce2cb90f9e",
+   "bytes": 62469
   },
   {
    "id": "kobun-words",
    "file": "packs/kobun-words.json",
-   "version": "2026.10.22",
-   "sha256": "750db06896b96acaaa9c3be7f7b9ffaff2b972bfd817f9ac389e9d86bdc31507",
-   "bytes": 160
+   "version": "2026.10.22.1",
+   "sha256": "68f873c68b6ca1cc0df4b652f0a001bc87c9ace83a5cc375ea7768f8c06841b1",
+   "bytes": 38825
   },
   {
    "id": "reading",
