@@ -8,9 +8,9 @@
   {
    "id": "kanbun",
    "file": "packs/kanbun.json",
-   "version": "2026.10.22",
-   "sha256": "fe5d7233723184dade211cb3d0d1e81f30eb66d19cfb6e3c1f76aec4e5a03e8c",
-   "bytes": 151
+   "version": "2026.10.22.1",
+   "sha256": "675382abfe0664fa6ca147b029ee4d19b54bf4c5efa77a9559ee4b54b7571eba",
+   "bytes": 36847
   },
   {
    "id": "kanji",

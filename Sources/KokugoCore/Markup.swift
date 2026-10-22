@@ -141,11 +141,12 @@ public enum Markup {
                 if plain {
                     out.append(ch)
                 } else if kanbun, isKanbunBase(ch) {
+                    let start = i
                     let marks = kanbunMarks()
                     if marks.isEmpty {
                         out += escape(String(ch))
                     } else {
-                        out += "<span class=\"kb\">\(escape(String(ch)))\(marks)</span>"
+                        out += "<span class=\"kb\"\(spacing(okuriLength(from: start)))>\(escape(String(ch)))\(marks)</span>"
                     }
                 } else {
                     out += escape(String(ch))
@@ -177,6 +178,18 @@ public enum Markup {
             if let okuri { html += "<span class=\"okuri\">\(escape(okuri))</span>" }
             if let kaeri { html += "<span class=\"kaeri\">\(escape(kaeri))</span>" }
             return html
+        }
+
+        /// `start` 位置に送り仮名（…）があればその文字数
+        func okuriLength(from start: Int) -> Int {
+            guard start < c.count, c[start] == "（", let end = find("）", from: start + 1) else { return 0 }
+            return end - start - 1
+        }
+
+        /// 送り仮名が長いときは次の字との間をあける
+        func spacing(_ n: Int) -> String {
+            guard n >= 3 else { return "" }
+            return " style=\"margin-bottom:\(String(format: "%.2f", Double(n) * 0.48 - 0.55))em\""
         }
 
         func isKanbunBase(_ ch: Character) -> Bool {

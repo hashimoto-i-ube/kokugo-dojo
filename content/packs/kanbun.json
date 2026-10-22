@@ -3,7 +3,1179 @@
  "id": "kanbun",
  "subject": "kanbun",
  "title": "漢文句法",
- "version": "2026.10.22",
+ "version": "2026.10.22.1",
  "curriculum": "H30",
- "decks": []
+ "decks": [
+  {
+   "id": "kanbun-kuho",
+   "title": "句法（句形）",
+   "kind": "flash",
+   "items": [
+    {
+     "id": "kanbun-kuho-bc14f54c",
+     "level": 1,
+     "prompt": "不ＡＢ（不〜）",
+     "answer": "〜ず：〜しない",
+     "note": "「弗」も同じ。書き下しでは「ず」をひらがなに"
+    },
+    {
+     "id": "kanbun-kuho-bc7fc4c4",
+     "level": 1,
+     "prompt": "非Ａ",
+     "answer": "Ａにあらず：Ａではない",
+     "note": "名詞・句を否定"
+    },
+    {
+     "id": "kanbun-kuho-9aab7d4f",
+     "level": 1,
+     "prompt": "無Ａ",
+     "answer": "Ａなし：Ａがない",
+     "note": "「莫・勿・毋」も「なし」"
+    },
+    {
+     "id": "kanbun-kuho-c9d8b16b",
+     "level": 1,
+     "prompt": "勿Ａ（禁止）",
+     "answer": "Ａ（する）なかれ：Ａするな",
+     "note": "「無・莫・毋」も禁止に"
+    },
+    {
+     "id": "kanbun-kuho-f74a7174",
+     "level": 1,
+     "prompt": "未Ａ",
+     "answer": "いまだＡず：まだＡしない",
+     "note": "再読文字"
+    },
+    {
+     "id": "kanbun-kuho-c1b6fe1a",
+     "level": 1,
+     "prompt": "将Ａ・且Ａ",
+     "answer": "まさにＡ（せ）んとす：今にもＡしようとする",
+     "note": "再読文字"
+    },
+    {
+     "id": "kanbun-kuho-66f46587",
+     "level": 1,
+     "prompt": "当Ａ・応Ａ",
+     "answer": "まさにＡすべし：当然Ａすべきだ／きっとＡだろう",
+     "note": "応は推量寄り"
+    },
+    {
+     "id": "kanbun-kuho-d326fbe8",
+     "level": 1,
+     "prompt": "宜Ａ",
+     "answer": "よろしくＡすべし：Ａするのがよい",
+     "note": "再読文字"
+    },
+    {
+     "id": "kanbun-kuho-16c94d4e",
+     "level": 1,
+     "prompt": "須Ａ",
+     "answer": "すべからくＡすべし：ぜひＡする必要がある",
+     "note": "再読文字"
+    },
+    {
+     "id": "kanbun-kuho-cf9c121c",
+     "level": 1,
+     "prompt": "猶Ａ・由Ａ",
+     "answer": "なほＡのごとし：ちょうどＡのようだ",
+     "note": "再読文字"
+    },
+    {
+     "id": "kanbun-kuho-27eb6d84",
+     "level": 1,
+     "prompt": "盍Ａ",
+     "answer": "なんぞＡざる：どうしてＡしないのか、Ａすればよい",
+     "note": "再読文字（何不の合字）"
+    },
+    {
+     "id": "kanbun-kuho-b84035bf",
+     "level": 1,
+     "prompt": "使ＡＢ",
+     "answer": "ＡをしてＢしむ：ＡにＢさせる",
+     "note": "「令・遣・教」も同じ"
+    },
+    {
+     "id": "kanbun-kuho-54f7acf6",
+     "level": 1,
+     "prompt": "見Ａ・被Ａ",
+     "answer": "Ａる・Ａらる：Ａされる",
+     "note": "受身の助字"
+    },
+    {
+     "id": "kanbun-kuho-3e7810b8",
+     "level": 1,
+     "prompt": "為Ａ所Ｂ",
+     "answer": "ＡのＢする所と為る：ＡにＢされる",
+     "note": "受身の句形"
+    },
+    {
+     "id": "kanbun-kuho-44d90c12",
+     "level": 1,
+     "prompt": "何Ａ（疑問）",
+     "answer": "なんぞＡ（連体形）：どうしてＡなのか",
+     "note": "文脈で反語にも"
+    },
+    {
+     "id": "kanbun-kuho-cea0da29",
+     "level": 1,
+     "prompt": "豈Ａ哉",
+     "answer": "あにＡ（せ）んや：どうしてＡだろうか、いやＡではない",
+     "note": "反語"
+    },
+    {
+     "id": "kanbun-kuho-9218adc4",
+     "level": 2,
+     "prompt": "不常Ａ",
+     "answer": "つねにはＡせず：いつもＡするとは限らない",
+     "note": "部分否定"
+    },
+    {
+     "id": "kanbun-kuho-c7db2445",
+     "level": 2,
+     "prompt": "常不Ａ",
+     "answer": "つねにＡせず：いつもＡしない",
+     "note": "全部否定"
+    },
+    {
+     "id": "kanbun-kuho-6e409946",
+     "level": 2,
+     "prompt": "不復Ａ",
+     "answer": "またＡせず：二度とＡしない",
+     "note": "「復不Ａ」＝今度もまたＡしない"
+    },
+    {
+     "id": "kanbun-kuho-4c9fac94",
+     "level": 2,
+     "prompt": "不倶Ａ",
+     "answer": "ともにはＡせず：両方ともＡするわけではない",
+     "note": "部分否定"
+    },
+    {
+     "id": "kanbun-kuho-22886227",
+     "level": 2,
+     "prompt": "無不Ａ",
+     "answer": "Ａせざるはなし：Ａしないものはない（すべてＡする）",
+     "note": "二重否定"
+    },
+    {
+     "id": "kanbun-kuho-7d9df93d",
+     "level": 2,
+     "prompt": "非不Ａ",
+     "answer": "Ａせざるにあらず：Ａしないのではない",
+     "note": "二重否定"
+    },
+    {
+     "id": "kanbun-kuho-6deaa5f4",
+     "level": 2,
+     "prompt": "不可不Ａ",
+     "answer": "Ａせざるべからず：Ａしなければならない",
+     "note": "二重否定"
+    },
+    {
+     "id": "kanbun-kuho-9a6ce1f8",
+     "level": 2,
+     "prompt": "未嘗不Ａ",
+     "answer": "いまだかつてＡせずんばあらず：これまでＡしなかったことはない",
+     "note": "二重否定"
+    },
+    {
+     "id": "kanbun-kuho-136a89e9",
+     "level": 2,
+     "prompt": "無Ａ不Ｂ",
+     "answer": "ＡとしてＢせざるはなし：どんなＡでもＢしないものはない",
+     "note": "二重否定"
+    },
+    {
+     "id": "kanbun-kuho-bc9df97e",
+     "level": 2,
+     "prompt": "何以Ａ",
+     "answer": "なにをもってＡ（連体形）：どうしてＡか／何によってＡか",
+     "note": "疑問・反語"
+    },
+    {
+     "id": "kanbun-kuho-57172ade",
+     "level": 2,
+     "prompt": "安Ａ・焉Ａ・悪Ａ",
+     "answer": "いづくんぞＡ（ん）：どうしてＡか",
+     "note": "場所なら「いづくにか」"
+    },
+    {
+     "id": "kanbun-kuho-f3169c86",
+     "level": 2,
+     "prompt": "誰Ａ・孰Ａ",
+     "answer": "たれかＡ：誰がＡか",
+     "note": "「孰」は比較選択で「いづれか」"
+    },
+    {
+     "id": "kanbun-kuho-67e989be",
+     "level": 2,
+     "prompt": "如何・奈何",
+     "answer": "いかんせん：どうしようか（方法）",
+     "note": "「何如」は「いかん」＝どうであるか（状態）"
+    },
+    {
+     "id": "kanbun-kuho-90289d86",
+     "level": 2,
+     "prompt": "何如",
+     "answer": "いかん：どうであるか（状態・是非）",
+     "note": "如何との区別が頻出"
+    },
+    {
+     "id": "kanbun-kuho-e88a43f3",
+     "level": 2,
+     "prompt": "不亦Ａ乎",
+     "answer": "またＡならずや：なんとＡではないか",
+     "note": "詠嘆（論語）"
+    },
+    {
+     "id": "kanbun-kuho-3e078c7e",
+     "level": 2,
+     "prompt": "何Ａ之有",
+     "answer": "なんのＡかこれあらん：どんなＡがあろうか、いやない",
+     "note": "反語"
+    },
+    {
+     "id": "kanbun-kuho-f3b5c697",
+     "level": 2,
+     "prompt": "敢不Ａ乎",
+     "answer": "あへてＡせざらんや：どうしてＡしないことがあろうか（必ずＡする）",
+     "note": "反語"
+    },
+    {
+     "id": "kanbun-kuho-c6b0d3fb",
+     "level": 2,
+     "prompt": "不敢Ａ",
+     "answer": "あへてＡせず：決してＡしない・すすんでＡしない"
+    },
+    {
+     "id": "kanbun-kuho-da4a0726",
+     "level": 3,
+     "prompt": "Ａ於Ｂ（比較）",
+     "answer": "ＢよりもＡ：ＢよりＡだ",
+     "note": "「霜葉紅於二月花」"
+    },
+    {
+     "id": "kanbun-kuho-930faa4c",
+     "level": 3,
+     "prompt": "莫若Ａ・莫如Ａ",
+     "answer": "Ａにしくはなし：Ａに及ぶものはない（Ａが一番だ）",
+     "note": "最上級"
+    },
+    {
+     "id": "kanbun-kuho-863b04cc",
+     "level": 3,
+     "prompt": "不若Ａ・不如Ａ",
+     "answer": "Ａにしかず：Ａに及ばない",
+     "note": "比較"
+    },
+    {
+     "id": "kanbun-kuho-5696aaf3",
+     "level": 3,
+     "prompt": "莫Ａ於Ｂ",
+     "answer": "ＢよりＡなるはなし：ＢよりもＡなものはない",
+     "note": "最上級"
+    },
+    {
+     "id": "kanbun-kuho-f27b6d97",
+     "level": 3,
+     "prompt": "与其Ａ寧Ｂ",
+     "answer": "そのＡせんよりは、むしろＢせよ：ＡするよりはむしろＢせよ",
+     "note": "選択"
+    },
+    {
+     "id": "kanbun-kuho-820e2daf",
+     "level": 3,
+     "prompt": "寧Ａ無Ｂ",
+     "answer": "むしろＡとなるとも、Ｂとなるなかれ：たとえＡになってもＢにはなるな",
+     "note": "鶏口牛後"
+    },
+    {
+     "id": "kanbun-kuho-84dcc810",
+     "level": 3,
+     "prompt": "唯Ａ・惟Ａ・但Ａ",
+     "answer": "ただＡのみ：ただＡだけだ",
+     "note": "限定（「耳・已・爾・而已」で「のみ」）"
+    },
+    {
+     "id": "kanbun-kuho-64c497fc",
+     "level": 3,
+     "prompt": "独Ａ",
+     "answer": "ひとりＡのみ：ただＡだけ"
+    },
+    {
+     "id": "kanbun-kuho-df049928",
+     "level": 3,
+     "prompt": "不唯Ａ・非独Ａ",
+     "answer": "ただにＡのみならず：ただＡだけではなく",
+     "note": "累加"
+    },
+    {
+     "id": "kanbun-kuho-e40b5b9c",
+     "level": 3,
+     "prompt": "豈唯Ａ",
+     "answer": "あにただにＡのみならんや：どうしてただＡだけであろうか",
+     "note": "累加（反語）"
+    },
+    {
+     "id": "kanbun-kuho-c62a5231",
+     "level": 3,
+     "prompt": "Ａ且Ｂ、況Ｃ乎",
+     "answer": "ＡすらかつＢ、いはんやＣをや：ＡでさえＢだ、ましてＣはなおさらだ",
+     "note": "抑揚"
+    },
+    {
+     "id": "kanbun-kuho-2e5fc1de",
+     "level": 3,
+     "prompt": "如Ａ・若Ａ（仮定）",
+     "answer": "もしＡならば：もしＡならば",
+     "note": "仮定"
+    },
+    {
+     "id": "kanbun-kuho-c29bca4c",
+     "level": 3,
+     "prompt": "雖Ａ",
+     "answer": "Ａといへども：たとえＡでも／Ａではあるが",
+     "note": "仮定・確定の逆接"
+    },
+    {
+     "id": "kanbun-kuho-9697d2e8",
+     "level": 3,
+     "prompt": "苟Ａ",
+     "answer": "いやしくもＡならば：もしかりにもＡならば",
+     "note": "仮定"
+    },
+    {
+     "id": "kanbun-kuho-5f26b2c6",
+     "level": 3,
+     "prompt": "縦Ａ",
+     "answer": "たとひＡとも：たとえＡしても",
+     "note": "逆接仮定"
+    },
+    {
+     "id": "kanbun-kuho-e1147a6c",
+     "level": 3,
+     "prompt": "願Ａ",
+     "answer": "ねがはくはＡ（せよ・せん）：どうかＡしてください／Ａしたい",
+     "note": "願望"
+    },
+    {
+     "id": "kanbun-kuho-9648e30f",
+     "level": 3,
+     "prompt": "請Ａ",
+     "answer": "こふＡ（せよ）：どうかＡしてください",
+     "note": "願望"
+    },
+    {
+     "id": "kanbun-kuho-a90eef4b",
+     "level": 3,
+     "prompt": "嗚呼・噫",
+     "answer": "ああ：ああ",
+     "note": "詠嘆"
+    },
+    {
+     "id": "kanbun-kuho-60487fbe",
+     "level": 3,
+     "prompt": "Ａ哉",
+     "answer": "Ａかな：Ａだなあ",
+     "note": "詠嘆"
+    },
+    {
+     "id": "kanbun-kuho-f035b4ab",
+     "level": 4,
+     "prompt": "何為Ａ",
+     "answer": "なんすれぞＡ：どうしてＡするのか",
+     "note": "疑問・反語"
+    },
+    {
+     "id": "kanbun-kuho-f5491f22",
+     "level": 4,
+     "prompt": "何遽Ａ",
+     "answer": "なんぞにはかにＡ：どうしてＡだろうか",
+     "note": "反語"
+    },
+    {
+     "id": "kanbun-kuho-bf321ece",
+     "level": 4,
+     "prompt": "誰不Ａ",
+     "answer": "たれかＡざらん：誰がＡしないだろうか（皆Ａする）",
+     "note": "反語"
+    },
+    {
+     "id": "kanbun-kuho-4a2523da",
+     "level": 4,
+     "prompt": "孰与",
+     "answer": "ＡはＢにいづれぞ：ＡはＢと比べてどうか（Ｂの方がまさる）",
+     "note": "比較選択"
+    },
+    {
+     "id": "kanbun-kuho-3c2c6e6e",
+     "level": 4,
+     "prompt": "所以",
+     "answer": "ゆゑん：理由・方法",
+     "note": "「所以Ａ」＝Ａする理由・手段"
+    },
+    {
+     "id": "kanbun-kuho-22a9f725",
+     "level": 4,
+     "prompt": "以為",
+     "answer": "おもへらく／以て〜と為す：思うことには",
+     "note": "「Ａを以てＢと為す」"
+    },
+    {
+     "id": "kanbun-kuho-0f06bb9d",
+     "level": 4,
+     "prompt": "是以",
+     "answer": "ここをもって：こういうわけで"
+    },
+    {
+     "id": "kanbun-kuho-b635fcb1",
+     "level": 4,
+     "prompt": "於是",
+     "answer": "ここにおいて：そこで"
+    },
+    {
+     "id": "kanbun-kuho-20083f4b",
+     "level": 4,
+     "prompt": "不能Ａ",
+     "answer": "Ａあたはず：Ａできない",
+     "note": "可能・不可能"
+    },
+    {
+     "id": "kanbun-kuho-bf958e37",
+     "level": 4,
+     "prompt": "可Ａ",
+     "answer": "Ａべし：Ａできる・Ａしてよい"
+    },
+    {
+     "id": "kanbun-kuho-995d2b0e",
+     "level": 4,
+     "prompt": "足以Ａ",
+     "answer": "もってＡするにたる：Ａするのに十分だ"
+    },
+    {
+     "id": "kanbun-kuho-96a7e5aa",
+     "level": 4,
+     "prompt": "得Ａ",
+     "answer": "Ａするをえたり：Ａすることができた"
+    },
+    {
+     "id": "kanbun-kuho-65be925c",
+     "level": 5,
+     "prompt": "微Ａ",
+     "answer": "Ａなかりせば：もしＡがなかったならば",
+     "note": "仮定（「微管仲」論語）"
+    },
+    {
+     "id": "kanbun-kuho-2d6f7662",
+     "level": 5,
+     "prompt": "非Ａ不Ｂ",
+     "answer": "ＡにあらざればＢせず：ＡでなければＢしない",
+     "note": "条件の二重否定"
+    },
+    {
+     "id": "kanbun-kuho-9877a36b",
+     "level": 5,
+     "prompt": "不必Ａ",
+     "answer": "かならずしもＡせず：必ずしもＡするとは限らない",
+     "note": "部分否定（必不＝必ずＡしない）"
+    },
+    {
+     "id": "kanbun-kuho-b0cd1508",
+     "level": 5,
+     "prompt": "不甚Ａ",
+     "answer": "はなはだしくはＡせず：それほどＡしない",
+     "note": "部分否定"
+    },
+    {
+     "id": "kanbun-kuho-2662643f",
+     "level": 5,
+     "prompt": "一何Ａ",
+     "answer": "いつになんぞＡなる：なんとまあＡなことよ",
+     "note": "詠嘆（杜甫「石壕吏」）"
+    },
+    {
+     "id": "kanbun-kuho-8f48ae4e",
+     "level": 5,
+     "prompt": "豈不Ａ哉",
+     "answer": "あにＡならずや：なんとＡではないか",
+     "note": "詠嘆（反語形の詠嘆）"
+    },
+    {
+     "id": "kanbun-kuho-b800cb24",
+     "level": 5,
+     "prompt": "唯Ａ是Ｂ",
+     "answer": "ただＡをこれＢす：ただＡだけをＢする",
+     "note": "強調倒置"
+    }
+   ],
+   "description": "否定・疑問・反語・使役・受身・比較・抑揚・限定・累加・仮定・願望・詠嘆",
+   "instruction": "次の句法の読み方と意味を答えよ。",
+   "writing": "horizontal"
+  },
+  {
+   "id": "kanbun-kundoku",
+   "title": "訓読練習（返り点・送り仮名）",
+   "kind": "flash",
+   "items": [
+    {
+     "id": "kanbun-kundoku-e5818f27",
+     "level": 1,
+     "prompt": "不〔レ〕知（ラ）",
+     "answer": "知らず（知らない）",
+     "note": "レ点：下の一字から返って読む"
+    },
+    {
+     "id": "kanbun-kundoku-f3f2a859",
+     "level": 1,
+     "prompt": "無（シ）〔レ〕人",
+     "answer": "人無し（人がいない）"
+    },
+    {
+     "id": "kanbun-kundoku-cd83bd31",
+     "level": 1,
+     "prompt": "学（ビテ）而時（ニ）習（フ）〔レ〕之（ヲ）",
+     "answer": "学びて時に之を習ふ（学んで、折にふれて復習する）",
+     "note": "『論語』学而。「而」は置き字"
+    },
+    {
+     "id": "kanbun-kundoku-b3a19319",
+     "level": 1,
+     "prompt": "有（リ）〔レ〕朋（ト）自（リ）〔二〕遠方〔一〕来（タル）",
+     "answer": "朋有り遠方より来たる（友人が遠方から訪ねてくる）",
+     "note": "『論語』学而。一二点"
+    },
+    {
+     "id": "kanbun-kundoku-f8656d52",
+     "level": 1,
+     "prompt": "不〔二〕亦（タ）楽（シカラ）〔一〕乎",
+     "answer": "亦た楽しからずや（なんと楽しいことではないか）",
+     "note": "詠嘆。「乎」は書き下しで「や」"
+    },
+    {
+     "id": "kanbun-kundoku-2cf898a4",
+     "level": 1,
+     "prompt": "温（ネテ）〔レ〕故（キヲ）而知（ル）〔レ〕新（シキヲ）",
+     "answer": "故きを温ねて新しきを知る（古いことを学び新しい知識を得る）",
+     "note": "『論語』為政。温故知新"
+    },
+    {
+     "id": "kanbun-kundoku-dc69eba4",
+     "level": 2,
+     "prompt": "過（ギタルハ）猶（ホ）〔レ〕不（ルガ）〔レ〕及（バ）",
+     "answer": "過ぎたるは猶ほ及ばざるがごとし（やりすぎは足りないのと同じだ）",
+     "note": "『論語』先進。再読文字「猶」"
+    },
+    {
+     "id": "kanbun-kundoku-c9e08908",
+     "level": 2,
+     "prompt": "未（ダ）〔レ〕知（ラ）〔レ〕生（ヲ）",
+     "answer": "未だ生を知らず（まだ生のことも分からない）",
+     "note": "『論語』先進。レ点の連続"
+    },
+    {
+     "id": "kanbun-kundoku-b2d96124",
+     "level": 2,
+     "prompt": "焉（クンゾ）知（ラン）〔レ〕死（ヲ）",
+     "answer": "焉くんぞ死を知らん（どうして死のことが分かろうか、いや分からない）",
+     "note": "反語"
+    },
+    {
+     "id": "kanbun-kundoku-9f1936ac",
+     "level": 2,
+     "prompt": "己（ノ）所〔レ〕不（ル）〔レ〕欲（セ）",
+     "answer": "己の欲せざる所（自分が望まないこと）",
+     "note": "『論語』衛霊公"
+    },
+    {
+     "id": "kanbun-kundoku-83540a22",
+     "level": 2,
+     "prompt": "勿（カレ）〔レ〕施（ス）〔二〕於人（ニ）〔一〕",
+     "answer": "人に施すこと勿かれ（他人にしてはならない）",
+     "note": "「於」は置き字"
+    },
+    {
+     "id": "kanbun-kundoku-c1ebd797",
+     "level": 2,
+     "prompt": "為（ル）〔二〕人（ノ）所（ト）〔一レ〕笑（フ）",
+     "answer": "人の笑ふ所と為る（人に笑われる）",
+     "note": "受身。一レ点"
+    },
+    {
+     "id": "kanbun-kundoku-726e5f3c",
+     "level": 2,
+     "prompt": "使（ム）〔二〕人（ヲシテ）読（マ）〔一レ〕書（ヲ）",
+     "answer": "人をして書を読ましむ（人に書物を読ませる）",
+     "note": "使役"
+    },
+    {
+     "id": "kanbun-kundoku-d7a9a329",
+     "level": 2,
+     "prompt": "将（ニ）〔レ〕去（ラント）",
+     "answer": "将に去らんとす（今にも去ろうとする）",
+     "note": "再読文字"
+    },
+    {
+     "id": "kanbun-kundoku-2de0c5ce",
+     "level": 3,
+     "prompt": "千里（ノ）馬（ハ）常（ニ）有（レドモ）、伯楽（ハ）不〔二〕常（ニハ）有（ラ）〔一〕",
+     "answer": "千里の馬は常に有れども、伯楽は常には有らず（名馬はいつもいるが、それを見抜く伯楽はいつもいるわけではない）",
+     "note": "韓愈「雑説」。部分否定"
+    },
+    {
+     "id": "kanbun-kundoku-e5fe2bcd",
+     "level": 3,
+     "prompt": "春眠不〔レ〕覚（エ）〔レ〕暁（ヲ）",
+     "answer": "春眠暁を覚えず（春の眠りは心地よく夜明けにも気づかない）",
+     "note": "孟浩然「春暁」"
+    },
+    {
+     "id": "kanbun-kundoku-e2bed1f7",
+     "level": 3,
+     "prompt": "国破（レテ）山河在（リ）",
+     "answer": "国破れて山河在り（国は滅んでも山河は残っている）",
+     "note": "杜甫「春望」"
+    },
+    {
+     "id": "kanbun-kundoku-1540716f",
+     "level": 3,
+     "prompt": "霜葉（ハ）紅（ナリ）〔二〕於二月（ノ）花（ヨリモ）〔一〕",
+     "answer": "霜葉は二月の花よりも紅なり（霜で紅葉した葉は春の花よりも赤い）",
+     "note": "杜牧「山行」。比較の「於」"
+    },
+    {
+     "id": "kanbun-kundoku-1aa9c98b",
+     "level": 3,
+     "prompt": "百聞（ハ）不〔レ〕如（カ）〔二〕一見（ニ）〔一〕",
+     "answer": "百聞は一見に如かず（百回聞くより一度見る方がよい）",
+     "note": "『漢書』。比較「不如」"
+    },
+    {
+     "id": "kanbun-kundoku-23a34725",
+     "level": 3,
+     "prompt": "人皆有（リ）〔二〕不（ル）〔レ〕忍（ビ）〔レ〕人（ニ）之心〔一〕",
+     "answer": "人皆人に忍びざるの心有り（人には誰でも他人の不幸を見過ごせない心がある）",
+     "note": "『孟子』公孫丑上。性善説"
+    },
+    {
+     "id": "kanbun-kundoku-935d4faa",
+     "level": 4,
+     "prompt": "寧（ロ）為（ルトモ）〔二〕鶏口（ト）〔一〕、無（カレ）〔レ〕為（ル）〔二〕牛後（ト）〔一〕",
+     "answer": "寧ろ鶏口と為るとも、牛後と為る無かれ（大集団の後ろにつくより小集団の長となれ）",
+     "note": "『史記』蘇秦列伝"
+    },
+    {
+     "id": "kanbun-kundoku-baeb7b8e",
+     "level": 4,
+     "prompt": "天（ノ）将（ニ）〔レ〕降（サント）〔二〕大任（ヲ）於是（ノ）人（ニ）〔一〕也",
+     "answer": "天の将に大任を是の人に降さんとするや（天が重大な任務をある人に与えようとするときは）",
+     "note": "『孟子』告子下"
+    },
+    {
+     "id": "kanbun-kundoku-8662210a",
+     "level": 4,
+     "prompt": "学（ブコト）不〔レ〕可（カラ）〔二〕以（テ）已（ム）〔一〕",
+     "answer": "学は以て已むべからず（学問は途中でやめてはならない）",
+     "note": "『荀子』勧学"
+    },
+    {
+     "id": "kanbun-kundoku-f95f3e18",
+     "level": 4,
+     "prompt": "青（ハ）取（リテ）〔二〕之（ヲ）於藍（ヨリ）〔一〕、而青（シ）〔二〕於藍（ヨリモ）〔一〕",
+     "answer": "青は之を藍より取りて、藍よりも青し（弟子が師にまさることのたとえ）",
+     "note": "『荀子』勧学。出藍の誉れ"
+    },
+    {
+     "id": "kanbun-kundoku-9a79c17b",
+     "level": 5,
+     "prompt": "己（ノ）所（ハ）〔レ〕不（ル）〔レ〕欲（セ）、勿（カレ）〔レ〕施（ス）〔二〕於人（ニ）〔一〕",
+     "answer": "己の欲せざる所は、人に施すこと勿かれ（自分が望まないことを他人にしてはならない）",
+     "note": "『論語』衛霊公。恕"
+    },
+    {
+     "id": "kanbun-kundoku-e8c10d6f",
+     "level": 5,
+     "prompt": "知（ル）〔レ〕之（ヲ）者（ハ）不〔レ〕如（カ）〔二〕好（ム）〔レ〕之（ヲ）者（ニ）〔一〕",
+     "answer": "之を知る者は之を好む者に如かず（知っている者は好む者に及ばない）",
+     "note": "『論語』雍也"
+    }
+   ],
+   "description": "論語・孟子などの名句で返り点の読み方を練習",
+   "instruction": "次の漢文を書き下し、意味を答えよ。（縦書き・訓点付き）",
+   "kanbun": true
+  },
+  {
+   "id": "kanbun-jugo",
+   "title": "漢文重要語（読み・意味）",
+   "kind": "flash",
+   "items": [
+    {
+     "id": "kanbun-jugo-96f957f5",
+     "level": 1,
+     "prompt": "嘗",
+     "answer": "かつて：以前に・これまでに",
+     "note": "「嘗みる」＝こころみる"
+    },
+    {
+     "id": "kanbun-jugo-e78981d1",
+     "level": 1,
+     "prompt": "已・既",
+     "answer": "すでに：もう",
+     "note": "「已」は文末で「のみ」も"
+    },
+    {
+     "id": "kanbun-jugo-b517bc97",
+     "level": 1,
+     "prompt": "遂",
+     "answer": "つひに：そのまま・とうとう"
+    },
+    {
+     "id": "kanbun-jugo-8eb1e506",
+     "level": 1,
+     "prompt": "乃",
+     "answer": "すなはち：そこで・なんと",
+     "note": "意外・強調"
+    },
+    {
+     "id": "kanbun-jugo-3f279efe",
+     "level": 1,
+     "prompt": "即",
+     "answer": "すなはち：すぐに・つまり"
+    },
+    {
+     "id": "kanbun-jugo-c1be550b",
+     "level": 1,
+     "prompt": "則",
+     "answer": "すなはち：〜すれば・〜したときは（条件）",
+     "note": "「レバ則」"
+    },
+    {
+     "id": "kanbun-jugo-9af8b489",
+     "level": 1,
+     "prompt": "而",
+     "answer": "（置き字）／しかうして・しかるに",
+     "note": "順接・逆接"
+    },
+    {
+     "id": "kanbun-jugo-81c9a8ba",
+     "level": 1,
+     "prompt": "且",
+     "answer": "かつ：その上・しばらく",
+     "note": "再読文字「まさに〜す」"
+    },
+    {
+     "id": "kanbun-jugo-bf5cc68c",
+     "level": 1,
+     "prompt": "亦",
+     "answer": "また：〜もまた"
+    },
+    {
+     "id": "kanbun-jugo-8175f702",
+     "level": 1,
+     "prompt": "又",
+     "answer": "また：その上・さらに"
+    },
+    {
+     "id": "kanbun-jugo-a966251a",
+     "level": 1,
+     "prompt": "復",
+     "answer": "また：再び"
+    },
+    {
+     "id": "kanbun-jugo-51c78413",
+     "level": 1,
+     "prompt": "与",
+     "answer": "と・ともに・あたふ・くみす・や・か",
+     "note": "文脈で読み分け"
+    },
+    {
+     "id": "kanbun-jugo-f67987fa",
+     "level": 1,
+     "prompt": "故",
+     "answer": "ゆゑに：だから／もと：昔からの",
+     "note": "「故人」＝旧友"
+    },
+    {
+     "id": "kanbun-jugo-a9dd93bc",
+     "level": 1,
+     "prompt": "自",
+     "answer": "みづから／より／おのづから",
+     "note": "「自〜」起点は「より」"
+    },
+    {
+     "id": "kanbun-jugo-117af448",
+     "level": 2,
+     "prompt": "蓋",
+     "answer": "けだし：思うに・おそらく"
+    },
+    {
+     "id": "kanbun-jugo-46275bb0",
+     "level": 2,
+     "prompt": "寧",
+     "answer": "むしろ：いっそ／いづくんぞ：どうして"
+    },
+    {
+     "id": "kanbun-jugo-0376222b",
+     "level": 2,
+     "prompt": "尽",
+     "answer": "ことごとく：すべて"
+    },
+    {
+     "id": "kanbun-jugo-b90d79ba",
+     "level": 2,
+     "prompt": "具・備",
+     "answer": "つぶさに：詳しく・すべて"
+    },
+    {
+     "id": "kanbun-jugo-7594a928",
+     "level": 2,
+     "prompt": "俄",
+     "answer": "にはかに：急に"
+    },
+    {
+     "id": "kanbun-jugo-cb8442ec",
+     "level": 2,
+     "prompt": "偶",
+     "answer": "たまたま：偶然"
+    },
+    {
+     "id": "kanbun-jugo-0dadea0b",
+     "level": 2,
+     "prompt": "数",
+     "answer": "しばしば：たびたび",
+     "note": "「数（かず）」と区別"
+    },
+    {
+     "id": "kanbun-jugo-b8333e9e",
+     "level": 2,
+     "prompt": "頗",
+     "answer": "すこぶる：かなり・少し",
+     "note": "程度"
+    },
+    {
+     "id": "kanbun-jugo-ee0ae906",
+     "level": 2,
+     "prompt": "稍",
+     "answer": "やや：少し・だんだん"
+    },
+    {
+     "id": "kanbun-jugo-871830fe",
+     "level": 2,
+     "prompt": "少",
+     "answer": "すこしく／わかし：若い"
+    },
+    {
+     "id": "kanbun-jugo-9c771c4c",
+     "level": 2,
+     "prompt": "毎",
+     "answer": "つねに：いつも／〜ごとに"
+    },
+    {
+     "id": "kanbun-jugo-738ee319",
+     "level": 2,
+     "prompt": "方",
+     "answer": "まさに：ちょうど・今"
+    },
+    {
+     "id": "kanbun-jugo-51ee8635",
+     "level": 2,
+     "prompt": "抑",
+     "answer": "そもそも：いったい"
+    },
+    {
+     "id": "kanbun-jugo-b61d9f19",
+     "level": 2,
+     "prompt": "苟",
+     "answer": "いやしくも：かりにも"
+    },
+    {
+     "id": "kanbun-jugo-b3247c8d",
+     "level": 2,
+     "prompt": "縦・縦令",
+     "answer": "たとひ：たとえ〜としても"
+    },
+    {
+     "id": "kanbun-jugo-917ae03b",
+     "level": 2,
+     "prompt": "雖",
+     "answer": "いへども：〜だけれども・たとえ〜でも"
+    },
+    {
+     "id": "kanbun-jugo-974ee73d",
+     "level": 2,
+     "prompt": "若・如",
+     "answer": "ごとし／もし／しく",
+     "note": "比況・仮定・比較"
+    },
+    {
+     "id": "kanbun-jugo-4430e150",
+     "level": 2,
+     "prompt": "以",
+     "answer": "もつて：〜で・〜によって・〜を"
+    },
+    {
+     "id": "kanbun-jugo-55f5c8d7",
+     "level": 2,
+     "prompt": "於・于・乎",
+     "answer": "（置き字）：場所・対象・比較・受身を示す",
+     "note": "送り仮名「ニ・ヨリ・ヲ」で表す"
+    },
+    {
+     "id": "kanbun-jugo-cd404f28",
+     "level": 2,
+     "prompt": "焉・矣",
+     "answer": "（置き字）：断定・強調",
+     "note": "文末"
+    },
+    {
+     "id": "kanbun-jugo-c80c2191",
+     "level": 3,
+     "prompt": "所以",
+     "answer": "ゆゑん：理由・手段"
+    },
+    {
+     "id": "kanbun-jugo-ec51cd1e",
+     "level": 3,
+     "prompt": "以為",
+     "answer": "おもへらく：思うことには"
+    },
+    {
+     "id": "kanbun-jugo-5b2a524a",
+     "level": 3,
+     "prompt": "何遽",
+     "answer": "なんぞにはかに：どうして"
+    },
+    {
+     "id": "kanbun-jugo-ea69a82f",
+     "level": 3,
+     "prompt": "須臾",
+     "answer": "しゆゆ：しばらく・わずかの間"
+    },
+    {
+     "id": "kanbun-jugo-8086220d",
+     "level": 3,
+     "prompt": "寡人",
+     "answer": "かじん：王侯の自称（徳の少ない者）"
+    },
+    {
+     "id": "kanbun-jugo-d45e573c",
+     "level": 3,
+     "prompt": "夫子",
+     "answer": "ふうし：先生（孔子）"
+    },
+    {
+     "id": "kanbun-jugo-62f43119",
+     "level": 3,
+     "prompt": "君子",
+     "answer": "くんし：徳の高い立派な人",
+     "note": "対義語：小人"
+    },
+    {
+     "id": "kanbun-jugo-eca9fe7a",
+     "level": 3,
+     "prompt": "小人",
+     "answer": "しょうじん：徳のない、つまらない人"
+    },
+    {
+     "id": "kanbun-jugo-da763fac",
+     "level": 3,
+     "prompt": "百姓",
+     "answer": "ひやくせい：人民",
+     "note": "農民ではない"
+    },
+    {
+     "id": "kanbun-jugo-6387355c",
+     "level": 3,
+     "prompt": "人間",
+     "answer": "じんかん：世の中",
+     "note": "人ではない"
+    },
+    {
+     "id": "kanbun-jugo-36cf7ee8",
+     "level": 3,
+     "prompt": "故人",
+     "answer": "こじん：旧友・古くからの友",
+     "note": "死者の意ではない"
+    },
+    {
+     "id": "kanbun-jugo-444935be",
+     "level": 3,
+     "prompt": "左右",
+     "answer": "さいう：側近"
+    },
+    {
+     "id": "kanbun-jugo-6b52d2cc",
+     "level": 3,
+     "prompt": "天下",
+     "answer": "てんか：世の中・国家全体"
+    },
+    {
+     "id": "kanbun-jugo-e8045860",
+     "level": 3,
+     "prompt": "社稷",
+     "answer": "しやしよく：国家",
+     "note": "土地と穀物の神"
+    },
+    {
+     "id": "kanbun-jugo-263ac783",
+     "level": 3,
+     "prompt": "丈夫",
+     "answer": "ぢやうふ：立派な男子"
+    },
+    {
+     "id": "kanbun-jugo-7ef0fadb",
+     "level": 3,
+     "prompt": "字",
+     "answer": "あざな：成人後の呼び名"
+    },
+    {
+     "id": "kanbun-jugo-af8a01cf",
+     "level": 4,
+     "prompt": "卒",
+     "answer": "にはかに／つひに：急に／最後に",
+     "note": "「卒す」＝死ぬ"
+    },
+    {
+     "id": "kanbun-jugo-aa62cd2c",
+     "level": 4,
+     "prompt": "輒",
+     "answer": "すなはち：そのたびごとに・すぐに"
+    },
+    {
+     "id": "kanbun-jugo-dc2dfc42",
+     "level": 4,
+     "prompt": "便",
+     "answer": "すなはち：すぐに・たやすく"
+    },
+    {
+     "id": "kanbun-jugo-73fe8e8e",
+     "level": 4,
+     "prompt": "曾",
+     "answer": "かつて／すなはち",
+     "note": "「曾不」＝まったく〜ない"
+    },
+    {
+     "id": "kanbun-jugo-04b24251",
+     "level": 4,
+     "prompt": "宜",
+     "answer": "よろしく〜べし／うべなり：もっともだ"
+    },
+    {
+     "id": "kanbun-jugo-14baf835",
+     "level": 4,
+     "prompt": "益",
+     "answer": "ますます：いよいよ"
+    },
+    {
+     "id": "kanbun-jugo-7cdd4242",
+     "level": 4,
+     "prompt": "愈",
+     "answer": "いよいよ：ますます"
+    },
+    {
+     "id": "kanbun-jugo-10c360c3",
+     "level": 4,
+     "prompt": "適",
+     "answer": "たまたま：ちょうど"
+    },
+    {
+     "id": "kanbun-jugo-8b57bcd8",
+     "level": 4,
+     "prompt": "暫",
+     "answer": "しばらく：少しの間"
+    },
+    {
+     "id": "kanbun-jugo-b297e563",
+     "level": 4,
+     "prompt": "向",
+     "answer": "さきに：以前"
+    },
+    {
+     "id": "kanbun-jugo-971ed530",
+     "level": 4,
+     "prompt": "嚮",
+     "answer": "さきに：以前"
+    },
+    {
+     "id": "kanbun-jugo-775404f4",
+     "level": 4,
+     "prompt": "会",
+     "answer": "たまたま：ちょうど",
+     "note": "「会ふ」もあり"
+    },
+    {
+     "id": "kanbun-jugo-d86c7294",
+     "level": 4,
+     "prompt": "寤",
+     "answer": "さむ：目を覚ます"
+    },
+    {
+     "id": "kanbun-jugo-f6978a0e",
+     "level": 4,
+     "prompt": "説",
+     "answer": "よろこぶ：喜ぶ／とく",
+     "note": "「不亦説乎」"
+    },
+    {
+     "id": "kanbun-jugo-7058cc46",
+     "level": 5,
+     "prompt": "惟・維",
+     "answer": "これ：（強調）／ただ",
+     "note": "語調を整える"
+    },
+    {
+     "id": "kanbun-jugo-70485741",
+     "level": 5,
+     "prompt": "爾",
+     "answer": "なんぢ：おまえ／のみ／しかり"
+    },
+    {
+     "id": "kanbun-jugo-eb98d0f5",
+     "level": 5,
+     "prompt": "迺",
+     "answer": "すなはち：そこで"
+    },
+    {
+     "id": "kanbun-jugo-72d0b7ff",
+     "level": 5,
+     "prompt": "唯唯",
+     "answer": "いい：はいはい（承諾）"
+    },
+    {
+     "id": "kanbun-jugo-62a43cfb",
+     "level": 5,
+     "prompt": "幾何",
+     "answer": "いくばく：どれほど"
+    },
+    {
+     "id": "kanbun-jugo-a4fec661",
+     "level": 5,
+     "prompt": "奈何",
+     "answer": "いかんせん：どうしたらよいか"
+    },
+    {
+     "id": "kanbun-jugo-ca6d742d",
+     "level": 5,
+     "prompt": "所謂",
+     "answer": "いはゆる：世に言う"
+    },
+    {
+     "id": "kanbun-jugo-4a62aa00",
+     "level": 5,
+     "prompt": "孰若",
+     "answer": "いづれぞ：どちらがまさるか"
+    }
+   ],
+   "instruction": "次の語の読み（送り仮名を含む）と意味を答えよ。",
+   "writing": "horizontal"
+  }
+ ],
+ "lessons": [
+  {
+   "id": "lesson-kaeriten",
+   "title": "返り点と書き下しのきまり",
+   "level": 1,
+   "body": "<h2>返り点の種類</h2>\n<table>\n<tr><th>返り点</th><th>働き</th><th>例</th></tr>\n<tr><td>レ点</td><td>すぐ下の一字から一字上に返る</td><td>読レ書 → 書を読む</td></tr>\n<tr><td>一・二（・三）点</td><td>二字以上離れて上に返る（一→二→三の順）</td><td>有二朋自遠方一 → 遠方より</td></tr>\n<tr><td>上・（中・）下点</td><td>一二点をはさんでさらに返る</td><td>一二点を含む句全体から返る</td></tr>\n<tr><td>甲・乙・丙点</td><td>上下点をはさんでさらに返る</td><td>まれ</td></tr>\n<tr><td>一レ点・上レ点</td><td>レ点で一字返ってから一点・上点の働き</td><td>為二人所一レ笑 → 人の笑ふ所と為る</td></tr>\n</table>\n<h2>書き下し文のきまり</h2>\n<ul>\n<li>歴史的仮名遣いで、漢字仮名交じり文にする。</li>\n<li>送り仮名はひらがなに直す。</li>\n<li>日本語の助詞・助動詞にあたる字はひらがなに直す（不→ず、可→べし、也→なり、乎→や・か、之→の（主格・連体））。</li>\n<li><b>置き字</b>（而・於・于・乎・焉・矣・兮 など）は書き下さない。</li>\n<li>再読文字は一度目を漢字＋送り仮名、二度目をひらがなで書く（未→未だ〜ず）。</li>\n</ul>\n<h2>再読文字一覧</h2>\n<table>\n<tr><th>字</th><th>読み</th><th>意味</th></tr>\n<tr><td>未</td><td>いまだ〜ず</td><td>まだ〜ない</td></tr>\n<tr><td>将・且</td><td>まさに〜んとす</td><td>今にも〜しようとする</td></tr>\n<tr><td>当</td><td>まさに〜べし</td><td>当然〜すべきだ</td></tr>\n<tr><td>応</td><td>まさに〜べし</td><td>きっと〜だろう</td></tr>\n<tr><td>宜</td><td>よろしく〜べし</td><td>〜するのがよい</td></tr>\n<tr><td>須</td><td>すべからく〜べし</td><td>ぜひ〜する必要がある</td></tr>\n<tr><td>猶・由</td><td>なほ〜のごとし</td><td>ちょうど〜のようだ</td></tr>\n<tr><td>盍</td><td>なんぞ〜ざる</td><td>どうして〜しないのか</td></tr>\n</table>"
+  }
+ ]
 }

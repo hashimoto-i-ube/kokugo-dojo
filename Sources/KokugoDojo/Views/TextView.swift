@@ -71,10 +71,10 @@ struct JapaneseTextView: NSViewRepresentable {
              text-align:center; font-size:.7em; color:var(--sub); font-family:-apple-system,sans-serif; margin:0 .2em; }
     body.vertical .blank { text-combine-upright: all; }
     body.kanbun { line-height:2.8; letter-spacing:.15em; }
-    .kb { position:relative; display:inline-block; }
-    .kb .okuri { position:absolute; top:.55em; left:100%; font-size:.48em; line-height:1.05; white-space:nowrap; letter-spacing:0;
+    .kb { position:relative; display:inline-block; line-height:1; letter-spacing:0; margin-block:0; margin-bottom:.15em; }
+    .kb .okuri { position:absolute; top:.6em; left:100%; margin-left:.05em; font-size:.48em; line-height:1.05; white-space:nowrap; letter-spacing:0;
                  font-family:"Hiragino Kaku Gothic ProN", sans-serif; }
-    .kb .kaeri { position:absolute; top:.6em; right:100%; font-size:.45em; line-height:1; white-space:nowrap; letter-spacing:0;
+    .kb .kaeri { position:absolute; top:.78em; right:100%; margin-right:.05em; font-size:.45em; line-height:1; white-space:nowrap; letter-spacing:0;
                  font-family:"Hiragino Kaku Gothic ProN", sans-serif; }
     table { border-collapse:collapse; margin:.6em 0; font-size:.85em; }
     th, td { border:1px solid var(--line); padding:.25em .55em; vertical-align:top; }
