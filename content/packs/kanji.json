@@ -1,0 +1,2935 @@
+{
+ "schemaVersion": 1,
+ "id": "kanji",
+ "subject": "kanji",
+ "title": "漢字",
+ "version": "2026.10.22",
+ "curriculum": "H30",
+ "decks": [
+  {
+   "id": "kanji-read",
+   "title": "漢字の読み",
+   "kind": "flash",
+   "items": [
+    {
+     "id": "kanji-read-a767e37e",
+     "level": 1,
+     "prompt": "心が[[穏]]やかになる",
+     "answer": "おだ",
+     "note": "穏和・平穏"
+    },
+    {
+     "id": "kanji-read-27b6c74f",
+     "level": 1,
+     "prompt": "突然の知らせに[[慌]]てる",
+     "answer": "あわ",
+     "note": "恐慌の「慌」"
+    },
+    {
+     "id": "kanji-read-c4a0a3ea",
+     "level": 1,
+     "prompt": "甘い香りが[[漂]]う",
+     "answer": "ただよ",
+     "note": "漂流・漂白"
+    },
+    {
+     "id": "kanji-read-cd35734d",
+     "level": 1,
+     "prompt": "両者の意見を[[比較]]する",
+     "answer": "ひかく"
+    },
+    {
+     "id": "kanji-read-5bbf4c74",
+     "level": 1,
+     "prompt": "新しい環境に[[慣]]れる",
+     "answer": "な",
+     "note": "慣習・習慣"
+    },
+    {
+     "id": "kanji-read-bb9f2b4f",
+     "level": 1,
+     "prompt": "子どもを[[叱]]る",
+     "answer": "しか",
+     "note": "叱責"
+    },
+    {
+     "id": "kanji-read-ac1c696f",
+     "level": 1,
+     "prompt": "先生の話に[[耳を傾]]ける",
+     "answer": "みみをかたむ",
+     "note": "傾聴"
+    },
+    {
+     "id": "kanji-read-e95175b4",
+     "level": 1,
+     "prompt": "大会の[[趣旨]]を説明する",
+     "answer": "しゅし",
+     "note": "趣＝おもむき"
+    },
+    {
+     "id": "kanji-read-6e3fdebc",
+     "level": 1,
+     "prompt": "[[伺]]いを立てる",
+     "answer": "うかが",
+     "note": "「聞く・訪ねる」の謙譲語"
+    },
+    {
+     "id": "kanji-read-ae86ac40",
+     "level": 1,
+     "prompt": "雨が[[絶]]え間なく降る",
+     "answer": "た"
+    },
+    {
+     "id": "kanji-read-2e3b7af1",
+     "level": 1,
+     "prompt": "仕事を[[怠]]る",
+     "answer": "おこた",
+     "note": "怠慢"
+    },
+    {
+     "id": "kanji-read-49f40b59",
+     "level": 1,
+     "prompt": "寒さに[[震]]える",
+     "answer": "ふる",
+     "note": "地震・震撼"
+    },
+    {
+     "id": "kanji-read-53ba11d1",
+     "level": 1,
+     "prompt": "責任を[[免]]れる",
+     "answer": "まぬか",
+     "note": "「まぬが」とも。免除"
+    },
+    {
+     "id": "kanji-read-267fe8af",
+     "level": 1,
+     "prompt": "事故を[[未然]]に防ぐ",
+     "answer": "みぜん",
+     "note": "まだそうなっていない段階"
+    },
+    {
+     "id": "kanji-read-ec887c05",
+     "level": 1,
+     "prompt": "人々の[[賛否]]が分かれる",
+     "answer": "さんぴ"
+    },
+    {
+     "id": "kanji-read-0955735a",
+     "level": 1,
+     "prompt": "[[率直]]な意見を述べる",
+     "answer": "そっちょく"
+    },
+    {
+     "id": "kanji-read-73e1fd5e",
+     "level": 1,
+     "prompt": "手紙を[[添]]える",
+     "answer": "そ",
+     "note": "添付・添加"
+    },
+    {
+     "id": "kanji-read-de04eb8b",
+     "level": 1,
+     "prompt": "実力を[[発揮]]する",
+     "answer": "はっき",
+     "note": "揮＝ふるう"
+    },
+    {
+     "id": "kanji-read-5e178330",
+     "level": 1,
+     "prompt": "[[頻繁]]に連絡を取る",
+     "answer": "ひんぱん"
+    },
+    {
+     "id": "kanji-read-31543569",
+     "level": 1,
+     "prompt": "話の[[腰]]を折る",
+     "answer": "こし"
+    },
+    {
+     "id": "kanji-read-032f6099",
+     "level": 1,
+     "prompt": "[[著]]しい成長を遂げる",
+     "answer": "いちじる",
+     "note": "顕著"
+    },
+    {
+     "id": "kanji-read-38db1957",
+     "level": 1,
+     "prompt": "計画を[[遂]]げる",
+     "answer": "と",
+     "note": "遂行"
+    },
+    {
+     "id": "kanji-read-2cede6a1",
+     "level": 1,
+     "prompt": "本を[[貸]]し借りする",
+     "answer": "か"
+    },
+    {
+     "id": "kanji-read-c0dbaca5",
+     "level": 1,
+     "prompt": "敵の[[襲]]来に備える",
+     "answer": "しゅう",
+     "note": "襲撃・世襲"
+    },
+    {
+     "id": "kanji-read-a6dbed83",
+     "level": 1,
+     "prompt": "祖父の[[遺言]]を守る",
+     "answer": "ゆいごん",
+     "note": "法律用語では「いごん」"
+    },
+    {
+     "id": "kanji-read-d9b0cea2",
+     "level": 2,
+     "prompt": "計画を[[遂行]]する",
+     "answer": "すいこう"
+    },
+    {
+     "id": "kanji-read-02eafa80",
+     "level": 2,
+     "prompt": "適切な[[措置]]を講じる",
+     "answer": "そち"
+    },
+    {
+     "id": "kanji-read-0cc0e344",
+     "level": 2,
+     "prompt": "[[漸次]]改善していく",
+     "answer": "ぜんじ",
+     "note": "だんだん・次第に"
+    },
+    {
+     "id": "kanji-read-19d8ddbd",
+     "level": 2,
+     "prompt": "規則を[[遵守]]する",
+     "answer": "じゅんしゅ",
+     "note": "「順守」とも書く"
+    },
+    {
+     "id": "kanji-read-6972a88f",
+     "level": 2,
+     "prompt": "古い慣習に[[拘泥]]する",
+     "answer": "こうでい",
+     "note": "こだわること"
+    },
+    {
+     "id": "kanji-read-d79dc8d1",
+     "level": 2,
+     "prompt": "[[脆弱]]な基盤",
+     "answer": "ぜいじゃく",
+     "note": "もろくて弱い"
+    },
+    {
+     "id": "kanji-read-fe58b2ff",
+     "level": 2,
+     "prompt": "書類の[[体裁]]を整える",
+     "answer": "ていさい"
+    },
+    {
+     "id": "kanji-read-5fe1a721",
+     "level": 2,
+     "prompt": "[[相殺]]される",
+     "answer": "そうさい"
+    },
+    {
+     "id": "kanji-read-ed5cbb19",
+     "level": 2,
+     "prompt": "費用を[[賄]]う",
+     "answer": "まかな",
+     "note": "賄賂"
+    },
+    {
+     "id": "kanji-read-809e36fa",
+     "level": 2,
+     "prompt": "[[凡例]]を参照する",
+     "answer": "はんれい",
+     "note": "書物の初めの使い方の説明"
+    },
+    {
+     "id": "kanji-read-cbd8eb34",
+     "level": 2,
+     "prompt": "[[逐次]]報告する",
+     "answer": "ちくじ",
+     "note": "順を追って一つずつ"
+    },
+    {
+     "id": "kanji-read-9efbe6ae",
+     "level": 2,
+     "prompt": "[[境内]]を散策する",
+     "answer": "けいだい",
+     "note": "寺社の敷地"
+    },
+    {
+     "id": "kanji-read-dd122fe7",
+     "level": 2,
+     "prompt": "[[老舗]]の旅館",
+     "answer": "しにせ"
+    },
+    {
+     "id": "kanji-read-d25967ae",
+     "level": 2,
+     "prompt": "予算を[[捻出]]する",
+     "answer": "ねんしゅつ"
+    },
+    {
+     "id": "kanji-read-b8c649a6",
+     "level": 2,
+     "prompt": "[[破綻]]をきたす",
+     "answer": "はたん"
+    },
+    {
+     "id": "kanji-read-5152d6fd",
+     "level": 2,
+     "prompt": "権利を[[剥奪]]する",
+     "answer": "はくだつ"
+    },
+    {
+     "id": "kanji-read-83c489e6",
+     "level": 2,
+     "prompt": "社会の[[趨勢]]を見る",
+     "answer": "すうせい",
+     "note": "成り行き・傾向"
+    },
+    {
+     "id": "kanji-read-5031a039",
+     "level": 2,
+     "prompt": "[[漏洩]]を防ぐ",
+     "answer": "ろうえい",
+     "note": "「ろうせつ」は慣用読み"
+    },
+    {
+     "id": "kanji-read-6456604f",
+     "level": 2,
+     "prompt": "部下を[[労]]う",
+     "answer": "ねぎら"
+    },
+    {
+     "id": "kanji-read-d79e3539",
+     "level": 2,
+     "prompt": "説明を[[端折]]る",
+     "answer": "はしょ"
+    },
+    {
+     "id": "kanji-read-66a58e39",
+     "level": 2,
+     "prompt": "[[喪失]]感に襲われる",
+     "answer": "そうしつ"
+    },
+    {
+     "id": "kanji-read-382a73fb",
+     "level": 2,
+     "prompt": "[[緩慢]]な動作",
+     "answer": "かんまん"
+    },
+    {
+     "id": "kanji-read-d66c5218",
+     "level": 2,
+     "prompt": "[[逸脱]]した行為",
+     "answer": "いつだつ"
+    },
+    {
+     "id": "kanji-read-5d7c9f53",
+     "level": 2,
+     "prompt": "[[曖昧]]な態度",
+     "answer": "あいまい"
+    },
+    {
+     "id": "kanji-read-155d8319",
+     "level": 2,
+     "prompt": "[[懸念]]を示す",
+     "answer": "けねん"
+    },
+    {
+     "id": "kanji-read-380c64aa",
+     "level": 2,
+     "prompt": "[[既]]に終わった",
+     "answer": "すで",
+     "note": "既存・既成"
+    },
+    {
+     "id": "kanji-read-7b626180",
+     "level": 2,
+     "prompt": "罪を[[償]]う",
+     "answer": "つぐな",
+     "note": "賠償・補償"
+    },
+    {
+     "id": "kanji-read-0bdc6432",
+     "level": 2,
+     "prompt": "敵を[[欺]]く",
+     "answer": "あざむ",
+     "note": "詐欺"
+    },
+    {
+     "id": "kanji-read-581621f4",
+     "level": 2,
+     "prompt": "[[潔]]く負けを認める",
+     "answer": "いさぎよ",
+     "note": "潔白"
+    },
+    {
+     "id": "kanji-read-cd09439c",
+     "level": 2,
+     "prompt": "機会を[[窺]]う",
+     "answer": "うかが",
+     "note": "「様子をみる」意"
+    },
+    {
+     "id": "kanji-read-477fe4c2",
+     "level": 2,
+     "prompt": "[[疎]]かにする",
+     "answer": "おろそ",
+     "note": "疎遠"
+    },
+    {
+     "id": "kanji-read-380c4619",
+     "level": 2,
+     "prompt": "他人を[[蔑]]む",
+     "answer": "さげす",
+     "note": "軽蔑"
+    },
+    {
+     "id": "kanji-read-3617993d",
+     "level": 2,
+     "prompt": "[[専]]ら読書をする",
+     "answer": "もっぱ"
+    },
+    {
+     "id": "kanji-read-a46ad6b2",
+     "level": 2,
+     "prompt": "鋭い[[洞察]]",
+     "answer": "どうさつ"
+    },
+    {
+     "id": "kanji-read-9e3130ab",
+     "level": 2,
+     "prompt": "[[概念]]を規定する",
+     "answer": "がいねん"
+    },
+    {
+     "id": "kanji-read-ef635cab",
+     "level": 3,
+     "prompt": "[[恣意]]的な解釈",
+     "answer": "しい",
+     "note": "思うまま・勝手"
+    },
+    {
+     "id": "kanji-read-bb809f75",
+     "level": 3,
+     "prompt": "説明を[[敷衍]]する",
+     "answer": "ふえん",
+     "note": "意味を押し広げて詳しく述べる"
+    },
+    {
+     "id": "kanji-read-3001485b",
+     "level": 3,
+     "prompt": "政治を[[揶揄]]する",
+     "answer": "やゆ",
+     "note": "からかうこと"
+    },
+    {
+     "id": "kanji-read-0e7e2996",
+     "level": 3,
+     "prompt": "[[夙]]に知られている",
+     "answer": "つと",
+     "note": "早くから"
+    },
+    {
+     "id": "kanji-read-98bd631a",
+     "level": 3,
+     "prompt": "戦争の[[惨禍]]",
+     "answer": "さんか"
+    },
+    {
+     "id": "kanji-read-13a33192",
+     "level": 3,
+     "prompt": "[[乖離]]が生じる",
+     "answer": "かいり",
+     "note": "そむき離れること"
+    },
+    {
+     "id": "kanji-read-1ed866d4",
+     "level": 3,
+     "prompt": "[[陥穽]]にはまる",
+     "answer": "かんせい",
+     "note": "落とし穴"
+    },
+    {
+     "id": "kanji-read-0fa7181a",
+     "level": 3,
+     "prompt": "[[瑣末]]な問題",
+     "answer": "さまつ",
+     "note": "「些末」とも"
+    },
+    {
+     "id": "kanji-read-feed41b1",
+     "level": 3,
+     "prompt": "国家の[[礎]]",
+     "answer": "いしずえ"
+    },
+    {
+     "id": "kanji-read-2e34493d",
+     "level": 3,
+     "prompt": "[[如実]]に示す",
+     "answer": "にょじつ",
+     "note": "ありのまま"
+    },
+    {
+     "id": "kanji-read-394a0b9c",
+     "level": 3,
+     "prompt": "[[会得]]する",
+     "answer": "えとく"
+    },
+    {
+     "id": "kanji-read-818d4156",
+     "level": 3,
+     "prompt": "[[建立]]された寺",
+     "answer": "こんりゅう"
+    },
+    {
+     "id": "kanji-read-199d8b58",
+     "level": 3,
+     "prompt": "[[成就]]する",
+     "answer": "じょうじゅ"
+    },
+    {
+     "id": "kanji-read-098342d4",
+     "level": 3,
+     "prompt": "[[解熱]]剤",
+     "answer": "げねつ"
+    },
+    {
+     "id": "kanji-read-d85e4691",
+     "level": 3,
+     "prompt": "[[静謐]]な空間",
+     "answer": "せいひつ",
+     "note": "静かで落ち着いている"
+    },
+    {
+     "id": "kanji-read-b06850f1",
+     "level": 3,
+     "prompt": "[[示唆]]に富む",
+     "answer": "しさ"
+    },
+    {
+     "id": "kanji-read-9ec87cd4",
+     "level": 3,
+     "prompt": "[[一瞥]]する",
+     "answer": "いちべつ",
+     "note": "ちらっと見る"
+    },
+    {
+     "id": "kanji-read-dd8d8ed0",
+     "level": 3,
+     "prompt": "古典を[[繙]]く",
+     "answer": "ひもと",
+     "note": "「紐解く」とも"
+    },
+    {
+     "id": "kanji-read-7cbf9ec4",
+     "level": 3,
+     "prompt": "相手を[[唆]]す",
+     "answer": "そそのか",
+     "note": "示唆"
+    },
+    {
+     "id": "kanji-read-82e6985d",
+     "level": 3,
+     "prompt": "[[嘱託]]社員",
+     "answer": "しょくたく"
+    },
+    {
+     "id": "kanji-read-4acce991",
+     "level": 3,
+     "prompt": "[[便宜]]を図る",
+     "answer": "べんぎ"
+    },
+    {
+     "id": "kanji-read-55609ff8",
+     "level": 3,
+     "prompt": "[[反故]]にする",
+     "answer": "ほご",
+     "note": "「反古」とも"
+    },
+    {
+     "id": "kanji-read-93a13d71",
+     "level": 3,
+     "prompt": "将来を[[嘱望]]される",
+     "answer": "しょくぼう"
+    },
+    {
+     "id": "kanji-read-496e355f",
+     "level": 3,
+     "prompt": "[[固唾]]をのむ",
+     "answer": "かたず"
+    },
+    {
+     "id": "kanji-read-e3b78d3d",
+     "level": 3,
+     "prompt": "秩序を[[紊]]す",
+     "answer": "みだ",
+     "note": "紊乱（びんらん・ぶんらん）"
+    },
+    {
+     "id": "kanji-read-f7609fba",
+     "level": 3,
+     "prompt": "[[吝嗇]]な人",
+     "answer": "りんしょく",
+     "note": "けち"
+    },
+    {
+     "id": "kanji-read-e049cd9f",
+     "level": 3,
+     "prompt": "事情を[[斟酌]]する",
+     "answer": "しんしゃく",
+     "note": "汲み取って手加減する"
+    },
+    {
+     "id": "kanji-read-89c3c4e2",
+     "level": 3,
+     "prompt": "論理の[[齟齬]]",
+     "answer": "そご",
+     "note": "食い違い"
+    },
+    {
+     "id": "kanji-read-6e1aab82",
+     "level": 3,
+     "prompt": "[[偏]]に努力のおかげだ",
+     "answer": "ひとえ"
+    },
+    {
+     "id": "kanji-read-7eb41c92",
+     "level": 3,
+     "prompt": "[[漸]]く完成した",
+     "answer": "ようや",
+     "note": "漸次"
+    },
+    {
+     "id": "kanji-read-5627c051",
+     "level": 3,
+     "prompt": "[[殊]]に優れている",
+     "answer": "こと",
+     "note": "特殊"
+    },
+    {
+     "id": "kanji-read-ad326717",
+     "level": 3,
+     "prompt": "[[自]]ずから明らかになる",
+     "answer": "おの",
+     "note": "「おのずから」"
+    },
+    {
+     "id": "kanji-read-4ddb80ce",
+     "level": 3,
+     "prompt": "罪を[[贖]]う",
+     "answer": "あがな",
+     "note": "贖罪"
+    },
+    {
+     "id": "kanji-read-f0bd098b",
+     "level": 3,
+     "prompt": "[[為替]]相場",
+     "answer": "かわせ"
+    },
+    {
+     "id": "kanji-read-d5fa76c2",
+     "level": 3,
+     "prompt": "情報の[[真贋]]",
+     "answer": "しんがん",
+     "note": "本物と偽物"
+    },
+    {
+     "id": "kanji-read-7222e8dc",
+     "level": 3,
+     "prompt": "内容の[[瑕疵]]",
+     "answer": "かし",
+     "note": "きず・欠点（法律用語）"
+    },
+    {
+     "id": "kanji-read-756433ea",
+     "level": 3,
+     "prompt": "[[忖度]]する",
+     "answer": "そんたく",
+     "note": "他人の心を推し量る"
+    },
+    {
+     "id": "kanji-read-08c31019",
+     "level": 3,
+     "prompt": "[[訥弁]]",
+     "answer": "とつべん",
+     "note": "口下手。対義語は能弁"
+    },
+    {
+     "id": "kanji-read-303d138b",
+     "level": 3,
+     "prompt": "[[凌駕]]する",
+     "answer": "りょうが",
+     "note": "他をしのいで上に出る"
+    },
+    {
+     "id": "kanji-read-30c7f203",
+     "level": 3,
+     "prompt": "[[逡巡]]する",
+     "answer": "しゅんじゅん",
+     "note": "ためらう"
+    },
+    {
+     "id": "kanji-read-f44c1af8",
+     "level": 3,
+     "prompt": "[[払拭]]する",
+     "answer": "ふっしょく"
+    },
+    {
+     "id": "kanji-read-73fe15a3",
+     "level": 3,
+     "prompt": "[[諧謔]]を弄する",
+     "answer": "かいぎゃく",
+     "note": "気の利いた冗談"
+    },
+    {
+     "id": "kanji-read-d3459b57",
+     "level": 4,
+     "prompt": "[[韜晦]]する",
+     "answer": "とうかい",
+     "note": "才能・本心を包み隠す"
+    },
+    {
+     "id": "kanji-read-55a972ed",
+     "level": 4,
+     "prompt": "[[嚆矢]]とする",
+     "answer": "こうし",
+     "note": "物事の始まり（かぶら矢の意）"
+    },
+    {
+     "id": "kanji-read-9abc9220",
+     "level": 4,
+     "prompt": "[[蹉跌]]をきたす",
+     "answer": "さてつ",
+     "note": "つまずき・挫折"
+    },
+    {
+     "id": "kanji-read-0e228568",
+     "level": 4,
+     "prompt": "悪党が[[跋扈]]する",
+     "answer": "ばっこ",
+     "note": "のさばる"
+    },
+    {
+     "id": "kanji-read-842c0339",
+     "level": 4,
+     "prompt": "不正を[[剔抉]]する",
+     "answer": "てっけつ",
+     "note": "あばき出す"
+    },
+    {
+     "id": "kanji-read-6ed82da4",
+     "level": 4,
+     "prompt": "出馬を[[慫慂]]する",
+     "answer": "しょうよう",
+     "note": "誘いすすめる"
+    },
+    {
+     "id": "kanji-read-965906d8",
+     "level": 4,
+     "prompt": "景気が[[逼迫]]する",
+     "answer": "ひっぱく"
+    },
+    {
+     "id": "kanji-read-5bd4139c",
+     "level": 4,
+     "prompt": "[[闊達]]な人柄",
+     "answer": "かったつ",
+     "note": "度量が広く小事にこだわらない"
+    },
+    {
+     "id": "kanji-read-99c37409",
+     "level": 4,
+     "prompt": "師に[[私淑]]する",
+     "answer": "ししょく",
+     "note": "直接教わらないが模範として学ぶ"
+    },
+    {
+     "id": "kanji-read-0950d766",
+     "level": 4,
+     "prompt": "旧弊を[[刷新]]する",
+     "answer": "さっしん"
+    },
+    {
+     "id": "kanji-read-3c25d8f6",
+     "level": 4,
+     "prompt": "[[膾炙]]する",
+     "answer": "かいしゃ",
+     "note": "「人口に膾炙する」＝広く知れ渡る"
+    },
+    {
+     "id": "kanji-read-42bdcd62",
+     "level": 4,
+     "prompt": "[[揺籃]]の地",
+     "answer": "ようらん",
+     "note": "ゆりかご→物事の発展の初期"
+    },
+    {
+     "id": "kanji-read-ee3f93a9",
+     "level": 4,
+     "prompt": "[[箴言]]",
+     "answer": "しんげん",
+     "note": "戒めとなる短い言葉"
+    },
+    {
+     "id": "kanji-read-ba7501d2",
+     "level": 4,
+     "prompt": "[[衒学]]的",
+     "answer": "げんがく",
+     "note": "学識をひけらかす"
+    },
+    {
+     "id": "kanji-read-91c05d1e",
+     "level": 4,
+     "prompt": "[[杞憂]]に終わる",
+     "answer": "きゆう",
+     "note": "取り越し苦労"
+    },
+    {
+     "id": "kanji-read-fa76fc2e",
+     "level": 4,
+     "prompt": "[[畢竟]]",
+     "answer": "ひっきょう",
+     "note": "つまるところ"
+    },
+    {
+     "id": "kanji-read-41663411",
+     "level": 4,
+     "prompt": "[[就中]]",
+     "answer": "なかんずく",
+     "note": "とりわけ"
+    },
+    {
+     "id": "kanji-read-4f9f47eb",
+     "level": 4,
+     "prompt": "[[蓋]]し名言である",
+     "answer": "けだ",
+     "note": "思うに・確かに"
+    },
+    {
+     "id": "kanji-read-bc686440",
+     "level": 4,
+     "prompt": "[[論駁]]する",
+     "answer": "ろんばく",
+     "note": "反論して攻撃する"
+    },
+    {
+     "id": "kanji-read-ad113e80",
+     "level": 4,
+     "prompt": "[[逓減]]する",
+     "answer": "ていげん",
+     "note": "次第に減る"
+    },
+    {
+     "id": "kanji-read-f8ce9db3",
+     "level": 4,
+     "prompt": "[[頒布]]する",
+     "answer": "はんぷ",
+     "note": "広く配る"
+    },
+    {
+     "id": "kanji-read-af84de5c",
+     "level": 4,
+     "prompt": "[[恬淡]]とした態度",
+     "answer": "てんたん",
+     "note": "無欲であっさりしている"
+    },
+    {
+     "id": "kanji-read-a2b4f4f4",
+     "level": 4,
+     "prompt": "[[鷹揚]]に構える",
+     "answer": "おうよう",
+     "note": "ゆったりと落ち着いている"
+    },
+    {
+     "id": "kanji-read-745e25c4",
+     "level": 4,
+     "prompt": "[[伝播]]する",
+     "answer": "でんぱ",
+     "note": "「でんぱん」は誤読"
+    },
+    {
+     "id": "kanji-read-f473b437",
+     "level": 4,
+     "prompt": "[[凋落]]する",
+     "answer": "ちょうらく",
+     "note": "おちぶれる"
+    },
+    {
+     "id": "kanji-read-d7fa325a",
+     "level": 4,
+     "prompt": "[[矜持]]を保つ",
+     "answer": "きょうじ",
+     "note": "「きんじ」は慣用読み"
+    },
+    {
+     "id": "kanji-read-2d1fe958",
+     "level": 4,
+     "prompt": "[[直截]]な表現",
+     "answer": "ちょくせつ",
+     "note": "「ちょくさい」は慣用読み"
+    },
+    {
+     "id": "kanji-read-cf5a268e",
+     "level": 4,
+     "prompt": "[[遊説]]する",
+     "answer": "ゆうぜい"
+    },
+    {
+     "id": "kanji-read-01d940a1",
+     "level": 4,
+     "prompt": "証言を[[翻]]す",
+     "answer": "ひるがえ"
+    },
+    {
+     "id": "kanji-read-00afce83",
+     "level": 4,
+     "prompt": "[[徐]]に立ち上がる",
+     "answer": "おもむろ",
+     "note": "ゆっくりと（「不意に」は誤用）"
+    },
+    {
+     "id": "kanji-read-76bcd4b4",
+     "level": 4,
+     "prompt": "[[俄]]には信じがたい",
+     "answer": "にわか"
+    },
+    {
+     "id": "kanji-read-44b3ed78",
+     "level": 4,
+     "prompt": "[[強]]ち間違いではない",
+     "answer": "あなが",
+     "note": "「あながち」"
+    },
+    {
+     "id": "kanji-read-da1b6fbf",
+     "level": 4,
+     "prompt": "他人の欠点を[[論]]う",
+     "answer": "あげつら",
+     "note": "「論う」＝あれこれ言い立てる"
+    },
+    {
+     "id": "kanji-read-732b208b",
+     "level": 4,
+     "prompt": "[[恭]]しく礼をする",
+     "answer": "うやうや"
+    },
+    {
+     "id": "kanji-read-435c416d",
+     "level": 4,
+     "prompt": "[[誑]]かす",
+     "answer": "たぶら",
+     "note": "だます"
+    },
+    {
+     "id": "kanji-read-cd2d4828",
+     "level": 4,
+     "prompt": "手を[[拱]]く",
+     "answer": "こまね",
+     "note": "「こまぬく」とも"
+    },
+    {
+     "id": "kanji-read-63f234a8",
+     "level": 4,
+     "prompt": "[[逆鱗]]に触れる",
+     "answer": "げきりん"
+    },
+    {
+     "id": "kanji-read-b74bd5d7",
+     "level": 4,
+     "prompt": "[[行灯]]",
+     "answer": "あんどん"
+    },
+    {
+     "id": "kanji-read-2d8f0b3b",
+     "level": 4,
+     "prompt": "[[暖簾]]",
+     "answer": "のれん"
+    },
+    {
+     "id": "kanji-read-f4eaf666",
+     "level": 4,
+     "prompt": "[[言質]]を取る",
+     "answer": "げんち",
+     "note": "「げんしつ」は誤読"
+    },
+    {
+     "id": "kanji-read-a8f01832",
+     "level": 4,
+     "prompt": "[[相好]]を崩す",
+     "answer": "そうごう",
+     "note": "顔つき"
+    },
+    {
+     "id": "kanji-read-cff64720",
+     "level": 4,
+     "prompt": "[[知悉]]する",
+     "answer": "ちしつ",
+     "note": "知り尽くす"
+    },
+    {
+     "id": "kanji-read-5362c1af",
+     "level": 4,
+     "prompt": "[[瀟洒]]な建物",
+     "answer": "しょうしゃ",
+     "note": "すっきりとあか抜けている"
+    },
+    {
+     "id": "kanji-read-8c4b1a72",
+     "level": 4,
+     "prompt": "[[剽窃]]",
+     "answer": "ひょうせつ",
+     "note": "盗用"
+    },
+    {
+     "id": "kanji-read-5ded45e7",
+     "level": 4,
+     "prompt": "[[蘊蓄]]を傾ける",
+     "answer": "うんちく"
+    },
+    {
+     "id": "kanji-read-655111de",
+     "level": 5,
+     "prompt": "[[揣摩]]臆測",
+     "answer": "しま",
+     "note": "当て推量"
+    },
+    {
+     "id": "kanji-read-703403aa",
+     "level": 5,
+     "prompt": "[[鞭撻]]",
+     "answer": "べんたつ",
+     "note": "励ますこと"
+    },
+    {
+     "id": "kanji-read-e2ff240f",
+     "level": 5,
+     "prompt": "[[逼塞]]する",
+     "answer": "ひっそく",
+     "note": "落ちぶれて世間から隠れる"
+    },
+    {
+     "id": "kanji-read-39c17cb1",
+     "level": 5,
+     "prompt": "[[跼蹐]]",
+     "answer": "きょくせき",
+     "note": "肩身を狭くして暮らす"
+    },
+    {
+     "id": "kanji-read-97406d03",
+     "level": 5,
+     "prompt": "[[狷介]]な性格",
+     "answer": "けんかい",
+     "note": "頑固で人と相いれない"
+    },
+    {
+     "id": "kanji-read-a333eeb1",
+     "level": 5,
+     "prompt": "[[蒙昧]]",
+     "answer": "もうまい",
+     "note": "道理に暗い。啓蒙"
+    },
+    {
+     "id": "kanji-read-23f74bd4",
+     "level": 5,
+     "prompt": "[[擱筆]]する",
+     "answer": "かくひつ",
+     "note": "筆を置く。対義語は起筆"
+    },
+    {
+     "id": "kanji-read-5dfd01fb",
+     "level": 5,
+     "prompt": "[[蟄居]]",
+     "answer": "ちっきょ",
+     "note": "家にこもって外出しない"
+    },
+    {
+     "id": "kanji-read-4606969d",
+     "level": 5,
+     "prompt": "[[訝]]しむ",
+     "answer": "いぶか"
+    },
+    {
+     "id": "kanji-read-02916c2b",
+     "level": 5,
+     "prompt": "[[嘯]]く",
+     "answer": "うそぶ",
+     "note": "とぼけて知らないふりをする・大言する"
+    },
+    {
+     "id": "kanji-read-4db25483",
+     "level": 5,
+     "prompt": "百聞は一見に[[如]]かず",
+     "answer": "し",
+     "note": "「如かず」＝及ばない"
+    },
+    {
+     "id": "kanji-read-fd623082",
+     "level": 5,
+     "prompt": "[[忽]]ち",
+     "answer": "たちま"
+    },
+    {
+     "id": "kanji-read-70d6bfad",
+     "level": 5,
+     "prompt": "[[恰]]も",
+     "answer": "あたか"
+    },
+    {
+     "id": "kanji-read-b79423f9",
+     "level": 5,
+     "prompt": "[[宛]]ら",
+     "answer": "さなが",
+     "note": "まるで"
+    },
+    {
+     "id": "kanji-read-d19367ca",
+     "level": 5,
+     "prompt": "[[頗]]る",
+     "answer": "すこぶ"
+    },
+    {
+     "id": "kanji-read-dd874a53",
+     "level": 5,
+     "prompt": "[[聊]]か",
+     "answer": "いささ"
+    },
+    {
+     "id": "kanji-read-6b3fc1e0",
+     "level": 5,
+     "prompt": "[[予]]め",
+     "answer": "あらかじ"
+    },
+    {
+     "id": "kanji-read-8cfff174",
+     "level": 5,
+     "prompt": "[[訛]]り",
+     "answer": "なま"
+    },
+    {
+     "id": "kanji-read-79692b54",
+     "level": 5,
+     "prompt": "[[阿]]る",
+     "answer": "おもね",
+     "note": "へつらう。阿諛"
+    },
+    {
+     "id": "kanji-read-892bfef2",
+     "level": 5,
+     "prompt": "[[靡]]く",
+     "answer": "なび"
+    },
+    {
+     "id": "kanji-read-323b542d",
+     "level": 5,
+     "prompt": "[[鑑]]みる",
+     "answer": "かんが"
+    },
+    {
+     "id": "kanji-read-9ee47cf0",
+     "level": 5,
+     "prompt": "[[諳]]んじる",
+     "answer": "そら",
+     "note": "暗唱する"
+    },
+    {
+     "id": "kanji-read-247cc777",
+     "level": 5,
+     "prompt": "[[竦]]む",
+     "answer": "すく"
+    },
+    {
+     "id": "kanji-read-def8fd61",
+     "level": 5,
+     "prompt": "[[嗜]]む",
+     "answer": "たしな"
+    },
+    {
+     "id": "kanji-read-8fefeeb8",
+     "level": 5,
+     "prompt": "[[雪]]ぐ",
+     "answer": "すす",
+     "note": "恥をそそぐ（「そそ」とも）"
+    },
+    {
+     "id": "kanji-read-8ad65295",
+     "level": 5,
+     "prompt": "[[灰燼]]に帰す",
+     "answer": "かいじん"
+    },
+    {
+     "id": "kanji-read-beffee52",
+     "level": 5,
+     "prompt": "[[膠着]]状態",
+     "answer": "こうちゃく"
+    },
+    {
+     "id": "kanji-read-73430a61",
+     "level": 5,
+     "prompt": "[[辟易]]する",
+     "answer": "へきえき",
+     "note": "うんざりする"
+    },
+    {
+     "id": "kanji-read-965047dd",
+     "level": 5,
+     "prompt": "[[錯綜]]",
+     "answer": "さくそう",
+     "note": "入り組む"
+    },
+    {
+     "id": "kanji-read-a566ab36",
+     "level": 5,
+     "prompt": "[[桎梏]]",
+     "answer": "しっこく",
+     "note": "自由を束縛するもの"
+    },
+    {
+     "id": "kanji-read-6f5bfb14",
+     "level": 5,
+     "prompt": "[[驕奢]]",
+     "answer": "きょうしゃ",
+     "note": "おごってぜいたく"
+    },
+    {
+     "id": "kanji-read-7c5150cb",
+     "level": 5,
+     "prompt": "[[慚愧]]に堪えない",
+     "answer": "ざんき",
+     "note": "恥じ入る"
+    },
+    {
+     "id": "kanji-read-bcc94fb3",
+     "level": 5,
+     "prompt": "[[容喙]]する",
+     "answer": "ようかい",
+     "note": "くちばしを入れる"
+    },
+    {
+     "id": "kanji-read-6ff6d0fe",
+     "level": 5,
+     "prompt": "[[逍遥]]",
+     "answer": "しょうよう",
+     "note": "散歩・そぞろ歩き"
+    },
+    {
+     "id": "kanji-read-d66060e4",
+     "level": 5,
+     "prompt": "[[奔騰]]",
+     "answer": "ほんとう",
+     "note": "物価などが急上昇"
+    },
+    {
+     "id": "kanji-read-5b872b27",
+     "level": 5,
+     "prompt": "[[迂遠]]",
+     "answer": "うえん",
+     "note": "遠回りで実際的でない"
+    },
+    {
+     "id": "kanji-read-504694da",
+     "level": 5,
+     "prompt": "[[杳]]として知れない",
+     "answer": "よう",
+     "note": "暗くてはっきりしない"
+    },
+    {
+     "id": "kanji-read-6ccad013",
+     "level": 5,
+     "prompt": "[[忸怩]]たる思い",
+     "answer": "じくじ",
+     "note": "恥じ入る"
+    },
+    {
+     "id": "kanji-read-798fb29e",
+     "level": 5,
+     "prompt": "[[黎明]]期",
+     "answer": "れいめい",
+     "note": "夜明け→始まり"
+    },
+    {
+     "id": "kanji-read-b104391f",
+     "level": 5,
+     "prompt": "[[瞥見]]",
+     "answer": "べっけん",
+     "note": "ちらりと見る"
+    },
+    {
+     "id": "kanji-read-2b589666",
+     "level": 5,
+     "prompt": "[[慧眼]]",
+     "answer": "けいがん",
+     "note": "鋭い眼力"
+    },
+    {
+     "id": "kanji-read-0ca4a824",
+     "level": 5,
+     "prompt": "[[卓犖]]",
+     "answer": "たくらく",
+     "note": "他より抜きんでて優れる"
+    },
+    {
+     "id": "kanji-read-a76979fa",
+     "level": 5,
+     "prompt": "[[陋習]]を打破する",
+     "answer": "ろうしゅう",
+     "note": "悪い習慣"
+    },
+    {
+     "id": "kanji-read-3d0e46f9",
+     "level": 5,
+     "prompt": "[[経綸]]",
+     "answer": "けいりん",
+     "note": "国家を治める方策"
+    },
+    {
+     "id": "kanji-read-8a59e97c",
+     "level": 5,
+     "prompt": "[[蹂躙]]",
+     "answer": "じゅうりん",
+     "note": "踏みにじる"
+    }
+   ],
+   "description": "入試頻出の読み",
+   "instruction": "傍線部の読みをひらがなで答えよ。"
+  },
+  {
+   "id": "kanji-write",
+   "title": "漢字の書き取り",
+   "kind": "flash",
+   "items": [
+    {
+     "id": "kanji-write-f334440d",
+     "level": 1,
+     "prompt": "問題を[[カイケツ]]する",
+     "answer": "解決"
+    },
+    {
+     "id": "kanji-write-51fdd949",
+     "level": 1,
+     "prompt": "[[ケイケン]]を積む",
+     "answer": "経験"
+    },
+    {
+     "id": "kanji-write-009f3450",
+     "level": 1,
+     "prompt": "意見を[[ハンエイ]]する",
+     "answer": "反映"
+    },
+    {
+     "id": "kanji-write-be8adf1c",
+     "level": 1,
+     "prompt": "自然を[[ホゴ]]する",
+     "answer": "保護"
+    },
+    {
+     "id": "kanji-write-5b6d6240",
+     "level": 1,
+     "prompt": "[[セキニン]]を果たす",
+     "answer": "責任"
+    },
+    {
+     "id": "kanji-write-cf0bc1f1",
+     "level": 1,
+     "prompt": "列車が[[テイシャ]]する",
+     "answer": "停車"
+    },
+    {
+     "id": "kanji-write-878904ef",
+     "level": 1,
+     "prompt": "[[ドクソウ]]的な作品",
+     "answer": "独創"
+    },
+    {
+     "id": "kanji-write-e5235315",
+     "level": 1,
+     "prompt": "部屋を[[セイケツ]]に保つ",
+     "answer": "清潔"
+    },
+    {
+     "id": "kanji-write-0212e28d",
+     "level": 1,
+     "prompt": "予定を[[ヘンコウ]]する",
+     "answer": "変更"
+    },
+    {
+     "id": "kanji-write-744358ce",
+     "level": 1,
+     "prompt": "安全を[[カクホ]]する",
+     "answer": "確保"
+    },
+    {
+     "id": "kanji-write-1dbf8685",
+     "level": 1,
+     "prompt": "期待に[[コタ]]える",
+     "answer": "応",
+     "note": "「答える」は質問に"
+    },
+    {
+     "id": "kanji-write-496e5aff",
+     "level": 1,
+     "prompt": "学校を[[ソツギョウ]]する",
+     "answer": "卒業"
+    },
+    {
+     "id": "kanji-write-f37e8cc1",
+     "level": 1,
+     "prompt": "意味を[[カイシャク]]する",
+     "answer": "解釈"
+    },
+    {
+     "id": "kanji-write-8db2dda7",
+     "level": 1,
+     "prompt": "[[キチョウ]]な体験",
+     "answer": "貴重"
+    },
+    {
+     "id": "kanji-write-dded67b4",
+     "level": 1,
+     "prompt": "気持ちを[[ヒョウゲン]]する",
+     "answer": "表現"
+    },
+    {
+     "id": "kanji-write-0d990b45",
+     "level": 1,
+     "prompt": "[[シュクショウ]]コピー",
+     "answer": "縮小"
+    },
+    {
+     "id": "kanji-write-71d20cf9",
+     "level": 1,
+     "prompt": "[[ケイコウ]]と対策",
+     "answer": "傾向"
+    },
+    {
+     "id": "kanji-write-1875eaca",
+     "level": 1,
+     "prompt": "道が[[コンザツ]]する",
+     "answer": "混雑"
+    },
+    {
+     "id": "kanji-write-586c3f43",
+     "level": 1,
+     "prompt": "荷物を[[アズ]]ける",
+     "answer": "預"
+    },
+    {
+     "id": "kanji-write-0bbd6ffc",
+     "level": 1,
+     "prompt": "危険を[[サ]]ける",
+     "answer": "避"
+    },
+    {
+     "id": "kanji-write-d585143c",
+     "level": 1,
+     "prompt": "規則に[[シタガ]]う",
+     "answer": "従"
+    },
+    {
+     "id": "kanji-write-1bee9aad",
+     "level": 1,
+     "prompt": "実験を[[ココロ]]みる",
+     "answer": "試"
+    },
+    {
+     "id": "kanji-write-ff2a85ae",
+     "level": 1,
+     "prompt": "運動会を[[モヨオ]]す",
+     "answer": "催"
+    },
+    {
+     "id": "kanji-write-579865ed",
+     "level": 1,
+     "prompt": "[[ムズカ]]しい問題",
+     "answer": "難"
+    },
+    {
+     "id": "kanji-write-3da2b912",
+     "level": 1,
+     "prompt": "友人を[[マネ]]く",
+     "answer": "招"
+    },
+    {
+     "id": "kanji-write-adcf3bd1",
+     "level": 2,
+     "prompt": "社会に[[コウケン]]する",
+     "answer": "貢献"
+    },
+    {
+     "id": "kanji-write-b2a257b8",
+     "level": 2,
+     "prompt": "新しい[[カチカン]]",
+     "answer": "価値観"
+    },
+    {
+     "id": "kanji-write-ed7dc66f",
+     "level": 2,
+     "prompt": "[[キキ]]的な状況",
+     "answer": "危機"
+    },
+    {
+     "id": "kanji-write-a8fb8a4e",
+     "level": 2,
+     "prompt": "[[タンテキ]]に言う",
+     "answer": "端的"
+    },
+    {
+     "id": "kanji-write-cc876900",
+     "level": 2,
+     "prompt": "[[ソウゾウ]]力を養う",
+     "answer": "想像",
+     "note": "「創造」は新しく作り出すこと"
+    },
+    {
+     "id": "kanji-write-f3da6aac",
+     "level": 2,
+     "prompt": "[[ジョウキョウ]]を把握する",
+     "answer": "状況"
+    },
+    {
+     "id": "kanji-write-d3ee16aa",
+     "level": 2,
+     "prompt": "権利を[[シュチョウ]]する",
+     "answer": "主張"
+    },
+    {
+     "id": "kanji-write-25f6fa8d",
+     "level": 2,
+     "prompt": "[[ゲンミツ]]な定義",
+     "answer": "厳密"
+    },
+    {
+     "id": "kanji-write-e19e0f19",
+     "level": 2,
+     "prompt": "[[ハアク]]する",
+     "answer": "把握"
+    },
+    {
+     "id": "kanji-write-c864d463",
+     "level": 2,
+     "prompt": "[[カンキョウ]]問題",
+     "answer": "環境"
+    },
+    {
+     "id": "kanji-write-7722648d",
+     "level": 2,
+     "prompt": "資源が[[コカツ]]する",
+     "answer": "枯渇"
+    },
+    {
+     "id": "kanji-write-f776bc63",
+     "level": 2,
+     "prompt": "[[ケイハツ]]活動",
+     "answer": "啓発"
+    },
+    {
+     "id": "kanji-write-af5f1c69",
+     "level": 2,
+     "prompt": "[[キセイ]]概念",
+     "answer": "既成",
+     "note": "「既製」は既製品"
+    },
+    {
+     "id": "kanji-write-04f5c203",
+     "level": 2,
+     "prompt": "[[ムジュン]]を指摘する",
+     "answer": "矛盾"
+    },
+    {
+     "id": "kanji-write-8020c13f",
+     "level": 2,
+     "prompt": "[[ヨウイ]]に解決しない",
+     "answer": "容易"
+    },
+    {
+     "id": "kanji-write-8fc0a9d5",
+     "level": 2,
+     "prompt": "[[シンシ]]な態度",
+     "answer": "真摯"
+    },
+    {
+     "id": "kanji-write-089c87b8",
+     "level": 2,
+     "prompt": "[[キョウジュ]]する",
+     "answer": "享受",
+     "note": "受け入れて味わう"
+    },
+    {
+     "id": "kanji-write-15548ad8",
+     "level": 2,
+     "prompt": "[[フヘン]]的な真理",
+     "answer": "普遍"
+    },
+    {
+     "id": "kanji-write-5a9fea5b",
+     "level": 2,
+     "prompt": "[[カクトク]]する",
+     "answer": "獲得"
+    },
+    {
+     "id": "kanji-write-b79ccb30",
+     "level": 2,
+     "prompt": "目標を[[カカ]]げる",
+     "answer": "掲"
+    },
+    {
+     "id": "kanji-write-374faaa8",
+     "level": 2,
+     "prompt": "仕事を[[マカ]]せる",
+     "answer": "任"
+    },
+    {
+     "id": "kanji-write-76e3194d",
+     "level": 2,
+     "prompt": "損害を[[コウム]]る",
+     "answer": "被"
+    },
+    {
+     "id": "kanji-write-32c5312f",
+     "level": 2,
+     "prompt": "時間を[[サ]]く",
+     "answer": "割"
+    },
+    {
+     "id": "kanji-write-31514b6a",
+     "level": 2,
+     "prompt": "成功を[[オサ]]める",
+     "answer": "収",
+     "note": "「修める」は学問・「治める」は国・「納める」は税"
+    },
+    {
+     "id": "kanji-write-edf723bf",
+     "level": 2,
+     "prompt": "国を[[オサ]]める",
+     "answer": "治"
+    },
+    {
+     "id": "kanji-write-76c99800",
+     "level": 2,
+     "prompt": "学問を[[オサ]]める",
+     "answer": "修"
+    },
+    {
+     "id": "kanji-write-22e7433e",
+     "level": 2,
+     "prompt": "[[ジュンスイ]]な心",
+     "answer": "純粋"
+    },
+    {
+     "id": "kanji-write-859a4aa2",
+     "level": 2,
+     "prompt": "[[タイショウ]]的な性格",
+     "answer": "対照",
+     "note": "「対象」は目標、「対称」はつり合い"
+    },
+    {
+     "id": "kanji-write-5961db6c",
+     "level": 2,
+     "prompt": "[[ケンキョ]]な姿勢",
+     "answer": "謙虚"
+    },
+    {
+     "id": "kanji-write-758ca808",
+     "level": 2,
+     "prompt": "[[ジゼン]]事業",
+     "answer": "慈善"
+    },
+    {
+     "id": "kanji-write-53dc0c9b",
+     "level": 2,
+     "prompt": "[[ジョジョ]]に慣れる",
+     "answer": "徐々"
+    },
+    {
+     "id": "kanji-write-fba1a47a",
+     "level": 2,
+     "prompt": "[[キョウイ]]的な記録",
+     "answer": "驚異",
+     "note": "「脅威」は脅かす力"
+    },
+    {
+     "id": "kanji-write-e3ba8c0c",
+     "level": 2,
+     "prompt": "外国の[[キョウイ]]にさらされる",
+     "answer": "脅威"
+    },
+    {
+     "id": "kanji-write-e7ad6434",
+     "level": 3,
+     "prompt": "[[ケンチョ]]な変化",
+     "answer": "顕著"
+    },
+    {
+     "id": "kanji-write-a0d6916a",
+     "level": 3,
+     "prompt": "[[ボウチョウ]]する予算",
+     "answer": "膨張"
+    },
+    {
+     "id": "kanji-write-7c977097",
+     "level": 3,
+     "prompt": "議論が[[フンキュウ]]する",
+     "answer": "紛糾"
+    },
+    {
+     "id": "kanji-write-d2484a48",
+     "level": 3,
+     "prompt": "[[イカン]]の意を表する",
+     "answer": "遺憾"
+    },
+    {
+     "id": "kanji-write-f08ea153",
+     "level": 3,
+     "prompt": "[[カンゲン]]に惑わされる",
+     "answer": "甘言"
+    },
+    {
+     "id": "kanji-write-769e0184",
+     "level": 3,
+     "prompt": "[[ケイショウ]]を鳴らす",
+     "answer": "警鐘"
+    },
+    {
+     "id": "kanji-write-019ec121",
+     "level": 3,
+     "prompt": "費用を[[フタン]]する",
+     "answer": "負担"
+    },
+    {
+     "id": "kanji-write-683459d8",
+     "level": 3,
+     "prompt": "伝統を[[ケイショウ]]する",
+     "answer": "継承"
+    },
+    {
+     "id": "kanji-write-74dfcd8f",
+     "level": 3,
+     "prompt": "[[キハン]]を守る",
+     "answer": "規範"
+    },
+    {
+     "id": "kanji-write-7b4d92ce",
+     "level": 3,
+     "prompt": "[[ジュウナン]]な発想",
+     "answer": "柔軟"
+    },
+    {
+     "id": "kanji-write-4a0e9260",
+     "level": 3,
+     "prompt": "[[ソゴウ]]的に判断する",
+     "answer": "総合"
+    },
+    {
+     "id": "kanji-write-aaee5a63",
+     "level": 3,
+     "prompt": "[[カンショウ]]に浸る",
+     "answer": "感傷",
+     "note": "「鑑賞」「観賞」「干渉」「緩衝」と区別"
+    },
+    {
+     "id": "kanji-write-3588dd4c",
+     "level": 3,
+     "prompt": "内政に[[カンショウ]]する",
+     "answer": "干渉"
+    },
+    {
+     "id": "kanji-write-fa3b3f84",
+     "level": 3,
+     "prompt": "[[カンショウ]]地帯",
+     "answer": "緩衝"
+    },
+    {
+     "id": "kanji-write-d00eadcd",
+     "level": 3,
+     "prompt": "時代の[[ヘンセン]]",
+     "answer": "変遷"
+    },
+    {
+     "id": "kanji-write-bcf1ef80",
+     "level": 3,
+     "prompt": "[[イッカン]]した態度",
+     "answer": "一貫"
+    },
+    {
+     "id": "kanji-write-fb9c4d15",
+     "level": 3,
+     "prompt": "[[コウリョ]]に入れる",
+     "answer": "考慮"
+    },
+    {
+     "id": "kanji-write-f0886429",
+     "level": 3,
+     "prompt": "[[ドウサツ]]力",
+     "answer": "洞察"
+    },
+    {
+     "id": "kanji-write-e6df2e1b",
+     "level": 3,
+     "prompt": "[[シサ]]に富む",
+     "answer": "示唆"
+    },
+    {
+     "id": "kanji-write-0f7bcd61",
+     "level": 3,
+     "prompt": "[[ガイネン]]を整理する",
+     "answer": "概念"
+    },
+    {
+     "id": "kanji-write-d59e2676",
+     "level": 3,
+     "prompt": "[[チンプ]]な表現",
+     "answer": "陳腐"
+    },
+    {
+     "id": "kanji-write-10806758",
+     "level": 3,
+     "prompt": "[[ソクバク]]から逃れる",
+     "answer": "束縛"
+    },
+    {
+     "id": "kanji-write-456c3f15",
+     "level": 3,
+     "prompt": "[[ケイベツ]]する",
+     "answer": "軽蔑"
+    },
+    {
+     "id": "kanji-write-e5e0eedd",
+     "level": 3,
+     "prompt": "[[ヒンパン]]に起こる",
+     "answer": "頻繁"
+    },
+    {
+     "id": "kanji-write-ae6983e1",
+     "level": 3,
+     "prompt": "[[センサイ]]な感覚",
+     "answer": "繊細"
+    },
+    {
+     "id": "kanji-write-e143ae82",
+     "level": 3,
+     "prompt": "[[ゴウマン]]な態度",
+     "answer": "傲慢"
+    },
+    {
+     "id": "kanji-write-82fb6505",
+     "level": 3,
+     "prompt": "[[タイダ]]な生活",
+     "answer": "怠惰"
+    },
+    {
+     "id": "kanji-write-1122d388",
+     "level": 3,
+     "prompt": "[[キンコウ]]を保つ",
+     "answer": "均衡"
+    },
+    {
+     "id": "kanji-write-1a5011c4",
+     "level": 3,
+     "prompt": "[[イシュク]]する",
+     "answer": "萎縮"
+    },
+    {
+     "id": "kanji-write-cee8a368",
+     "level": 3,
+     "prompt": "[[ジュンタク]]な資金",
+     "answer": "潤沢"
+    },
+    {
+     "id": "kanji-write-ca283443",
+     "level": 3,
+     "prompt": "証拠を[[インメツ]]する",
+     "answer": "隠滅",
+     "note": "「湮滅」とも"
+    },
+    {
+     "id": "kanji-write-2efd6d89",
+     "level": 3,
+     "prompt": "[[コウガイ]]に住む",
+     "answer": "郊外"
+    },
+    {
+     "id": "kanji-write-417932e7",
+     "level": 3,
+     "prompt": "[[セッチュウ]]案",
+     "answer": "折衷"
+    },
+    {
+     "id": "kanji-write-3132fe93",
+     "level": 3,
+     "prompt": "理論を[[ジッセン]]する",
+     "answer": "実践"
+    },
+    {
+     "id": "kanji-write-cbc418f2",
+     "level": 3,
+     "prompt": "説明を[[ショウリャク]]する",
+     "answer": "省略"
+    },
+    {
+     "id": "kanji-write-0391548e",
+     "level": 3,
+     "prompt": "[[ハイジョ]]する",
+     "answer": "排除"
+    },
+    {
+     "id": "kanji-write-c17e9b37",
+     "level": 3,
+     "prompt": "[[シンチョウ]]に検討する",
+     "answer": "慎重"
+    },
+    {
+     "id": "kanji-write-162f3199",
+     "level": 3,
+     "prompt": "責任を[[テンカ]]する",
+     "answer": "転嫁"
+    },
+    {
+     "id": "kanji-write-fe441bd0",
+     "level": 3,
+     "prompt": "判断を[[ユダ]]ねる",
+     "answer": "委"
+    },
+    {
+     "id": "kanji-write-25466c99",
+     "level": 3,
+     "prompt": "理想を[[ツイキュウ]]する",
+     "answer": "追求",
+     "note": "真理は「追究」、責任は「追及」"
+    },
+    {
+     "id": "kanji-write-a77839d6",
+     "level": 3,
+     "prompt": "真理を[[ツイキュウ]]する",
+     "answer": "追究"
+    },
+    {
+     "id": "kanji-write-945e4d39",
+     "level": 3,
+     "prompt": "責任を[[ツイキュウ]]する",
+     "answer": "追及"
+    },
+    {
+     "id": "kanji-write-da8750cb",
+     "level": 3,
+     "prompt": "人生の[[キロ]]に立つ",
+     "answer": "岐路"
+    },
+    {
+     "id": "kanji-write-978bdad5",
+     "level": 3,
+     "prompt": "[[ヨウセイ]]に応える",
+     "answer": "要請"
+    },
+    {
+     "id": "kanji-write-74b010f4",
+     "level": 4,
+     "prompt": "[[シッピツ]]を依頼する",
+     "answer": "執筆"
+    },
+    {
+     "id": "kanji-write-33930c59",
+     "level": 4,
+     "prompt": "[[ホウガ]]する",
+     "answer": "萌芽",
+     "note": "芽生え"
+    },
+    {
+     "id": "kanji-write-5279e776",
+     "level": 4,
+     "prompt": "[[ケンジョウ]]語",
+     "answer": "謙譲"
+    },
+    {
+     "id": "kanji-write-9f67b486",
+     "level": 4,
+     "prompt": "敵に[[カンゼン]]と立ち向かう",
+     "answer": "敢然"
+    },
+    {
+     "id": "kanji-write-0e01f2d6",
+     "level": 4,
+     "prompt": "[[カンゼン]]懲悪",
+     "answer": "勧善"
+    },
+    {
+     "id": "kanji-write-034e8772",
+     "level": 4,
+     "prompt": "論理の[[ハタン]]",
+     "answer": "破綻"
+    },
+    {
+     "id": "kanji-write-1809f6c9",
+     "level": 4,
+     "prompt": "[[ガンチク]]のある言葉",
+     "answer": "含蓄"
+    },
+    {
+     "id": "kanji-write-38d39491",
+     "level": 4,
+     "prompt": "[[ゲイゴウ]]する",
+     "answer": "迎合"
+    },
+    {
+     "id": "kanji-write-956b1a0e",
+     "level": 4,
+     "prompt": "[[カッカ]]掻痒",
+     "answer": "隔靴",
+     "note": "思い通りにならずもどかしい"
+    },
+    {
+     "id": "kanji-write-522de767",
+     "level": 4,
+     "prompt": "[[コウデイ]]する",
+     "answer": "拘泥"
+    },
+    {
+     "id": "kanji-write-f898ce39",
+     "level": 4,
+     "prompt": "[[ハンザツ]]な手続き",
+     "answer": "煩雑"
+    },
+    {
+     "id": "kanji-write-e8bd88b6",
+     "level": 4,
+     "prompt": "[[ショウサン]]に値する",
+     "answer": "称賛",
+     "note": "「賞賛」とも"
+    },
+    {
+     "id": "kanji-write-73fa34f6",
+     "level": 4,
+     "prompt": "[[エイビン]]な感覚",
+     "answer": "鋭敏"
+    },
+    {
+     "id": "kanji-write-82818086",
+     "level": 4,
+     "prompt": "[[カジョウ]]な期待",
+     "answer": "過剰"
+    },
+    {
+     "id": "kanji-write-9a2efca6",
+     "level": 4,
+     "prompt": "[[ケンキン]]を募る",
+     "answer": "献金"
+    },
+    {
+     "id": "kanji-write-3062b800",
+     "level": 4,
+     "prompt": "[[ジョチョウ]]する",
+     "answer": "助長",
+     "note": "本来は好ましくない傾向を強める意"
+    },
+    {
+     "id": "kanji-write-e87d3b51",
+     "level": 4,
+     "prompt": "[[ハンプ]]する",
+     "answer": "頒布"
+    },
+    {
+     "id": "kanji-write-bf48d610",
+     "level": 4,
+     "prompt": "[[キョウジュン]]の意を示す",
+     "answer": "恭順"
+    },
+    {
+     "id": "kanji-write-0ea19b3c",
+     "level": 4,
+     "prompt": "[[シュウワイ]]事件",
+     "answer": "収賄"
+    },
+    {
+     "id": "kanji-write-6dca4a9e",
+     "level": 4,
+     "prompt": "[[ユウキュウ]]の歴史",
+     "answer": "悠久"
+    },
+    {
+     "id": "kanji-write-48c24af8",
+     "level": 4,
+     "prompt": "[[ケンソン]]する",
+     "answer": "謙遜"
+    },
+    {
+     "id": "kanji-write-6830fb3a",
+     "level": 4,
+     "prompt": "[[カンカ]]できない問題",
+     "answer": "看過"
+    },
+    {
+     "id": "kanji-write-ff54834f",
+     "level": 4,
+     "prompt": "[[ショウソウ]]感に駆られる",
+     "answer": "焦燥"
+    },
+    {
+     "id": "kanji-write-3129f852",
+     "level": 4,
+     "prompt": "[[ヒゲ]]する",
+     "answer": "卑下"
+    },
+    {
+     "id": "kanji-write-2ee4de8a",
+     "level": 4,
+     "prompt": "[[ビボウ]]録",
+     "answer": "備忘"
+    },
+    {
+     "id": "kanji-write-7d555ba4",
+     "level": 4,
+     "prompt": "[[ガイハク]]な知識",
+     "answer": "該博",
+     "note": "広く通じている"
+    },
+    {
+     "id": "kanji-write-6b51106d",
+     "level": 4,
+     "prompt": "[[テイネン]]の境地",
+     "answer": "諦念"
+    },
+    {
+     "id": "kanji-write-f3e9b37d",
+     "level": 4,
+     "prompt": "[[シュウレン]]する",
+     "answer": "収斂",
+     "note": "一点に集まる"
+    },
+    {
+     "id": "kanji-write-67a63ec1",
+     "level": 4,
+     "prompt": "[[ホウカツ]]的",
+     "answer": "包括"
+    },
+    {
+     "id": "kanji-write-1a127bf9",
+     "level": 4,
+     "prompt": "[[ケンギ]]を晴らす",
+     "answer": "嫌疑"
+    },
+    {
+     "id": "kanji-write-c12c4e48",
+     "level": 4,
+     "prompt": "[[ゾウオ]]の念",
+     "answer": "憎悪"
+    },
+    {
+     "id": "kanji-write-b4d35c0a",
+     "level": 4,
+     "prompt": "[[コショウ]]する",
+     "answer": "呼称"
+    },
+    {
+     "id": "kanji-write-eab1b4b8",
+     "level": 4,
+     "prompt": "[[ハンレイ]]を参照",
+     "answer": "凡例"
+    },
+    {
+     "id": "kanji-write-2eb5689d",
+     "level": 4,
+     "prompt": "[[ジセイ]]の念",
+     "answer": "自省"
+    },
+    {
+     "id": "kanji-write-aec18a48",
+     "level": 4,
+     "prompt": "[[キョウラク]]的",
+     "answer": "享楽"
+    },
+    {
+     "id": "kanji-write-54fcd0ea",
+     "level": 5,
+     "prompt": "[[ケンデン]]する",
+     "answer": "喧伝",
+     "note": "盛んに言いふらす"
+    },
+    {
+     "id": "kanji-write-aaf25f9b",
+     "level": 5,
+     "prompt": "[[チョウショウ]]を浴びる",
+     "answer": "嘲笑"
+    },
+    {
+     "id": "kanji-write-4e56ab9f",
+     "level": 5,
+     "prompt": "[[シッタ]]激励",
+     "answer": "叱咤"
+    },
+    {
+     "id": "kanji-write-2b046743",
+     "level": 5,
+     "prompt": "[[カイギ]]的な見方",
+     "answer": "懐疑"
+    },
+    {
+     "id": "kanji-write-2cef53d6",
+     "level": 5,
+     "prompt": "[[ホウトウ]]な生活",
+     "answer": "放蕩"
+    },
+    {
+     "id": "kanji-write-0347af0f",
+     "level": 5,
+     "prompt": "[[ケンカイ]]を異にする",
+     "answer": "見解"
+    },
+    {
+     "id": "kanji-write-4114ccc6",
+     "level": 5,
+     "prompt": "[[トウスイ]]する",
+     "answer": "陶酔"
+    },
+    {
+     "id": "kanji-write-1c9490e8",
+     "level": 5,
+     "prompt": "[[ハクヒョウ]]を踏む思い",
+     "answer": "薄氷"
+    },
+    {
+     "id": "kanji-write-c0749c69",
+     "level": 5,
+     "prompt": "[[ヒョウボウ]]する",
+     "answer": "標榜",
+     "note": "主義主張を公然と掲げる"
+    },
+    {
+     "id": "kanji-write-3d4076c1",
+     "level": 5,
+     "prompt": "[[ケイガン]]の士",
+     "answer": "慧眼"
+    },
+    {
+     "id": "kanji-write-176e576d",
+     "level": 5,
+     "prompt": "[[サクシュ]]される",
+     "answer": "搾取"
+    },
+    {
+     "id": "kanji-write-ef53d998",
+     "level": 5,
+     "prompt": "[[ボクトツ]]な人柄",
+     "answer": "朴訥"
+    },
+    {
+     "id": "kanji-write-6393ceaa",
+     "level": 5,
+     "prompt": "[[セイチ]]な描写",
+     "answer": "精緻"
+    },
+    {
+     "id": "kanji-write-8ec29905",
+     "level": 5,
+     "prompt": "[[ヘイガイ]]が生じる",
+     "answer": "弊害"
+    },
+    {
+     "id": "kanji-write-bfbf0661",
+     "level": 5,
+     "prompt": "[[シンラツ]]な批評",
+     "answer": "辛辣"
+    },
+    {
+     "id": "kanji-write-7f9d9ccf",
+     "level": 5,
+     "prompt": "[[ヒレキ]]する",
+     "answer": "披瀝",
+     "note": "心中を包み隠さず打ち明ける"
+    },
+    {
+     "id": "kanji-write-7238bd9e",
+     "level": 5,
+     "prompt": "[[ソゴ]]をきたす",
+     "answer": "齟齬"
+    },
+    {
+     "id": "kanji-write-f9d9c389",
+     "level": 5,
+     "prompt": "[[トウカツ]]する",
+     "answer": "統括"
+    },
+    {
+     "id": "kanji-write-295426af",
+     "level": 5,
+     "prompt": "社会の[[シッコク]]",
+     "answer": "桎梏"
+    },
+    {
+     "id": "kanji-write-3fb0f1b6",
+     "level": 5,
+     "prompt": "[[ドンヨク]]に知識を求める",
+     "answer": "貪欲"
+    },
+    {
+     "id": "kanji-write-75710f37",
+     "level": 5,
+     "prompt": "[[ケンラン]]豪華",
+     "answer": "絢爛"
+    },
+    {
+     "id": "kanji-write-f4a6e161",
+     "level": 5,
+     "prompt": "[[キンセン]]に触れる",
+     "answer": "琴線"
+    },
+    {
+     "id": "kanji-write-0cc188e3",
+     "level": 5,
+     "prompt": "[[ガシン]]嘗胆",
+     "answer": "臥薪"
+    },
+    {
+     "id": "kanji-write-1652adfc",
+     "level": 5,
+     "prompt": "[[コウカツ]]な手口",
+     "answer": "狡猾"
+    },
+    {
+     "id": "kanji-write-5d9bf571",
+     "level": 5,
+     "prompt": "[[カクセイ]]の感",
+     "answer": "隔世"
+    },
+    {
+     "id": "kanji-write-58f81d91",
+     "level": 5,
+     "prompt": "[[ケイモウ]]思想",
+     "answer": "啓蒙"
+    },
+    {
+     "id": "kanji-write-53d17c20",
+     "level": 5,
+     "prompt": "[[セイコウ]]な細工",
+     "answer": "精巧"
+    },
+    {
+     "id": "kanji-write-425717ee",
+     "level": 5,
+     "prompt": "[[ザンシン]]なデザイン",
+     "answer": "斬新"
+    },
+    {
+     "id": "kanji-write-f90b087c",
+     "level": 5,
+     "prompt": "[[シュウエン]]を迎える",
+     "answer": "終焉"
+    },
+    {
+     "id": "kanji-write-a44c61ae",
+     "level": 5,
+     "prompt": "[[ヨクヨウ]]をつける",
+     "answer": "抑揚"
+    }
+   ],
+   "description": "入試頻出の書き取り",
+   "instruction": "傍線部のカタカナを漢字に直せ。（頭の中で書いてから答えを確認）"
+  },
+  {
+   "id": "kanji-homophone",
+   "title": "同音異義語・同訓異字",
+   "kind": "choice",
+   "items": [
+    {
+     "id": "kanji-homophone-31514b6a",
+     "level": 2,
+     "prompt": "成功を[[オサ]]める",
+     "answer": "収",
+     "distractors": [
+      "納",
+      "修",
+      "治"
+     ],
+     "note": "収める＝結果・成果を得る"
+    },
+    {
+     "id": "kanji-homophone-4ac57cc2",
+     "level": 2,
+     "prompt": "税金を[[オサ]]める",
+     "answer": "納",
+     "distractors": [
+      "収",
+      "修",
+      "治"
+     ],
+     "note": "納める＝渡すべきところに渡す"
+    },
+    {
+     "id": "kanji-homophone-7b8f58b6",
+     "level": 2,
+     "prompt": "両国の[[タイショウ]]的な文化",
+     "answer": "対照",
+     "distractors": [
+      "対象",
+      "対称",
+      "大将"
+     ],
+     "note": "対照＝比べ合わせ違いが際立つ"
+    },
+    {
+     "id": "kanji-homophone-bf374f95",
+     "level": 2,
+     "prompt": "研究の[[タイショウ]]とする",
+     "answer": "対象",
+     "distractors": [
+      "対照",
+      "対称",
+      "隊商"
+     ],
+     "note": "対象＝働きかけの目標"
+    },
+    {
+     "id": "kanji-homophone-cc45f6ae",
+     "level": 2,
+     "prompt": "左右[[タイショウ]]の図形",
+     "answer": "対称",
+     "distractors": [
+      "対照",
+      "対象",
+      "大正"
+     ],
+     "note": "対称＝つり合う"
+    },
+    {
+     "id": "kanji-homophone-2ebac51d",
+     "level": 2,
+     "prompt": "新しい技術を[[カイホウ]]する",
+     "answer": "開放",
+     "distractors": [
+      "解放",
+      "快方",
+      "介抱"
+     ],
+     "note": "開け放つ／解放は束縛を解く"
+    },
+    {
+     "id": "kanji-homophone-872fa54a",
+     "level": 2,
+     "prompt": "人質を[[カイホウ]]する",
+     "answer": "解放",
+     "distractors": [
+      "開放",
+      "快方",
+      "会報"
+     ]
+    },
+    {
+     "id": "kanji-homophone-21479034",
+     "level": 2,
+     "prompt": "病気が[[カイホウ]]に向かう",
+     "answer": "快方",
+     "distractors": [
+      "解放",
+      "開放",
+      "介抱"
+     ]
+    },
+    {
+     "id": "kanji-homophone-4c81437a",
+     "level": 2,
+     "prompt": "酔った友人を[[カイホウ]]する",
+     "answer": "介抱",
+     "distractors": [
+      "解放",
+      "開放",
+      "快方"
+     ]
+    },
+    {
+     "id": "kanji-homophone-92b65d14",
+     "level": 3,
+     "prompt": "現状を[[イジ]]する",
+     "answer": "維持",
+     "distractors": [
+      "意地",
+      "遺児",
+      "医師"
+     ]
+    },
+    {
+     "id": "kanji-homophone-7d87cf95",
+     "level": 3,
+     "prompt": "[[イギ]]のある議論",
+     "answer": "意義",
+     "distractors": [
+      "異議",
+      "威儀",
+      "異義"
+     ],
+     "note": "意義＝価値。異議＝反対意見"
+    },
+    {
+     "id": "kanji-homophone-7dd5dfbe",
+     "level": 3,
+     "prompt": "決定に[[イギ]]を唱える",
+     "answer": "異議",
+     "distractors": [
+      "意義",
+      "威儀",
+      "異義"
+     ]
+    },
+    {
+     "id": "kanji-homophone-88555297",
+     "level": 3,
+     "prompt": "[[イドウ]]を調べる",
+     "answer": "異同",
+     "distractors": [
+      "異動",
+      "移動",
+      "以東"
+     ],
+     "note": "異同＝違い。異動は人事、移動は位置"
+    },
+    {
+     "id": "kanji-homophone-0e4981e1",
+     "level": 3,
+     "prompt": "四月の人事[[イドウ]]",
+     "answer": "異動",
+     "distractors": [
+      "異同",
+      "移動",
+      "以東"
+     ]
+    },
+    {
+     "id": "kanji-homophone-2691b043",
+     "level": 3,
+     "prompt": "[[カンシン]]を買う",
+     "answer": "歓心",
+     "distractors": [
+      "関心",
+      "感心",
+      "寒心"
+     ],
+     "note": "歓心を買う＝気に入られようとする"
+    },
+    {
+     "id": "kanji-homophone-0657f630",
+     "level": 3,
+     "prompt": "[[カンシン]]に堪えない事態",
+     "answer": "寒心",
+     "distractors": [
+      "関心",
+      "感心",
+      "歓心"
+     ],
+     "note": "寒心＝恐れおののく"
+    },
+    {
+     "id": "kanji-homophone-faf1f44b",
+     "level": 3,
+     "prompt": "政治への[[カンシン]]が高まる",
+     "answer": "関心",
+     "distractors": [
+      "感心",
+      "歓心",
+      "寒心"
+     ]
+    },
+    {
+     "id": "kanji-homophone-2458f4fd",
+     "level": 3,
+     "prompt": "[[コウセイ]]に名を残す",
+     "answer": "後世",
+     "distractors": [
+      "構成",
+      "公正",
+      "更生"
+     ]
+    },
+    {
+     "id": "kanji-homophone-b6b9b2b2",
+     "level": 3,
+     "prompt": "文の[[コウセイ]]を考える",
+     "answer": "構成",
+     "distractors": [
+      "後世",
+      "公正",
+      "厚生"
+     ]
+    },
+    {
+     "id": "kanji-homophone-229d3a04",
+     "level": 3,
+     "prompt": "[[シュウシ]]一貫",
+     "answer": "終始",
+     "distractors": [
+      "収支",
+      "修士",
+      "宗旨"
+     ]
+    },
+    {
+     "id": "kanji-homophone-ad6148ec",
+     "level": 3,
+     "prompt": "機械の[[セイサク]]",
+     "answer": "製作",
+     "distractors": [
+      "制作",
+      "政策",
+      "精索"
+     ],
+     "note": "製作＝物を作る。制作＝芸術作品"
+    },
+    {
+     "id": "kanji-homophone-55fc9ade",
+     "level": 3,
+     "prompt": "絵画の[[セイサク]]",
+     "answer": "制作",
+     "distractors": [
+      "製作",
+      "政策",
+      "精作"
+     ]
+    },
+    {
+     "id": "kanji-homophone-b5b9138d",
+     "level": 3,
+     "prompt": "景気の[[ジョウショウ]]",
+     "answer": "上昇",
+     "distractors": [
+      "常勝",
+      "上承",
+      "条章"
+     ]
+    },
+    {
+     "id": "kanji-homophone-1ef26419",
+     "level": 3,
+     "prompt": "[[ホショウ]]人を立てる",
+     "answer": "保証",
+     "distractors": [
+      "保障",
+      "補償",
+      "歩哨"
+     ],
+     "note": "保証＝請け合う。保障＝守る。補償＝埋め合わせ"
+    },
+    {
+     "id": "kanji-homophone-4eb4caf7",
+     "level": 3,
+     "prompt": "安全[[ホショウ]]条約",
+     "answer": "保障",
+     "distractors": [
+      "保証",
+      "補償",
+      "補正"
+     ]
+    },
+    {
+     "id": "kanji-homophone-12524012",
+     "level": 3,
+     "prompt": "損害を[[ホショウ]]する",
+     "answer": "補償",
+     "distractors": [
+      "保証",
+      "保障",
+      "捕捉"
+     ]
+    },
+    {
+     "id": "kanji-homophone-efdc4306",
+     "level": 3,
+     "prompt": "真意を[[ハカ]]る",
+     "answer": "測",
+     "distractors": [
+      "図",
+      "謀",
+      "諮"
+     ],
+     "note": "推測の意では「測る」「量る」とも"
+    },
+    {
+     "id": "kanji-homophone-8a07813a",
+     "level": 3,
+     "prompt": "審議会に[[ハカ]]る",
+     "answer": "諮",
+     "distractors": [
+      "図",
+      "謀",
+      "測"
+     ],
+     "note": "諮る＝意見を求める"
+    },
+    {
+     "id": "kanji-homophone-309231ba",
+     "level": 3,
+     "prompt": "暗殺を[[ハカ]]る",
+     "answer": "謀",
+     "distractors": [
+      "図",
+      "諮",
+      "計"
+     ]
+    },
+    {
+     "id": "kanji-homophone-9f022c14",
+     "level": 3,
+     "prompt": "解決を[[ハカ]]る",
+     "answer": "図",
+     "distractors": [
+      "謀",
+      "諮",
+      "量"
+     ]
+    },
+    {
+     "id": "kanji-homophone-6b7a6ff3",
+     "level": 4,
+     "prompt": "[[フシン]]な人物",
+     "answer": "不審",
+     "distractors": [
+      "不振",
+      "腐心",
+      "普請"
+     ],
+     "note": "不審＝疑わしい。不振＝勢いがない"
+    },
+    {
+     "id": "kanji-homophone-696f9e65",
+     "level": 4,
+     "prompt": "業績[[フシン]]",
+     "answer": "不振",
+     "distractors": [
+      "不審",
+      "腐心",
+      "普請"
+     ]
+    },
+    {
+     "id": "kanji-homophone-daf656eb",
+     "level": 4,
+     "prompt": "再建に[[フシン]]する",
+     "answer": "腐心",
+     "distractors": [
+      "不審",
+      "不振",
+      "普請"
+     ],
+     "note": "腐心＝心を砕く"
+    },
+    {
+     "id": "kanji-homophone-58aae2c8",
+     "level": 4,
+     "prompt": "家の[[フシン]]",
+     "answer": "普請",
+     "distractors": [
+      "不審",
+      "不振",
+      "腐心"
+     ],
+     "note": "普請＝建築工事"
+    },
+    {
+     "id": "kanji-homophone-17cd6ff0",
+     "level": 4,
+     "prompt": "[[シコウ]]錯誤",
+     "answer": "試行",
+     "distractors": [
+      "思考",
+      "志向",
+      "施行"
+     ]
+    },
+    {
+     "id": "kanji-homophone-38fdaeb6",
+     "level": 4,
+     "prompt": "法律を[[シコウ]]する",
+     "answer": "施行",
+     "distractors": [
+      "試行",
+      "思考",
+      "嗜好"
+     ],
+     "note": "「せこう」とも読む"
+    },
+    {
+     "id": "kanji-homophone-d7f6720e",
+     "level": 4,
+     "prompt": "上昇[[シコウ]]",
+     "answer": "志向",
+     "distractors": [
+      "思考",
+      "嗜好",
+      "施行"
+     ],
+     "note": "志向＝心が向かう。指向＝方向を指す"
+    },
+    {
+     "id": "kanji-homophone-eb3215ea",
+     "level": 4,
+     "prompt": "[[シコウ]]品",
+     "answer": "嗜好",
+     "distractors": [
+      "志向",
+      "思考",
+      "至高"
+     ]
+    },
+    {
+     "id": "kanji-homophone-294cd014",
+     "level": 4,
+     "prompt": "[[ヘイコウ]]感覚",
+     "answer": "平衡",
+     "distractors": [
+      "平行",
+      "並行",
+      "閉口"
+     ]
+    },
+    {
+     "id": "kanji-homophone-a3e6b6fa",
+     "level": 4,
+     "prompt": "長話に[[ヘイコウ]]する",
+     "answer": "閉口",
+     "distractors": [
+      "平衡",
+      "並行",
+      "平行"
+     ]
+    },
+    {
+     "id": "kanji-homophone-61c8e81a",
+     "level": 4,
+     "prompt": "二つの作業を[[ヘイコウ]]して進める",
+     "answer": "並行",
+     "distractors": [
+      "平行",
+      "平衡",
+      "閉口"
+     ]
+    },
+    {
+     "id": "kanji-homophone-e4a65a3f",
+     "level": 4,
+     "prompt": "[[キセイ]]を緩和する",
+     "answer": "規制",
+     "distractors": [
+      "既成",
+      "帰省",
+      "寄生"
+     ]
+    },
+    {
+     "id": "kanji-homophone-b203998a",
+     "level": 4,
+     "prompt": "[[キセイ]]服",
+     "answer": "既製",
+     "distractors": [
+      "既成",
+      "規制",
+      "規正"
+     ]
+    },
+    {
+     "id": "kanji-homophone-0f6a83e8",
+     "level": 4,
+     "prompt": "一時代を[[カク]]する",
+     "answer": "画",
+     "distractors": [
+      "確",
+      "隔",
+      "拡"
+     ],
+     "note": "一線を画す"
+    },
+    {
+     "id": "kanji-homophone-40569d50",
+     "level": 5,
+     "prompt": "[[ギセイ]]語",
+     "answer": "擬声",
+     "distractors": [
+      "犠牲",
+      "偽税",
+      "儀生"
+     ]
+    },
+    {
+     "id": "kanji-homophone-145f98ea",
+     "level": 5,
+     "prompt": "職権を[[ランヨウ]]する",
+     "answer": "濫用",
+     "distractors": [
+      "乱要",
+      "覧用",
+      "濫要"
+     ],
+     "note": "「乱用」とも書く"
+    },
+    {
+     "id": "kanji-homophone-d6f015f7",
+     "level": 5,
+     "prompt": "[[コウテイ]]を踏む",
+     "answer": "工程",
+     "distractors": [
+      "行程",
+      "肯定",
+      "校訂"
+     ]
+    },
+    {
+     "id": "kanji-homophone-568d4341",
+     "level": 5,
+     "prompt": "古典の本文を[[コウテイ]]する",
+     "answer": "校訂",
+     "distractors": [
+      "工程",
+      "肯定",
+      "更訂"
+     ],
+     "note": "校訂＝本文を比較し正す"
+    },
+    {
+     "id": "kanji-homophone-45109e04",
+     "level": 5,
+     "prompt": "[[ジキ]]尚早",
+     "answer": "時期",
+     "distractors": [
+      "時機",
+      "磁気",
+      "次期"
+     ]
+    },
+    {
+     "id": "kanji-homophone-7fd71518",
+     "level": 5,
+     "prompt": "[[ジキ]]をうかがう",
+     "answer": "時機",
+     "distractors": [
+      "時期",
+      "磁気",
+      "直"
+     ],
+     "note": "時機＝ちょうどよい機会"
+    },
+    {
+     "id": "kanji-homophone-b23dc163",
+     "level": 5,
+     "prompt": "[[シンチョウ]]な人柄",
+     "answer": "慎重",
+     "distractors": [
+      "深長",
+      "伸長",
+      "新調"
+     ]
+    },
+    {
+     "id": "kanji-homophone-e2c697d5",
+     "level": 5,
+     "prompt": "意味[[シンチョウ]]",
+     "answer": "深長",
+     "distractors": [
+      "慎重",
+      "伸長",
+      "深重"
+     ]
+    }
+   ],
+   "description": "共通テスト形式（同じ漢字を含むものを選ぶ問題の基礎）",
+   "instruction": "傍線部のカタカナに当たる漢字を選べ。"
+  }
+ ]
+}

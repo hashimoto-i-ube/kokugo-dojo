@@ -1,0 +1,58 @@
+{
+ "schemaVersion": 1,
+ "minAppVersion": "0.1.0",
+ "curriculum": "H30",
+ "curriculumNote": "高等学校学習指導要領（平成30年告示）に準拠。2022年度入学生から学年進行で実施（共通・選択科目: 現代の国語／言語文化／論理国語／文学国語／国語表現／古典探究）。次期改訂に備え、各パックに curriculum を持たせ差し替え可能にしている。",
+ "generatedAt": "2026-10-22",
+ "packs": [
+  {
+   "id": "kanbun",
+   "file": "packs/kanbun.json",
+   "version": "2026.10.22",
+   "sha256": "fe5d7233723184dade211cb3d0d1e81f30eb66d19cfb6e3c1f76aec4e5a03e8c",
+   "bytes": 151
+  },
+  {
+   "id": "kanji",
+   "file": "packs/kanji.json",
+   "version": "2026.10.22",
+   "sha256": "f9ab507977d61e75e44f2a1a0fcd60bbb70b17fc54ef655a2c84ef9e9f2c837f",
+   "bytes": 66876
+  },
+  {
+   "id": "knowledge",
+   "file": "packs/knowledge.json",
+   "version": "2026.10.22",
+   "sha256": "bb95238f50f2e9741b11759430c6e2af7acf12bb1bf7709ccce52e7e2c13ba82",
+   "bytes": 169
+  },
+  {
+   "id": "kobun-grammar",
+   "file": "packs/kobun-grammar.json",
+   "version": "2026.10.22",
+   "sha256": "2dd30eedacbb66aaa2e7b127aef014bf85e58b0185dfa03c27d05f376924a03c",
+   "bytes": 164
+  },
+  {
+   "id": "kobun-words",
+   "file": "packs/kobun-words.json",
+   "version": "2026.10.22",
+   "sha256": "750db06896b96acaaa9c3be7f7b9ffaff2b972bfd817f9ac389e9d86bdc31507",
+   "bytes": 160
+  },
+  {
+   "id": "reading",
+   "file": "packs/reading.json",
+   "version": "2026.10.22",
+   "sha256": "235ad7de8d89c216c4086e1e1b50cba2b0cb442bc53b8237d4033d7df6d14dce",
+   "bytes": 162
+  },
+  {
+   "id": "vocabulary",
+   "file": "packs/vocabulary.json",
+   "version": "2026.10.22.1",
+   "sha256": "fb2fe1f06be2dcd761752664845e5d27efcfb6523cae7001772d41be7b95a277",
+   "bytes": 52500
+  }
+ ]
+}

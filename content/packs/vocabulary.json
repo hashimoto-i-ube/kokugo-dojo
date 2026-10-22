@@ -1,0 +1,1803 @@
+{
+ "schemaVersion": 1,
+ "id": "vocabulary",
+ "subject": "vocabulary",
+ "title": "語彙（評論語・慣用句・四字熟語）",
+ "version": "2026.10.22.1",
+ "curriculum": "H30",
+ "decks": [
+  {
+   "id": "vocab-hyoron",
+   "title": "評論重要語",
+   "kind": "flash",
+   "items": [
+    {
+     "id": "vocab-hyoron-b2ca1de0",
+     "level": 1,
+     "prompt": "主観",
+     "answer": "自分ひとりの見方・感じ方",
+     "note": "対義語：客観"
+    },
+    {
+     "id": "vocab-hyoron-3aa475ad",
+     "level": 1,
+     "prompt": "客観",
+     "answer": "個人の立場を離れた見方。誰にとっても成り立つこと",
+     "note": "対義語：主観"
+    },
+    {
+     "id": "vocab-hyoron-8be2b279",
+     "level": 1,
+     "prompt": "抽象",
+     "answer": "個々の事物から共通する性質を抜き出して捉えること",
+     "note": "対義語：具体"
+    },
+    {
+     "id": "vocab-hyoron-1b6bcaf4",
+     "level": 1,
+     "prompt": "具体",
+     "answer": "形や内容をはっきりと備えていること",
+     "note": "対義語：抽象"
+    },
+    {
+     "id": "vocab-hyoron-e90b3eac",
+     "level": 1,
+     "prompt": "普遍",
+     "answer": "すべてのものに共通して当てはまること",
+     "note": "対義語：特殊"
+    },
+    {
+     "id": "vocab-hyoron-8d1b0a0b",
+     "level": 1,
+     "prompt": "特殊",
+     "answer": "普通と異なり、限られたものだけにあること",
+     "note": "対義語：普遍・一般"
+    },
+    {
+     "id": "vocab-hyoron-a218bb98",
+     "level": 1,
+     "prompt": "相対",
+     "answer": "他との関係・比較の中で成り立つこと",
+     "note": "対義語：絶対"
+    },
+    {
+     "id": "vocab-hyoron-98cc8597",
+     "level": 1,
+     "prompt": "絶対",
+     "answer": "他と比較せず、それ自体で成り立つこと",
+     "note": "対義語：相対"
+    },
+    {
+     "id": "vocab-hyoron-095a8818",
+     "level": 1,
+     "prompt": "合理",
+     "answer": "道理・論理にかなっていること",
+     "note": "合理主義＝理性を重視する立場"
+    },
+    {
+     "id": "vocab-hyoron-556080b7",
+     "level": 1,
+     "prompt": "矛盾",
+     "answer": "二つの事柄のつじつまが合わないこと",
+     "note": "故事「矛と盾」（韓非子）"
+    },
+    {
+     "id": "vocab-hyoron-d38a5d25",
+     "level": 1,
+     "prompt": "逆説",
+     "answer": "一見真理に反するようで、実は真理を突いている説。パラドックス",
+     "note": "例「急がば回れ」"
+    },
+    {
+     "id": "vocab-hyoron-633523fe",
+     "level": 1,
+     "prompt": "概念",
+     "answer": "ある物事についての共通の意味内容。言葉で捉えられた考え"
+    },
+    {
+     "id": "vocab-hyoron-af0a3714",
+     "level": 1,
+     "prompt": "前提",
+     "answer": "ある物事が成り立つための条件"
+    },
+    {
+     "id": "vocab-hyoron-33a1b165",
+     "level": 1,
+     "prompt": "本質",
+     "answer": "そのものをそのものたらしめている根本的な性質",
+     "note": "対義語：現象"
+    },
+    {
+     "id": "vocab-hyoron-8d8230c4",
+     "level": 1,
+     "prompt": "現象",
+     "answer": "感覚で捉えられる、外に現れた姿",
+     "note": "対義語：本質"
+    },
+    {
+     "id": "vocab-hyoron-5ef8028f",
+     "level": 2,
+     "prompt": "恣意",
+     "answer": "自分の思うままにふるまうこと。勝手気まま",
+     "note": "恣意的＝論理的必然性がない"
+    },
+    {
+     "id": "vocab-hyoron-e40734da",
+     "level": 2,
+     "prompt": "主体",
+     "answer": "自らの意志で行動し、働きかけるもの",
+     "note": "対義語：客体"
+    },
+    {
+     "id": "vocab-hyoron-385936ff",
+     "level": 2,
+     "prompt": "客体",
+     "answer": "主体の働きかけを受ける対象",
+     "note": "対義語：主体"
+    },
+    {
+     "id": "vocab-hyoron-17dea33a",
+     "level": 2,
+     "prompt": "能動",
+     "answer": "自分から他に働きかけること",
+     "note": "対義語：受動"
+    },
+    {
+     "id": "vocab-hyoron-a4c55333",
+     "level": 2,
+     "prompt": "帰納",
+     "answer": "個々の具体例から一般的な法則を導くこと",
+     "note": "対義語：演繹"
+    },
+    {
+     "id": "vocab-hyoron-6f2edca6",
+     "level": 2,
+     "prompt": "演繹",
+     "answer": "一般的な原理から個々の事柄を推論すること",
+     "note": "対義語：帰納"
+    },
+    {
+     "id": "vocab-hyoron-0230fcca",
+     "level": 2,
+     "prompt": "理念",
+     "answer": "物事のあるべき姿についての根本的な考え"
+    },
+    {
+     "id": "vocab-hyoron-d25ed017",
+     "level": 2,
+     "prompt": "理性",
+     "answer": "筋道を立てて考え判断する能力",
+     "note": "対義語：感性・感情"
+    },
+    {
+     "id": "vocab-hyoron-65adc0a4",
+     "level": 2,
+     "prompt": "感性",
+     "answer": "物事を心に深く感じ取る働き",
+     "note": "対義語：理性・悟性"
+    },
+    {
+     "id": "vocab-hyoron-f1e9b601",
+     "level": 2,
+     "prompt": "自明",
+     "answer": "説明・証明しなくても明らかなこと",
+     "note": "「自明性を疑う」は評論の頻出パターン"
+    },
+    {
+     "id": "vocab-hyoron-2d512f13",
+     "level": 2,
+     "prompt": "所与",
+     "answer": "与えられたもの。前提として受け入れられているもの"
+    },
+    {
+     "id": "vocab-hyoron-0bf3fc4d",
+     "level": 2,
+     "prompt": "捨象",
+     "answer": "抽象する際に、共通しない性質を切り捨てること"
+    },
+    {
+     "id": "vocab-hyoron-6a66b8fb",
+     "level": 2,
+     "prompt": "止揚",
+     "answer": "対立する二つを、より高い次元で統一すること。アウフヘーベン",
+     "note": "ヘーゲル弁証法"
+    },
+    {
+     "id": "vocab-hyoron-1655a71f",
+     "level": 2,
+     "prompt": "弁証法",
+     "answer": "対立・矛盾を通じてより高い段階へ発展するとする考え方"
+    },
+    {
+     "id": "vocab-hyoron-89e4fdcd",
+     "level": 2,
+     "prompt": "形而上",
+     "answer": "形をもたず感覚では捉えられないもの。精神的・観念的なもの",
+     "note": "対義語：形而下"
+    },
+    {
+     "id": "vocab-hyoron-3d43a192",
+     "level": 2,
+     "prompt": "形而下",
+     "answer": "形をもち感覚で捉えられるもの",
+     "note": "対義語：形而上"
+    },
+    {
+     "id": "vocab-hyoron-d49eec56",
+     "level": 2,
+     "prompt": "観念",
+     "answer": "頭の中にある考え・イメージ"
+    },
+    {
+     "id": "vocab-hyoron-5719fafa",
+     "level": 2,
+     "prompt": "実存",
+     "answer": "現実に存在すること。特に人間の主体的なあり方",
+     "note": "実存主義：サルトルら"
+    },
+    {
+     "id": "vocab-hyoron-2abc4a9b",
+     "level": 2,
+     "prompt": "疎外",
+     "answer": "人間が自ら作り出したものによって支配され、人間性を失うこと",
+     "note": "マルクス"
+    },
+    {
+     "id": "vocab-hyoron-819cbfee",
+     "level": 2,
+     "prompt": "媒介",
+     "answer": "二つのものの間に立って関係を取り持つこと",
+     "note": "メディア＝媒体"
+    },
+    {
+     "id": "vocab-hyoron-95a745c1",
+     "level": 2,
+     "prompt": "表象",
+     "answer": "心に思い浮かべるイメージ。あるものを別のもので表すこと",
+     "note": "代表・再現（representation）"
+    },
+    {
+     "id": "vocab-hyoron-b8167c26",
+     "level": 2,
+     "prompt": "契機",
+     "answer": "物事が起こるきっかけ。構成要素"
+    },
+    {
+     "id": "vocab-hyoron-16043d95",
+     "level": 2,
+     "prompt": "虚構",
+     "answer": "事実ではないことを事実らしく作り上げること。フィクション"
+    },
+    {
+     "id": "vocab-hyoron-79ffe5fa",
+     "level": 2,
+     "prompt": "均質",
+     "answer": "どこをとっても性質が同じであること"
+    },
+    {
+     "id": "vocab-hyoron-39582989",
+     "level": 2,
+     "prompt": "画一",
+     "answer": "すべてを一様にそろえること"
+    },
+    {
+     "id": "vocab-hyoron-62ad0827",
+     "level": 2,
+     "prompt": "多様性",
+     "answer": "さまざまな種類・性質のものが存在すること"
+    },
+    {
+     "id": "vocab-hyoron-e82cab4a",
+     "level": 3,
+     "prompt": "アイロニー",
+     "answer": "皮肉。反語"
+    },
+    {
+     "id": "vocab-hyoron-6914aea6",
+     "level": 3,
+     "prompt": "パラダイム",
+     "answer": "ある時代・分野で支配的な、ものの見方や考え方の枠組み",
+     "note": "クーン『科学革命の構造』"
+    },
+    {
+     "id": "vocab-hyoron-881813d8",
+     "level": 3,
+     "prompt": "アイデンティティー",
+     "answer": "自己同一性。自分が自分であるという確信"
+    },
+    {
+     "id": "vocab-hyoron-e8546d7e",
+     "level": 3,
+     "prompt": "イデオロギー",
+     "answer": "社会集団の利害を反映した思想体系・観念形態"
+    },
+    {
+     "id": "vocab-hyoron-5938eca0",
+     "level": 3,
+     "prompt": "アナロジー",
+     "answer": "類推。似ている点をもとに他を推し量ること"
+    },
+    {
+     "id": "vocab-hyoron-2dc774ae",
+     "level": 3,
+     "prompt": "メタファー",
+     "answer": "隠喩。「〜のようだ」を用いない比喩",
+     "note": "例「人生は旅だ」"
+    },
+    {
+     "id": "vocab-hyoron-7c6462f0",
+     "level": 3,
+     "prompt": "ステレオタイプ",
+     "answer": "型にはまった画一的なものの見方"
+    },
+    {
+     "id": "vocab-hyoron-3493fdb2",
+     "level": 3,
+     "prompt": "ナショナリズム",
+     "answer": "国家・民族の統一や独立・発展を重視する思想"
+    },
+    {
+     "id": "vocab-hyoron-e573dab5",
+     "level": 3,
+     "prompt": "グローバリゼーション",
+     "answer": "地球規模で人・物・情報の移動が進み、一体化すること"
+    },
+    {
+     "id": "vocab-hyoron-12833c36",
+     "level": 3,
+     "prompt": "近代",
+     "answer": "西洋では理性・個人・科学を基盤とする時代。日本では明治以降",
+     "note": "評論最大のテーマ"
+    },
+    {
+     "id": "vocab-hyoron-15f5fc33",
+     "level": 3,
+     "prompt": "近代的自我",
+     "answer": "共同体から独立し、自ら考え判断する個人としての自己"
+    },
+    {
+     "id": "vocab-hyoron-468d87a2",
+     "level": 3,
+     "prompt": "二元論",
+     "answer": "世界を二つの原理（精神と物質など）で説明する立場",
+     "note": "デカルトの心身二元論"
+    },
+    {
+     "id": "vocab-hyoron-f4f6134a",
+     "level": 3,
+     "prompt": "還元主義",
+     "answer": "複雑な現象を要素に分解して説明できるとする立場"
+    },
+    {
+     "id": "vocab-hyoron-240dabab",
+     "level": 3,
+     "prompt": "機械論",
+     "answer": "自然を機械のように因果法則で説明できるとする立場",
+     "note": "対義語：目的論・有機体論"
+    },
+    {
+     "id": "vocab-hyoron-03b0cae7",
+     "level": 3,
+     "prompt": "共同体",
+     "answer": "血縁・地縁などで結ばれ、生活を共にする集団",
+     "note": "対：近代社会（ゲゼルシャフト）"
+    },
+    {
+     "id": "vocab-hyoron-1c122622",
+     "level": 3,
+     "prompt": "身体",
+     "answer": "単なる物体でなく、世界と関わり意味を生み出す生きた体",
+     "note": "メルロ＝ポンティ"
+    },
+    {
+     "id": "vocab-hyoron-9331f657",
+     "level": 3,
+     "prompt": "他者",
+     "answer": "自分とは異なり、自分の理解を超えた存在"
+    },
+    {
+     "id": "vocab-hyoron-71fdfc88",
+     "level": 3,
+     "prompt": "言説",
+     "answer": "ある社会で語られ、考え方を形作る言葉の総体。ディスクール",
+     "note": "フーコー"
+    },
+    {
+     "id": "vocab-hyoron-6c89cd7f",
+     "level": 3,
+     "prompt": "相対主義",
+     "answer": "価値や真理は立場によって異なり、絶対的なものはないとする考え"
+    },
+    {
+     "id": "vocab-hyoron-1c30bd45",
+     "level": 3,
+     "prompt": "構造主義",
+     "answer": "個々の要素よりも、要素間の関係（構造）を重視する考え方",
+     "note": "レヴィ＝ストロース"
+    },
+    {
+     "id": "vocab-hyoron-7a5f59ed",
+     "level": 3,
+     "prompt": "記号",
+     "answer": "ある意味を表すしるし。言語も記号の一種",
+     "note": "ソシュール：シニフィアン／シニフィエ"
+    },
+    {
+     "id": "vocab-hyoron-b90076e8",
+     "level": 3,
+     "prompt": "恣意性",
+     "answer": "言葉と指し示す物との結びつきに必然性がないこと",
+     "note": "ソシュール"
+    },
+    {
+     "id": "vocab-hyoron-a6d318db",
+     "level": 3,
+     "prompt": "ニヒリズム",
+     "answer": "虚無主義。既成の価値や真理を否定する立場",
+     "note": "ニーチェ"
+    },
+    {
+     "id": "vocab-hyoron-7e4a5b29",
+     "level": 3,
+     "prompt": "エゴイズム",
+     "answer": "利己主義"
+    },
+    {
+     "id": "vocab-hyoron-92386bc4",
+     "level": 3,
+     "prompt": "ヒューマニズム",
+     "answer": "人間性を尊重し、人間の解放を目指す思想"
+    },
+    {
+     "id": "vocab-hyoron-86e4b6d4",
+     "level": 3,
+     "prompt": "匿名性",
+     "answer": "名前や個人が特定されないこと。都市・ネット社会の特徴"
+    },
+    {
+     "id": "vocab-hyoron-b80e0348",
+     "level": 4,
+     "prompt": "措定",
+     "answer": "ある事柄を存在するものとして立てること"
+    },
+    {
+     "id": "vocab-hyoron-f01cf538",
+     "level": 4,
+     "prompt": "範疇",
+     "answer": "同じ種類のものが含まれる範囲。カテゴリー"
+    },
+    {
+     "id": "vocab-hyoron-8165d592",
+     "level": 4,
+     "prompt": "敷衍",
+     "answer": "意味・趣旨をおし広げて詳しく説明すること"
+    },
+    {
+     "id": "vocab-hyoron-cd615e3d",
+     "level": 4,
+     "prompt": "顕在",
+     "answer": "はっきりと形に現れていること",
+     "note": "対義語：潜在"
+    },
+    {
+     "id": "vocab-hyoron-d28518fb",
+     "level": 4,
+     "prompt": "内在",
+     "answer": "内部に存在すること",
+     "note": "対義語：外在・超越"
+    },
+    {
+     "id": "vocab-hyoron-7ded02dc",
+     "level": 4,
+     "prompt": "超越",
+     "answer": "一定の範囲や限界を超えること。経験を超えていること"
+    },
+    {
+     "id": "vocab-hyoron-a02a1ea5",
+     "level": 4,
+     "prompt": "位相",
+     "answer": "ある事柄が置かれている位置・段階・側面"
+    },
+    {
+     "id": "vocab-hyoron-ccbf8da8",
+     "level": 4,
+     "prompt": "通時的",
+     "answer": "時間の流れに沿って変化を捉えるさま",
+     "note": "対義語：共時的"
+    },
+    {
+     "id": "vocab-hyoron-3bf7a4ec",
+     "level": 4,
+     "prompt": "共時的",
+     "answer": "ある一時点の状態を、時間の変化を捨象して捉えるさま"
+    },
+    {
+     "id": "vocab-hyoron-d6ae559e",
+     "level": 4,
+     "prompt": "両義性",
+     "answer": "一つの事柄が相反する二つの意味をもつこと"
+    },
+    {
+     "id": "vocab-hyoron-a5b19739",
+     "level": 4,
+     "prompt": "予定調和",
+     "answer": "あらかじめ定められた通りに物事がうまく収まること",
+     "note": "ライプニッツ"
+    },
+    {
+     "id": "vocab-hyoron-ed23a524",
+     "level": 4,
+     "prompt": "物象化",
+     "answer": "人と人の関係が、物と物の関係のように見えてしまうこと"
+    },
+    {
+     "id": "vocab-hyoron-d7c8b546",
+     "level": 4,
+     "prompt": "脱構築",
+     "answer": "二項対立の階層を揺さぶり、テクストを読み直す方法",
+     "note": "デリダ"
+    },
+    {
+     "id": "vocab-hyoron-8d24b125",
+     "level": 4,
+     "prompt": "生政治",
+     "answer": "人々の生命・健康を管理することで行使される権力",
+     "note": "フーコー"
+    },
+    {
+     "id": "vocab-hyoron-b839daac",
+     "level": 4,
+     "prompt": "公共性",
+     "answer": "特定の個人でなく、社会の人々に開かれ共有されている性質",
+     "note": "ハーバーマス・アーレント"
+    },
+    {
+     "id": "vocab-hyoron-15ffec89",
+     "level": 4,
+     "prompt": "市民社会",
+     "answer": "自立した個人が自由・平等な関係で構成する社会"
+    },
+    {
+     "id": "vocab-hyoron-c002aa2a",
+     "level": 4,
+     "prompt": "ポストモダン",
+     "answer": "近代の理性中心主義・大きな物語を批判的に捉え直す思潮",
+     "note": "リオタール「大きな物語の終焉」"
+    },
+    {
+     "id": "vocab-hyoron-03f76a75",
+     "level": 4,
+     "prompt": "オリエンタリズム",
+     "answer": "西洋が東洋を異質な他者として表象し支配する思考様式",
+     "note": "サイード"
+    },
+    {
+     "id": "vocab-hyoron-27ae2f1f",
+     "level": 4,
+     "prompt": "エスノセントリズム",
+     "answer": "自民族中心主義"
+    },
+    {
+     "id": "vocab-hyoron-fb382657",
+     "level": 4,
+     "prompt": "シミュラークル",
+     "answer": "原物のない模造。コピーがオリジナルに先立つ状況",
+     "note": "ボードリヤール"
+    },
+    {
+     "id": "vocab-hyoron-a6bf8a26",
+     "level": 4,
+     "prompt": "環境世界",
+     "answer": "生物がそれぞれの知覚と行動によって作り上げる固有の世界",
+     "note": "ユクスキュル"
+    },
+    {
+     "id": "vocab-hyoron-dc332b05",
+     "level": 4,
+     "prompt": "間主観性",
+     "answer": "複数の主観の間で共有され成り立つこと"
+    },
+    {
+     "id": "vocab-hyoron-18564c85",
+     "level": 5,
+     "prompt": "アプリオリ",
+     "answer": "経験に先立つこと。先天的",
+     "note": "対義語：アポステリオリ"
+    },
+    {
+     "id": "vocab-hyoron-9af45e3a",
+     "level": 5,
+     "prompt": "エピステーメー",
+     "answer": "ある時代の知の枠組み",
+     "note": "フーコー"
+    },
+    {
+     "id": "vocab-hyoron-5025f529",
+     "level": 5,
+     "prompt": "ブリコラージュ",
+     "answer": "手持ちの雑多な材料を寄せ集めて作ること",
+     "note": "レヴィ＝ストロース『野生の思考』"
+    },
+    {
+     "id": "vocab-hyoron-e89e3c31",
+     "level": 5,
+     "prompt": "アウラ",
+     "answer": "芸術作品の「いま・ここ」にしかない一回的な輝き",
+     "note": "ベンヤミン「複製技術時代の芸術作品」"
+    },
+    {
+     "id": "vocab-hyoron-6a04f255",
+     "level": 5,
+     "prompt": "ハビトゥス",
+     "answer": "社会的に身につき、知覚や行動を方向づける性向",
+     "note": "ブルデュー"
+    },
+    {
+     "id": "vocab-hyoron-cf580502",
+     "level": 5,
+     "prompt": "テクスト",
+     "answer": "書き手の意図を離れ、読者が多様に読み取る織物としての文章",
+     "note": "バルト「作者の死」"
+    },
+    {
+     "id": "vocab-hyoron-86ad76d6",
+     "level": 5,
+     "prompt": "異化",
+     "answer": "見慣れたものを見慣れないものとして提示し、新たに知覚させること",
+     "note": "シクロフスキー"
+    },
+    {
+     "id": "vocab-hyoron-fe02ed8f",
+     "level": 5,
+     "prompt": "エートス",
+     "answer": "ある集団に特有の気風・倫理的な習慣",
+     "note": "ウェーバー"
+    },
+    {
+     "id": "vocab-hyoron-d48bd4c4",
+     "level": 5,
+     "prompt": "正統性",
+     "answer": "支配や権威が正しいと認められる根拠"
+    },
+    {
+     "id": "vocab-hyoron-87477e60",
+     "level": 5,
+     "prompt": "想像の共同体",
+     "answer": "国民は印刷資本主義などを通じて想像された共同体であるという考え",
+     "note": "アンダーソン"
+    },
+    {
+     "id": "vocab-hyoron-8361fd62",
+     "level": 5,
+     "prompt": "規律訓練",
+     "answer": "監視と規範を内面化させ、従順な身体を作る権力",
+     "note": "フーコー『監獄の誕生』パノプティコン"
+    },
+    {
+     "id": "vocab-hyoron-483d48e6",
+     "level": 5,
+     "prompt": "他律",
+     "answer": "自分の意志でなく、外部の規範や命令に従うこと",
+     "note": "対義語：自律（カント）"
+    },
+    {
+     "id": "vocab-hyoron-bd9be6fb",
+     "level": 5,
+     "prompt": "目的論",
+     "answer": "物事は目的に向かって存在・変化するという考え",
+     "note": "アリストテレス"
+    }
+   ],
+   "description": "評論文読解のキーワード（意味と対義語）",
+   "instruction": "次の語の意味を答えよ。"
+  },
+  {
+   "id": "vocab-kanyoku",
+   "title": "慣用句・ことわざ",
+   "kind": "flash",
+   "items": [
+    {
+     "id": "vocab-kanyoku-5ccdd253",
+     "level": 1,
+     "prompt": "気が置けない",
+     "answer": "遠慮しなくてよい。気楽に付き合える",
+     "note": "「油断できない」は誤用"
+    },
+    {
+     "id": "vocab-kanyoku-b2453f0f",
+     "level": 1,
+     "prompt": "情けは人のためならず",
+     "answer": "人に親切にすれば、巡り巡って自分によい報いがある",
+     "note": "「甘やかすのはよくない」は誤用"
+    },
+    {
+     "id": "vocab-kanyoku-5832feb4",
+     "level": 1,
+     "prompt": "役不足",
+     "answer": "力量に比べて役目が軽すぎること",
+     "note": "「力不足」と混同しない"
+    },
+    {
+     "id": "vocab-kanyoku-567b886d",
+     "level": 1,
+     "prompt": "流れに棹さす",
+     "answer": "流れに乗って勢いを増す",
+     "note": "「逆らう」は誤用"
+    },
+    {
+     "id": "vocab-kanyoku-ee45fa0f",
+     "level": 1,
+     "prompt": "確信犯",
+     "answer": "道徳的・宗教的信念に基づき正しいと信じて行う犯罪",
+     "note": "俗に「悪いと分かってやる」"
+    },
+    {
+     "id": "vocab-kanyoku-12ae8872",
+     "level": 1,
+     "prompt": "敷居が高い",
+     "answer": "不義理などがあって、その人の家に行きにくい",
+     "note": "「高級で入りにくい」は本来誤用"
+    },
+    {
+     "id": "vocab-kanyoku-a7344dd6",
+     "level": 1,
+     "prompt": "姑息",
+     "answer": "一時しのぎ",
+     "note": "「卑怯」は誤用"
+    },
+    {
+     "id": "vocab-kanyoku-f3bbd8de",
+     "level": 1,
+     "prompt": "煮詰まる",
+     "answer": "議論が出尽くして結論が出る段階になる",
+     "note": "「行き詰まる」は誤用"
+    },
+    {
+     "id": "vocab-kanyoku-6c0320f4",
+     "level": 1,
+     "prompt": "鼻にかける",
+     "answer": "自慢する"
+    },
+    {
+     "id": "vocab-kanyoku-3262421a",
+     "level": 1,
+     "prompt": "舌を巻く",
+     "answer": "非常に感心する"
+    },
+    {
+     "id": "vocab-kanyoku-a4be8bae",
+     "level": 1,
+     "prompt": "手をこまねく",
+     "answer": "何もせず傍観する"
+    },
+    {
+     "id": "vocab-kanyoku-b0ed851c",
+     "level": 1,
+     "prompt": "襟を正す",
+     "answer": "気持ちを引き締める"
+    },
+    {
+     "id": "vocab-kanyoku-e5125812",
+     "level": 1,
+     "prompt": "木で鼻をくくる",
+     "answer": "ひどく無愛想にふるまう"
+    },
+    {
+     "id": "vocab-kanyoku-2aa736ce",
+     "level": 1,
+     "prompt": "寝耳に水",
+     "answer": "突然の出来事に驚くこと"
+    },
+    {
+     "id": "vocab-kanyoku-75774071",
+     "level": 2,
+     "prompt": "溜飲が下がる",
+     "answer": "不平・不満が解消してすっきりする"
+    },
+    {
+     "id": "vocab-kanyoku-662f1392",
+     "level": 2,
+     "prompt": "二の足を踏む",
+     "answer": "ためらう"
+    },
+    {
+     "id": "vocab-kanyoku-8f32ba3b",
+     "level": 2,
+     "prompt": "腑に落ちない",
+     "answer": "納得がいかない"
+    },
+    {
+     "id": "vocab-kanyoku-d018edda",
+     "level": 2,
+     "prompt": "眉をひそめる",
+     "answer": "不快感を表す"
+    },
+    {
+     "id": "vocab-kanyoku-d88da7f7",
+     "level": 2,
+     "prompt": "歯に衣着せぬ",
+     "answer": "遠慮せず率直に言う"
+    },
+    {
+     "id": "vocab-kanyoku-47307bfd",
+     "level": 2,
+     "prompt": "琴線に触れる",
+     "answer": "心の奥の感じやすい部分に触れ、感動させる",
+     "note": "「怒らせる」は誤用"
+    },
+    {
+     "id": "vocab-kanyoku-a3505ee8",
+     "level": 2,
+     "prompt": "李下に冠を正さず",
+     "answer": "疑われるような行いは避けよ"
+    },
+    {
+     "id": "vocab-kanyoku-3f2f89d4",
+     "level": 2,
+     "prompt": "他山の石",
+     "answer": "他人の誤った言行も自分の修養の助けになる",
+     "note": "目上の人の手本の意で使うのは誤用"
+    },
+    {
+     "id": "vocab-kanyoku-6777e68a",
+     "level": 2,
+     "prompt": "枯れ木も山のにぎわい",
+     "answer": "つまらないものでも無いよりはまし",
+     "note": "他人に使うと失礼"
+    },
+    {
+     "id": "vocab-kanyoku-8fec7914",
+     "level": 2,
+     "prompt": "青菜に塩",
+     "answer": "すっかり元気をなくすさま"
+    },
+    {
+     "id": "vocab-kanyoku-d5b0850d",
+     "level": 2,
+     "prompt": "糠に釘",
+     "answer": "手応えがない"
+    },
+    {
+     "id": "vocab-kanyoku-c93faf89",
+     "level": 2,
+     "prompt": "一目置く",
+     "answer": "相手の力量を認め敬意を払う",
+     "note": "囲碁から"
+    },
+    {
+     "id": "vocab-kanyoku-ef567ef0",
+     "level": 2,
+     "prompt": "口を糊する",
+     "answer": "貧しい暮らしを立てる",
+     "note": "「糊口をしのぐ」"
+    },
+    {
+     "id": "vocab-kanyoku-69433996",
+     "level": 2,
+     "prompt": "白羽の矢が立つ",
+     "answer": "多くの中から選ばれる"
+    },
+    {
+     "id": "vocab-kanyoku-368e9e2d",
+     "level": 2,
+     "prompt": "火中の栗を拾う",
+     "answer": "他人のために危険を冒す",
+     "note": "ラ・フォンテーヌ寓話から"
+    },
+    {
+     "id": "vocab-kanyoku-2f1bc424",
+     "level": 2,
+     "prompt": "筆が立つ",
+     "answer": "文章を書くのがうまい"
+    },
+    {
+     "id": "vocab-kanyoku-f860d17d",
+     "level": 2,
+     "prompt": "目から鱗が落ちる",
+     "answer": "何かをきっかけに急に物事がよく分かるようになる",
+     "note": "新約聖書から"
+    },
+    {
+     "id": "vocab-kanyoku-dd6e9178",
+     "level": 3,
+     "prompt": "間髪を容れず",
+     "answer": "少しの時間も置かず",
+     "note": "「かんはつをいれず」が正しい"
+    },
+    {
+     "id": "vocab-kanyoku-e43df253",
+     "level": 3,
+     "prompt": "蛇足",
+     "answer": "余計なつけ足し",
+     "note": "『戦国策』"
+    },
+    {
+     "id": "vocab-kanyoku-fb186d1a",
+     "level": 3,
+     "prompt": "杞憂",
+     "answer": "取り越し苦労",
+     "note": "『列子』"
+    },
+    {
+     "id": "vocab-kanyoku-ef9c916f",
+     "level": 3,
+     "prompt": "推敲",
+     "answer": "詩文を何度も練り直すこと",
+     "note": "賈島の故事"
+    },
+    {
+     "id": "vocab-kanyoku-8b440085",
+     "level": 3,
+     "prompt": "矛盾",
+     "answer": "つじつまが合わないこと",
+     "note": "『韓非子』"
+    },
+    {
+     "id": "vocab-kanyoku-987a6799",
+     "level": 3,
+     "prompt": "漁夫の利",
+     "answer": "両者が争う隙に第三者が利益を得ること",
+     "note": "『戦国策』"
+    },
+    {
+     "id": "vocab-kanyoku-48598639",
+     "level": 3,
+     "prompt": "四面楚歌",
+     "answer": "周囲が敵ばかりで孤立すること",
+     "note": "『史記』項羽本紀"
+    },
+    {
+     "id": "vocab-kanyoku-c98174b5",
+     "level": 3,
+     "prompt": "背水の陣",
+     "answer": "失敗すれば後がない状況で全力を尽くすこと",
+     "note": "『史記』韓信"
+    },
+    {
+     "id": "vocab-kanyoku-66eea1ac",
+     "level": 3,
+     "prompt": "呉越同舟",
+     "answer": "仲の悪い者同士が同じ場所に居合わせる・協力すること",
+     "note": "『孫子』"
+    },
+    {
+     "id": "vocab-kanyoku-01263cda",
+     "level": 3,
+     "prompt": "守株",
+     "answer": "古い習慣にこだわり、融通がきかないこと",
+     "note": "『韓非子』「株を守る」"
+    },
+    {
+     "id": "vocab-kanyoku-3afc8bcc",
+     "level": 3,
+     "prompt": "塞翁が馬",
+     "answer": "人生の幸不幸は予測できない",
+     "note": "『淮南子』"
+    },
+    {
+     "id": "vocab-kanyoku-643044ed",
+     "level": 3,
+     "prompt": "朝三暮四",
+     "answer": "目先の違いにとらわれ、結果が同じであることに気づかない",
+     "note": "『列子』"
+    },
+    {
+     "id": "vocab-kanyoku-06de4fea",
+     "level": 3,
+     "prompt": "五十歩百歩",
+     "answer": "違いはあっても本質的には同じ",
+     "note": "『孟子』"
+    },
+    {
+     "id": "vocab-kanyoku-788a6cf1",
+     "level": 3,
+     "prompt": "虎の威を借る狐",
+     "answer": "他人の権勢を頼みに威張る",
+     "note": "『戦国策』"
+    },
+    {
+     "id": "vocab-kanyoku-c0383ac4",
+     "level": 3,
+     "prompt": "臥薪嘗胆",
+     "answer": "目的達成のために苦労に耐えること",
+     "note": "『十八史略』"
+    },
+    {
+     "id": "vocab-kanyoku-cde96b80",
+     "level": 3,
+     "prompt": "完璧",
+     "answer": "欠点のないこと。借りた物を無事に返すこと",
+     "note": "『史記』藺相如"
+    },
+    {
+     "id": "vocab-kanyoku-c231128c",
+     "level": 3,
+     "prompt": "断腸の思い",
+     "answer": "はらわたがちぎれるほどの悲しみ",
+     "note": "『世説新語』"
+    },
+    {
+     "id": "vocab-kanyoku-143de9a1",
+     "level": 3,
+     "prompt": "登竜門",
+     "answer": "立身出世のための関門",
+     "note": "『後漢書』"
+    },
+    {
+     "id": "vocab-kanyoku-fa2f5ee7",
+     "level": 3,
+     "prompt": "鶏口となるも牛後となるなかれ",
+     "answer": "大集団の末端より小集団の長になれ",
+     "note": "『史記』蘇秦"
+    },
+    {
+     "id": "vocab-kanyoku-bf8af540",
+     "level": 4,
+     "prompt": "人口に膾炙する",
+     "answer": "広く世間に知れ渡る"
+    },
+    {
+     "id": "vocab-kanyoku-dd344d0e",
+     "level": 4,
+     "prompt": "等閑に付す",
+     "answer": "いいかげんに放っておく",
+     "note": "等閑＝なおざり"
+    },
+    {
+     "id": "vocab-kanyoku-457c8e46",
+     "level": 4,
+     "prompt": "一頭地を抜く",
+     "answer": "他より一段とすぐれている"
+    },
+    {
+     "id": "vocab-kanyoku-b79053e7",
+     "level": 4,
+     "prompt": "轍を踏む",
+     "answer": "前の人と同じ失敗を繰り返す",
+     "note": "「前車の轍を踏む」"
+    },
+    {
+     "id": "vocab-kanyoku-0737513e",
+     "level": 4,
+     "prompt": "嚢中の錐",
+     "answer": "すぐれた人は自然と頭角を現す",
+     "note": "『史記』毛遂"
+    },
+    {
+     "id": "vocab-kanyoku-8012d1c3",
+     "level": 4,
+     "prompt": "牛耳を執る",
+     "answer": "団体の主導権を握る",
+     "note": "『春秋左氏伝』"
+    },
+    {
+     "id": "vocab-kanyoku-438372df",
+     "level": 4,
+     "prompt": "首鼠両端",
+     "answer": "形勢をうかがい、どちらにつくか迷うこと",
+     "note": "『史記』"
+    },
+    {
+     "id": "vocab-kanyoku-508c1c23",
+     "level": 4,
+     "prompt": "糟糠の妻",
+     "answer": "貧しい時から苦労を共にしてきた妻",
+     "note": "『後漢書』"
+    },
+    {
+     "id": "vocab-kanyoku-691c8f57",
+     "level": 4,
+     "prompt": "泣いて馬謖を斬る",
+     "answer": "規律のためには愛する者でも処罰する",
+     "note": "『三国志』"
+    },
+    {
+     "id": "vocab-kanyoku-ec4164d9",
+     "level": 4,
+     "prompt": "衣鉢を継ぐ",
+     "answer": "師から奥義を受け継ぐ",
+     "note": "禅宗"
+    },
+    {
+     "id": "vocab-kanyoku-de5edc99",
+     "level": 4,
+     "prompt": "掣肘を加える",
+     "answer": "横から干渉して自由な行動を妨げる"
+    },
+    {
+     "id": "vocab-kanyoku-04828b7a",
+     "level": 5,
+     "prompt": "顰みに倣う",
+     "answer": "善し悪しを考えず人まねをする（謙遜して用いる）",
+     "note": "西施の故事『荘子』"
+    },
+    {
+     "id": "vocab-kanyoku-07fc378f",
+     "level": 5,
+     "prompt": "鼎の軽重を問う",
+     "answer": "権威ある人の実力を疑う",
+     "note": "『春秋左氏伝』"
+    },
+    {
+     "id": "vocab-kanyoku-c05e2c59",
+     "level": 5,
+     "prompt": "羹に懲りて膾を吹く",
+     "answer": "一度の失敗に懲りて必要以上に用心する",
+     "note": "『楚辞』"
+    },
+    {
+     "id": "vocab-kanyoku-7a1217eb",
+     "level": 5,
+     "prompt": "驥尾に付す",
+     "answer": "すぐれた人に従って事を成す（謙遜）",
+     "note": "『史記』"
+    },
+    {
+     "id": "vocab-kanyoku-0c56002c",
+     "level": 5,
+     "prompt": "隗より始めよ",
+     "answer": "大事業はまず身近なことから。言い出した者から始めよ",
+     "note": "『戦国策』郭隗"
+    },
+    {
+     "id": "vocab-kanyoku-f17b4618",
+     "level": 5,
+     "prompt": "唇亡びて歯寒し",
+     "answer": "密接な関係の一方が滅ぶと他方も危うい",
+     "note": "『春秋左氏伝』"
+    },
+    {
+     "id": "vocab-kanyoku-e8265452",
+     "level": 5,
+     "prompt": "曲学阿世",
+     "answer": "学問の真理を曲げて世に迎合すること",
+     "note": "『史記』"
+    },
+    {
+     "id": "vocab-kanyoku-16845350",
+     "level": 5,
+     "prompt": "管鮑の交わり",
+     "answer": "互いに理解し合った親密な友情",
+     "note": "管仲と鮑叔"
+    },
+    {
+     "id": "vocab-kanyoku-a739d0ac",
+     "level": 5,
+     "prompt": "刎頸の交わり",
+     "answer": "首を斬られても悔いないほどの友情",
+     "note": "廉頗と藺相如"
+    }
+   ],
+   "instruction": "次の表現の意味を答えよ。"
+  },
+  {
+   "id": "vocab-yoji",
+   "title": "四字熟語",
+   "kind": "flash",
+   "items": [
+    {
+     "id": "vocab-yoji-43c631c2",
+     "level": 1,
+     "prompt": "[[一石二鳥]]",
+     "answer": "いっせきにちょう：一つの行為で二つの利益を得ること"
+    },
+    {
+     "id": "vocab-yoji-0eca3799",
+     "level": 1,
+     "prompt": "[[自業自得]]",
+     "answer": "じごうじとく：自分の行いの報いを自分が受けること"
+    },
+    {
+     "id": "vocab-yoji-30610e44",
+     "level": 1,
+     "prompt": "[[異口同音]]",
+     "answer": "いくどうおん：多くの人が口をそろえて同じことを言うこと"
+    },
+    {
+     "id": "vocab-yoji-dc71f33a",
+     "level": 1,
+     "prompt": "[[以心伝心]]",
+     "answer": "いしんでんしん：言葉を使わず心が通じ合うこと"
+    },
+    {
+     "id": "vocab-yoji-04a6b490",
+     "level": 1,
+     "prompt": "[[我田引水]]",
+     "answer": "がでんいんすい：自分に都合のよいように取り計らうこと"
+    },
+    {
+     "id": "vocab-yoji-d840b8f1",
+     "level": 1,
+     "prompt": "[[針小棒大]]",
+     "answer": "しんしょうぼうだい：小さなことを大げさに言うこと"
+    },
+    {
+     "id": "vocab-yoji-1f9affaa",
+     "level": 1,
+     "prompt": "[[大器晩成]]",
+     "answer": "たいきばんせい：大人物は遅れて大成すること"
+    },
+    {
+     "id": "vocab-yoji-4c3cf818",
+     "level": 1,
+     "prompt": "[[単刀直入]]",
+     "answer": "たんとうちょくにゅう：前置きなしにいきなり本題に入ること",
+     "note": "「短刀」は誤り"
+    },
+    {
+     "id": "vocab-yoji-cdd8bd48",
+     "level": 1,
+     "prompt": "[[危機一髪]]",
+     "answer": "ききいっぱつ：ごくわずかな差で危険に陥りそうな状態",
+     "note": "「一発」は誤り"
+    },
+    {
+     "id": "vocab-yoji-87fca18b",
+     "level": 1,
+     "prompt": "[[絶体絶命]]",
+     "answer": "ぜったいぜつめい：逃れようのない困難な立場",
+     "note": "「絶対」は誤り"
+    },
+    {
+     "id": "vocab-yoji-8b6add3e",
+     "level": 2,
+     "prompt": "[[付和雷同]]",
+     "answer": "ふわらいどう：自分の考えがなく他人の意見に同調すること"
+    },
+    {
+     "id": "vocab-yoji-af954eaa",
+     "level": 2,
+     "prompt": "[[臨機応変]]",
+     "answer": "りんきおうへん：状況に応じて適切に対処すること"
+    },
+    {
+     "id": "vocab-yoji-21faffb1",
+     "level": 2,
+     "prompt": "[[本末転倒]]",
+     "answer": "ほんまつてんとう：大事なことと些細なことを取り違えること"
+    },
+    {
+     "id": "vocab-yoji-b6722817",
+     "level": 2,
+     "prompt": "[[温故知新]]",
+     "answer": "おんこちしん：古いことを学んで新しい知識を得ること",
+     "note": "『論語』"
+    },
+    {
+     "id": "vocab-yoji-8c27f92f",
+     "level": 2,
+     "prompt": "[[朝令暮改]]",
+     "answer": "ちょうれいぼかい：命令や方針が頻繁に変わって定まらないこと"
+    },
+    {
+     "id": "vocab-yoji-be2c66ec",
+     "level": 2,
+     "prompt": "[[傍若無人]]",
+     "answer": "ぼうじゃくぶじん：人前をはばからず勝手にふるまうこと"
+    },
+    {
+     "id": "vocab-yoji-69583f78",
+     "level": 2,
+     "prompt": "[[優柔不断]]",
+     "answer": "ゆうじゅうふだん：ぐずぐずして決断できないこと"
+    },
+    {
+     "id": "vocab-yoji-9bef00d5",
+     "level": 2,
+     "prompt": "[[言語道断]]",
+     "answer": "ごんごどうだん：言葉で言い表せないほどひどいこと"
+    },
+    {
+     "id": "vocab-yoji-894e24cd",
+     "level": 2,
+     "prompt": "[[馬耳東風]]",
+     "answer": "ばじとうふう：他人の意見を聞き流すこと",
+     "note": "李白の詩から"
+    },
+    {
+     "id": "vocab-yoji-758f3dfb",
+     "level": 2,
+     "prompt": "[[粉骨砕身]]",
+     "answer": "ふんこつさいしん：力の限り努力すること"
+    },
+    {
+     "id": "vocab-yoji-6e2cf4b8",
+     "level": 2,
+     "prompt": "[[暗中模索]]",
+     "answer": "あんちゅうもさく：手がかりのないまま探ること"
+    },
+    {
+     "id": "vocab-yoji-1b84dc4c",
+     "level": 2,
+     "prompt": "[[千載一遇]]",
+     "answer": "せんざいいちぐう：めったにないよい機会"
+    },
+    {
+     "id": "vocab-yoji-1264df57",
+     "level": 3,
+     "prompt": "[[換骨奪胎]]",
+     "answer": "かんこつだったい：先人の作品の趣旨を生かしつつ新しいものを作ること",
+     "note": "「焼き直し」の意は本来誤用"
+    },
+    {
+     "id": "vocab-yoji-6ebfe2b9",
+     "level": 3,
+     "prompt": "[[羊頭狗肉]]",
+     "answer": "ようとうくにく：見かけは立派でも実質が伴わないこと"
+    },
+    {
+     "id": "vocab-yoji-cbdbf121",
+     "level": 3,
+     "prompt": "[[泰然自若]]",
+     "answer": "たいぜんじじゃく：落ち着いて物事に動じないさま"
+    },
+    {
+     "id": "vocab-yoji-14688e45",
+     "level": 3,
+     "prompt": "[[曖昧模糊]]",
+     "answer": "あいまいもこ：物事がはっきりしないさま"
+    },
+    {
+     "id": "vocab-yoji-b192e5fe",
+     "level": 3,
+     "prompt": "[[厚顔無恥]]",
+     "answer": "こうがんむち：厚かましく恥知らずなこと"
+    },
+    {
+     "id": "vocab-yoji-d2d7762d",
+     "level": 3,
+     "prompt": "[[森羅万象]]",
+     "answer": "しんらばんしょう：宇宙に存在するすべてのもの"
+    },
+    {
+     "id": "vocab-yoji-bc446aa1",
+     "level": 3,
+     "prompt": "[[有為転変]]",
+     "answer": "ういてんぺん：世の中が絶えず移り変わり、はかないこと",
+     "note": "仏教語"
+    },
+    {
+     "id": "vocab-yoji-9f950482",
+     "level": 3,
+     "prompt": "[[諸行無常]]",
+     "answer": "しょぎょうむじょう：この世のすべては移り変わり永遠のものはない",
+     "note": "『平家物語』冒頭"
+    },
+    {
+     "id": "vocab-yoji-ed6a27f4",
+     "level": 3,
+     "prompt": "[[巧言令色]]",
+     "answer": "こうげんれいしょく：言葉を飾り顔色をつくろってこびること",
+     "note": "『論語』「鮮なし仁」"
+    },
+    {
+     "id": "vocab-yoji-855702a5",
+     "level": 3,
+     "prompt": "[[和魂洋才]]",
+     "answer": "わこんようさい：日本固有の精神で西洋の学問・技術を取り入れること"
+    },
+    {
+     "id": "vocab-yoji-3d42b56e",
+     "level": 3,
+     "prompt": "[[換言すれば]]と[[畢竟]]",
+     "answer": "かんげん・ひっきょう：言い換えれば／結局",
+     "note": "評論の論理標識"
+    },
+    {
+     "id": "vocab-yoji-b728ef16",
+     "level": 3,
+     "prompt": "[[虚心坦懐]]",
+     "answer": "きょしんたんかい：わだかまりなく素直な心で臨むこと"
+    },
+    {
+     "id": "vocab-yoji-108da027",
+     "level": 3,
+     "prompt": "[[一期一会]]",
+     "answer": "いちごいちえ：生涯に一度限りの出会い",
+     "note": "茶道"
+    },
+    {
+     "id": "vocab-yoji-ee8c32ac",
+     "level": 4,
+     "prompt": "[[牽強付会]]",
+     "answer": "けんきょうふかい：道理に合わないことを自分に都合よくこじつけること"
+    },
+    {
+     "id": "vocab-yoji-c61971ca",
+     "level": 4,
+     "prompt": "[[党同伐異]]",
+     "answer": "とうどうばつい：仲間に味方し異なる者を攻撃すること"
+    },
+    {
+     "id": "vocab-yoji-9e1a3366",
+     "level": 4,
+     "prompt": "[[跳梁跋扈]]",
+     "answer": "ちょうりょうばっこ：悪人などがのさばり、はびこること"
+    },
+    {
+     "id": "vocab-yoji-9d612a1c",
+     "level": 4,
+     "prompt": "[[韋編三絶]]",
+     "answer": "いへんさんぜつ：繰り返し熱心に書物を読むこと",
+     "note": "孔子の故事"
+    },
+    {
+     "id": "vocab-yoji-69ab7904",
+     "level": 4,
+     "prompt": "[[酔生夢死]]",
+     "answer": "すいせいむし：何もせず無為に一生を終えること"
+    },
+    {
+     "id": "vocab-yoji-22e21b9c",
+     "level": 4,
+     "prompt": "[[蓋棺事定]]",
+     "answer": "がいかんじてい：人の評価は死後に定まる"
+    },
+    {
+     "id": "vocab-yoji-3d4a89e5",
+     "level": 4,
+     "prompt": "[[気宇壮大]]",
+     "answer": "きうそうだい：心構えや発想が大きく立派なこと"
+    },
+    {
+     "id": "vocab-yoji-63ae8813",
+     "level": 4,
+     "prompt": "[[白砂青松]]",
+     "answer": "はくしゃせいしょう：白い砂浜に青い松が続く美しい海岸"
+    },
+    {
+     "id": "vocab-yoji-61a3fe4c",
+     "level": 4,
+     "prompt": "[[虚々実々]]",
+     "answer": "きょきょじつじつ：計略や技を尽くして戦うさま"
+    },
+    {
+     "id": "vocab-yoji-c89c0c5e",
+     "level": 5,
+     "prompt": "[[夜郎自大]]",
+     "answer": "やろうじだい：自分の力量を知らずに威張ること",
+     "note": "『史記』"
+    },
+    {
+     "id": "vocab-yoji-4d0daa48",
+     "level": 5,
+     "prompt": "[[鼓腹撃壌]]",
+     "answer": "こふくげきじょう：太平の世を楽しむこと",
+     "note": "『十八史略』"
+    },
+    {
+     "id": "vocab-yoji-b5228c3a",
+     "level": 5,
+     "prompt": "[[月下氷人]]",
+     "answer": "げっかひょうじん：男女の縁を取り持つ人。仲人"
+    },
+    {
+     "id": "vocab-yoji-9935a5be",
+     "level": 5,
+     "prompt": "[[狷介孤高]]",
+     "answer": "けんかいここう：頑固に意志を守り、他と相いれず超然としていること"
+    },
+    {
+     "id": "vocab-yoji-c848a988",
+     "level": 5,
+     "prompt": "[[竜頭蛇尾]]",
+     "answer": "りゅうとうだび：初めは勢いがよいが終わりは振るわないこと"
+    },
+    {
+     "id": "vocab-yoji-8f3315c0",
+     "level": 5,
+     "prompt": "[[阿諛追従]]",
+     "answer": "あゆついしょう：こびへつらうこと"
+    },
+    {
+     "id": "vocab-yoji-36ac57ea",
+     "level": 5,
+     "prompt": "[[和光同塵]]",
+     "answer": "わこうどうじん：才能を隠して俗世に交わること",
+     "note": "『老子』"
+    },
+    {
+     "id": "vocab-yoji-c9535b9c",
+     "level": 5,
+     "prompt": "[[胡蝶之夢]]",
+     "answer": "こちょうのゆめ：夢と現実の区別がつかないこと。人生のはかなさ",
+     "note": "『荘子』"
+    }
+   ],
+   "instruction": "傍線部の四字熟語の読みと意味を答えよ。"
+  },
+  {
+   "id": "vocab-shinjo",
+   "title": "小説の語彙・心情語",
+   "kind": "flash",
+   "items": [
+    {
+     "id": "vocab-shinjo-90387098",
+     "level": 1,
+     "prompt": "やるせない",
+     "answer": "思いを晴らす方法がなく、つらく切ない"
+    },
+    {
+     "id": "vocab-shinjo-acac672c",
+     "level": 1,
+     "prompt": "いたたまれない",
+     "answer": "その場にじっとしていられない気持ち"
+    },
+    {
+     "id": "vocab-shinjo-29beeba5",
+     "level": 1,
+     "prompt": "もどかしい",
+     "answer": "思い通りにならず、いらいらする"
+    },
+    {
+     "id": "vocab-shinjo-36d038a9",
+     "level": 1,
+     "prompt": "後ろめたい",
+     "answer": "自分に悪いところがあり、気がとがめる"
+    },
+    {
+     "id": "vocab-shinjo-1c90f580",
+     "level": 1,
+     "prompt": "心許ない",
+     "answer": "頼りなく不安である"
+    },
+    {
+     "id": "vocab-shinjo-8fa6df68",
+     "level": 1,
+     "prompt": "ばつが悪い",
+     "answer": "その場を取りつくろえず、きまりが悪い"
+    },
+    {
+     "id": "vocab-shinjo-17b9ec1d",
+     "level": 1,
+     "prompt": "面映ゆい",
+     "answer": "照れくさい。きまりが悪い"
+    },
+    {
+     "id": "vocab-shinjo-b25b998d",
+     "level": 2,
+     "prompt": "わだかまり",
+     "answer": "心に引っかかって解消しない不満や疑念"
+    },
+    {
+     "id": "vocab-shinjo-7d197f0b",
+     "level": 2,
+     "prompt": "ひけめ",
+     "answer": "他人より劣っていると感じる気持ち"
+    },
+    {
+     "id": "vocab-shinjo-7d8ebdc7",
+     "level": 2,
+     "prompt": "いぶかしい",
+     "answer": "疑わしく不審である"
+    },
+    {
+     "id": "vocab-shinjo-701d0a86",
+     "level": 2,
+     "prompt": "居丈高",
+     "answer": "人を威圧するような態度をとるさま"
+    },
+    {
+     "id": "vocab-shinjo-769e23e4",
+     "level": 2,
+     "prompt": "所在ない",
+     "answer": "することがなく退屈である"
+    },
+    {
+     "id": "vocab-shinjo-ee0c976a",
+     "level": 2,
+     "prompt": "おもはゆい",
+     "answer": "顔を合わせるのが気恥ずかしい"
+    },
+    {
+     "id": "vocab-shinjo-fbd792b8",
+     "level": 2,
+     "prompt": "鼻白む",
+     "answer": "興ざめした顔つきをする"
+    },
+    {
+     "id": "vocab-shinjo-648753b3",
+     "level": 2,
+     "prompt": "気色ばむ",
+     "answer": "怒りを顔に表す"
+    },
+    {
+     "id": "vocab-shinjo-10073a0b",
+     "level": 2,
+     "prompt": "憮然",
+     "answer": "失望してぼんやりするさま",
+     "note": "「腹を立てる」は本来誤用"
+    },
+    {
+     "id": "vocab-shinjo-e07b7a1d",
+     "level": 2,
+     "prompt": "目くばせ",
+     "answer": "目で合図すること"
+    },
+    {
+     "id": "vocab-shinjo-86093fcb",
+     "level": 2,
+     "prompt": "うそぶく",
+     "answer": "平然として、とぼけたり大きなことを言ったりする"
+    },
+    {
+     "id": "vocab-shinjo-de76bad7",
+     "level": 2,
+     "prompt": "にべもない",
+     "answer": "愛想がない。そっけない"
+    },
+    {
+     "id": "vocab-shinjo-9b907855",
+     "level": 3,
+     "prompt": "相好を崩す",
+     "answer": "喜んで顔をほころばせる"
+    },
+    {
+     "id": "vocab-shinjo-f9b53fe4",
+     "level": 3,
+     "prompt": "悄然",
+     "answer": "しょげて元気のないさま"
+    },
+    {
+     "id": "vocab-shinjo-a3acf1a5",
+     "level": 3,
+     "prompt": "呆然",
+     "answer": "あっけにとられるさま"
+    },
+    {
+     "id": "vocab-shinjo-0a46f178",
+     "level": 3,
+     "prompt": "忸怩",
+     "answer": "自分の行いを深く恥じるさま"
+    },
+    {
+     "id": "vocab-shinjo-107c9cbd",
+     "level": 3,
+     "prompt": "屈託",
+     "answer": "気にかかってくよくよすること",
+     "note": "「屈託のない」＝さっぱりしている"
+    },
+    {
+     "id": "vocab-shinjo-c4fb1707",
+     "level": 3,
+     "prompt": "鷹揚",
+     "answer": "ゆったりとして、こせこせしないさま"
+    },
+    {
+     "id": "vocab-shinjo-e170df77",
+     "level": 3,
+     "prompt": "殊勝",
+     "answer": "けなげで感心なさま"
+    },
+    {
+     "id": "vocab-shinjo-e8c93e9c",
+     "level": 3,
+     "prompt": "頑な",
+     "answer": "意地を張って自説を変えないさま"
+    },
+    {
+     "id": "vocab-shinjo-d7a69979",
+     "level": 3,
+     "prompt": "衒い",
+     "answer": "学識などをひけらかすこと"
+    },
+    {
+     "id": "vocab-shinjo-55c5e448",
+     "level": 3,
+     "prompt": "打算的",
+     "answer": "損得を見積もって行動するさま"
+    },
+    {
+     "id": "vocab-shinjo-dffd7ec9",
+     "level": 3,
+     "prompt": "自嘲",
+     "answer": "自分で自分をあざけること"
+    },
+    {
+     "id": "vocab-shinjo-5eef8f7f",
+     "level": 3,
+     "prompt": "慨嘆",
+     "answer": "憤り嘆くこと"
+    },
+    {
+     "id": "vocab-shinjo-a2f34cdd",
+     "level": 3,
+     "prompt": "感慨",
+     "answer": "身にしみて深く感じること"
+    },
+    {
+     "id": "vocab-shinjo-c4503145",
+     "level": 4,
+     "prompt": "憔悴",
+     "answer": "心配や疲れでやつれること"
+    },
+    {
+     "id": "vocab-shinjo-5879b72b",
+     "level": 4,
+     "prompt": "逡巡",
+     "answer": "ためらって決心がつかないこと"
+    },
+    {
+     "id": "vocab-shinjo-a44f21f8",
+     "level": 4,
+     "prompt": "諦観",
+     "answer": "本質をはっきり見ること。悟ってあきらめること"
+    },
+    {
+     "id": "vocab-shinjo-686926c5",
+     "level": 4,
+     "prompt": "寂寥",
+     "answer": "ひっそりともの寂しいこと"
+    },
+    {
+     "id": "vocab-shinjo-61493652",
+     "level": 4,
+     "prompt": "悔悟",
+     "answer": "過ちを悔いて悟ること"
+    },
+    {
+     "id": "vocab-shinjo-3d08d848",
+     "level": 4,
+     "prompt": "懊悩",
+     "answer": "悩みもだえること"
+    },
+    {
+     "id": "vocab-shinjo-3ad310f4",
+     "level": 4,
+     "prompt": "愁眉を開く",
+     "answer": "心配事がなくなりほっとする"
+    },
+    {
+     "id": "vocab-shinjo-8f28ec92",
+     "level": 4,
+     "prompt": "胸がすく",
+     "answer": "胸のつかえが取れてすっきりする"
+    },
+    {
+     "id": "vocab-shinjo-00b0f4d8",
+     "level": 4,
+     "prompt": "臍を噛む",
+     "answer": "後悔する"
+    },
+    {
+     "id": "vocab-shinjo-bfa1e972",
+     "level": 5,
+     "prompt": "慙愧",
+     "answer": "自分の言動を恥じ入ること"
+    },
+    {
+     "id": "vocab-shinjo-33757116",
+     "level": 5,
+     "prompt": "欣喜雀躍",
+     "answer": "小躍りして大喜びすること"
+    },
+    {
+     "id": "vocab-shinjo-9bab36cd",
+     "level": 5,
+     "prompt": "嗟嘆",
+     "answer": "嘆くこと。または感心してほめること"
+    },
+    {
+     "id": "vocab-shinjo-15da419f",
+     "level": 5,
+     "prompt": "恬然",
+     "answer": "平然として気にかけないさま"
+    },
+    {
+     "id": "vocab-shinjo-17548ad9",
+     "level": 5,
+     "prompt": "惘然",
+     "answer": "あっけにとられてぼんやりするさま"
+    },
+    {
+     "id": "vocab-shinjo-38cb2128",
+     "level": 5,
+     "prompt": "粛然",
+     "answer": "おごそかで身が引き締まるさま"
+    }
+   ],
+   "description": "小説読解・共通テストの語句の意味問題に対応",
+   "instruction": "次の語の意味を答えよ。"
+  }
+ ]
+}
