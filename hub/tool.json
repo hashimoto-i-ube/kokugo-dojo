@@ -1,0 +1,1 @@
+{"schemaVersion":1,"id":"kokugo-dojo","name":"国語道場","description":"漢字・語彙・古文・漢文を入試レベルまで","version":"__VERSION__","build":__BUILD__,"entry":"index.html","icon":"icon.png","minHubVersion":"1.0.0"}

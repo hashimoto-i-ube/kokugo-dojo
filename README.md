@@ -60,6 +60,28 @@ xattr -dr com.apple.quarantine /Applications/国語道場.app
 2. `python3 scripts/build_content.py` で JSON とマニフェストを再生成（変更したパックだけ版が上がる）
 3. コミットして `main` に push → 利用者のアプリが次回起動時に取り込みます
 
+## ULSハブ版（Web 版）
+
+ULSハブで動かす Web 版は `hub/`（素の HTML/CSS/JS）にあります。macOS アプリとは別物で、同じ `content/packs` の学習データを使います。
+
+パッケージ（zip）の作成：
+
+```bash
+scripts/build_hub_package.sh            # build は「今日の日付＋連番」を自動採番
+scripts/build_hub_package.sh 2026102301 # build 番号を指定する場合
+```
+
+`dist/hub/kokugo-dojo-<build>.zip` ができ、SHA-256 とサイズが表示されます（ULSハブへの公開に使います）。
+
+ブラウザでの確認（zip を展開して簡易サーバーで開く）：
+
+```bash
+mkdir -p dist/check && cd dist/check && unzip -oq ../hub/kokugo-dojo-*.zip && python3 -m http.server 8000
+```
+
+ブラウザで http://localhost:8000/ を開きます。ハブの外では学習記録がブラウザの localStorage に保存されます。
+画面は `#/s/<分野>` `#/study/<デッキID>` `#/quiz/<デッキID>` `#/p/<読解ID>` で直接開けます。
+
 ## リリース
 
 `VERSION` を更新してコミットし、`v0.2.0` のようなタグを push すると、GitHub Actions がアプリをビルドして Releases に zip を添付します。

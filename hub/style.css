@@ -1,0 +1,59 @@
+:root { color-scheme: light dark; --bg:#f5f5f7; --card:#fff; --ink:#1d1d1f; --sub:#6e6e73; --accent:#b4232a; --line:#d2d2d7; --hl:rgba(180,35,42,.08); --ok:#1f8a4c; --ng:#c0392b; }
+@media (prefers-color-scheme: dark) { :root { --bg:#161618; --card:#232326; --ink:#f2f2f2; --sub:#a0a0a6; --accent:#ff7b7b; --line:#444; --hl:rgba(255,107,107,.14); --ok:#4cc27f; --ng:#ff7b6b; } }
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body { margin:0; background:var(--bg); color:var(--ink); font:16px/1.6 -apple-system,"Hiragino Sans","Yu Gothic",sans-serif; }
+#bar { position:sticky; top:0; z-index:5; display:flex; align-items:center; gap:8px; padding:8px 16px; background:var(--card); border-bottom:1px solid var(--line); }
+#bar h1 { margin:0; font-size:1.05rem; }
+#back { border:0; background:none; color:var(--accent); font-size:1.8rem; line-height:1; padding:0 8px; min-width:44px; min-height:44px; cursor:pointer; }
+#app { max-width:760px; margin:0 auto; padding:16px; }
+h2 { font-size:1rem; color:var(--accent); margin:20px 0 8px; }
+.muted { color:var(--sub); font-size:.9rem; } small { font-size:.8rem; }
+.card { background:var(--card); border:1px solid var(--line); border-radius:12px; padding:14px; margin:0 0 10px; color:inherit; text-decoration:none; }
+.grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(150px,1fr)); gap:10px; }
+.subj { display:flex; flex-direction:column; gap:2px; position:relative; margin:0; min-height:112px; }
+.subj .ico { font:700 1.6rem "Hiragino Mincho ProN",serif; color:var(--accent); }
+.badge { position:absolute; top:10px; right:10px; background:var(--accent); color:#fff; border-radius:99px; font-size:.75rem; padding:0 8px; }
+.hero { display:flex; flex-wrap:wrap; align-items:center; gap:16px 28px; background:var(--card); border:1px solid var(--line); border-radius:14px; padding:16px; }
+.hero.col { flex-direction:column; text-align:center; } .hero .btn { margin-left:auto; }
+.big { font-size:2.6rem; font-weight:700; line-height:1; color:var(--accent); } .big.sm { font-size:1.8rem; }
+.btn, .choice, .chip { font:inherit; min-height:44px; padding:8px 16px; border:1px solid var(--line); background:var(--card); color:var(--ink); border-radius:10px; cursor:pointer; text-decoration:none; display:inline-flex; align-items:center; justify-content:center; }
+.btn.primary { background:var(--accent); border-color:var(--accent); color:#fff; } [aria-disabled="true"] { opacity:.4; pointer-events:none; }
+.btn.wide { width:100%; margin-top:12px; }
+.row { display:flex; gap:8px; align-items:center; justify-content:space-between; }
+.link { cursor:pointer; min-height:48px; }
+.deck .row { justify-content:flex-start; margin-top:10px; } .deckhead { display:flex; flex-direction:column; }
+.stats { display:flex; flex-wrap:wrap; gap:4px 14px; font-size:.85rem; color:var(--sub); margin-top:6px; } .stats .due { color:var(--accent); font-weight:700; }
+.chips { display:flex; flex-wrap:wrap; gap:6px; } .chip { min-height:36px; padding:2px 12px; border-radius:99px; font-size:.85rem; } .chip.on { background:var(--accent); border-color:var(--accent); color:#fff; }
+.progress { height:4px; background:var(--line); border-radius:2px; overflow:hidden; } .progress i { display:block; height:100%; background:var(--accent); }
+.instr { margin:8px 0; } .tag { background:var(--hl); color:var(--accent); border-radius:4px; padding:0 6px; font-size:.75rem; }
+.prompt { display:flex; justify-content:center; padding:18px 12px; } .prompt.vwrap { min-height:14em; }
+.answer .a { font-size:1.25rem; font-weight:700; } .answer { margin-top:10px; }
+.grades { display:grid; grid-template-columns:repeat(4,1fr); gap:6px; } .grades .wide { grid-column:1/-1; }
+.grades .g0 { color:var(--ng); } .grades .g2, .grades .g3 { color:var(--ok); }
+.choices { display:grid; gap:8px; margin-top:12px; } .choice { justify-content:flex-start; text-align:start; width:100%; margin-top:6px; }
+.choices .choice { margin:0; }
+.choice.ok { border-color:var(--ok); background:color-mix(in srgb,var(--ok) 15%,var(--card)); } .choice.ng { border-color:var(--ng); background:color-mix(in srgb,var(--ng) 15%,var(--card)); }
+.verdict { font-weight:700; margin:8px 0 4px; } .verdict.ok { color:var(--ok); } .verdict.ng { color:var(--ng); }
+.q { margin-top:12px; } .lesson { overflow-x:auto; }
+.vbox { padding:8px; }
+
+/* 縦書き・ルビ・傍線・傍点・訓点 */
+.jtext { font-family:"Hiragino Mincho ProN","Yu Mincho","YuMincho",serif; font-size:1.25rem; line-height:1.9; }
+.jtext.v { writing-mode:vertical-rl; -webkit-writing-mode:vertical-rl; }
+.jtext.v.long { height:min(26em,70vh); overflow-x:auto; overflow-y:hidden; display:block; width:100%; padding:.4em .6em; }
+.jtext p { margin:0; text-indent:1em; }
+.jtext rt { font-size:.5em; }
+.bosen { padding:0 .08em; } .v .bosen { border-right:1.5px solid var(--accent); } .h .bosen { border-bottom:1.5px solid var(--accent); }
+.bosen-label { font-size:.6em; color:var(--accent); font-family:-apple-system,sans-serif; margin:0 .15em; }
+.v .bosen-label { text-combine-upright:all; -webkit-text-combine:horizontal; }
+em.boten { font-style:normal; -webkit-text-emphasis:filled sesame; text-emphasis:filled sesame; }
+.blank { display:inline-block; min-inline-size:2.2em; min-block-size:1.3em; border:1px solid var(--line); text-align:center; font-size:.7em; color:var(--sub); font-family:-apple-system,sans-serif; margin:0 .2em; }
+.v .blank { text-combine-upright:all; }
+.jtext.kanbun { line-height:2.8; letter-spacing:.15em; }
+.kb { position:relative; display:inline-block; line-height:1; letter-spacing:0; margin-bottom:.15em; }
+.kb .okuri { position:absolute; top:.6em; left:100%; margin-left:.05em; font-size:.48em; line-height:1.05; white-space:nowrap; letter-spacing:0; font-family:"Hiragino Kaku Gothic ProN",sans-serif; }
+.kb .kaeri { position:absolute; top:.78em; right:100%; margin-right:.05em; font-size:.45em; line-height:1; white-space:nowrap; letter-spacing:0; font-family:"Hiragino Kaku Gothic ProN",sans-serif; }
+.lesson table, .jtext table { border-collapse:collapse; margin:.6em 0; font-size:.85rem; } .lesson th, .lesson td { border:1px solid var(--line); padding:.25em .55em; vertical-align:top; } .lesson th { background:var(--hl); }
+.lesson h2 { margin-top:1em; }
+@media (max-width:420px) { #app { padding:12px 12px; } .grades { grid-template-columns:repeat(2,1fr); } .hero .btn { margin-left:0; width:100%; } }
