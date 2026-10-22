@@ -1,0 +1,24 @@
+name: Release
+
+on:
+  push:
+    tags: ["v*"]
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: macos-15
+    steps:
+      - uses: actions/checkout@v4
+      - name: バージョンとタグの一致を確認
+        run: test "v$(cat VERSION)" = "${GITHUB_REF_NAME}"
+      - name: アプリをビルド
+        run: scripts/build-app.sh --zip
+      - name: リリースを作成
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh release create "${GITHUB_REF_NAME}" build/KokugoDojo-*.zip \
+            --title "国語道場 ${GITHUB_REF_NAME}" --generate-notes

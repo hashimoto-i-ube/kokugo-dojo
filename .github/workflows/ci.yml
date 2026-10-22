@@ -1,0 +1,16 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  test:
+    runs-on: macos-15
+    steps:
+      - uses: actions/checkout@v4
+      - name: コンテンツ生成物が最新か検査
+        run: python3 scripts/build_content.py --check
+      - name: テスト
+        run: swift test

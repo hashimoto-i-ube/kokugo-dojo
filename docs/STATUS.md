@@ -3,19 +3,16 @@
 最終更新: 2026-10-22
 
 ## 完了
-- アプリ骨格（SwiftPM: KokugoCore ライブラリ + KokugoDojo 実行ファイル）
-  - 縦書き表示（WKWebView, writing-mode: vertical-rl）・ルビ・傍線・傍点・空欄・訓点（送り仮名／返り点）
-  - SRS（SM-2 簡略版）・カード学習／4択テスト・読解演習・解説ページ・設定（縦横切替、文字サイズ、レベル範囲、保存先）
-  - コンテンツ更新（GitHub 上の content/manifest.json を取得、SHA-256 検証）／アプリ更新確認（GitHub Releases）
-- コンテンツ生成スクリプト scripts/build_content.py、アプリ作成 scripts/build-app.sh
-- コンテンツ: 漢字 411・語彙 271・古文単語 231・古典文法 196（解説3）・漢文 170（解説1、訓点表示確認済み）
+- アプリ本体（SwiftPM: KokugoCore + KokugoDojo）：縦書き（ルビ・傍線・傍点・空欄・訓点）、SRS、カード学習／4択テスト、読解演習（選択肢シャッフル）、解説ページ、設定、コンテンツ自動更新、アプリ更新通知
+- コンテンツ 1,529 項目：漢字 411・語彙 271・古文単語 231・古典文法 196・漢文 170・基礎知識 234・読解技法 16、読解演習 7 本（評論3・小説2・古文1・漢文1）、解説 6
+- scripts/build_content.py（原稿→JSON・マニフェスト）、scripts/build-app.sh（.app 作成）
+- README、docs/CONTENT_FORMAT.md、GitHub Actions（CI・タグでリリース）
 
-## 未完了（この順で進める）
-1. 漢文の読解演習（passages）
-4. 基礎知識・文学史（knowledge）
-5. 現代文読解（オリジナル評論・小説の本文と設問）
-6. README / docs/CONTENT_FORMAT.md / GitHub Actions（CI・リリース）
-7. GitHub リポジトリ作成（公開/非公開を利用者に確認してから）
+## 次にやること
+1. GitHub リポジトリ作成と push（公開/非公開を利用者に確認。配信 URL は AppInfo.repository = hashimoto-i-ube/kokugo-dojo を前提にしている。非公開なら raw URL で取得できないため配信方法の再検討が必要）
+2. コンテンツ拡充（特に Lv.4〜5 の漢字・古文単語、読解演習の本数、古文・漢文読解、共通テスト形式の複数テクスト問題）
+3. アプリアイコン（Resources/AppIcon.icns）
+4. 記述式答案の自己採点モード（国公立二次対策）
 
 ## 動作確認の方法
 - `swift build && .build/debug/KokugoDojo -debugRoute study:kanji-read`（任意画面を直接開く）
