@@ -9,7 +9,7 @@
 - README、docs/CONTENT_FORMAT.md、GitHub Actions（CI・タグでリリース）
 
 ## 次にやること
-1. GitHub リポジトリ作成と push（公開/非公開を利用者に確認。配信 URL は AppInfo.repository = hashimoto-i-ube/kokugo-dojo を前提にしている。非公開なら raw URL で取得できないため配信方法の再検討が必要）
+1. （完了）公開リポジトリ https://github.com/hashimoto-i-ube/kokugo-dojo を作成・push済み。CI 通過。v0.1.0 のリリースタグは未作成
 2. コンテンツ拡充（特に Lv.4〜5 の漢字・古文単語、読解演習の本数、古文・漢文読解、共通テスト形式の複数テクスト問題）
 3. アプリアイコン（Resources/AppIcon.icns）
 4. 記述式答案の自己採点モード（国公立二次対策）
