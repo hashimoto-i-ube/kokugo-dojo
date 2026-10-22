@@ -22,9 +22,9 @@
   {
    "id": "knowledge",
    "file": "packs/knowledge.json",
-   "version": "2026.10.22",
-   "sha256": "bb95238f50f2e9741b11759430c6e2af7acf12bb1bf7709ccce52e7e2c13ba82",
-   "bytes": 169
+   "version": "2026.10.22.1",
+   "sha256": "39220993d0e7a4bad996fe253842aca87ec89f592e292004b7dc6c46e6c39840",
+   "bytes": 46165
   },
   {
    "id": "kobun-grammar",

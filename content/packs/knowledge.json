@@ -3,7 +3,1712 @@
  "id": "knowledge",
  "subject": "knowledge",
  "title": "基礎知識・文学史",
- "version": "2026.10.22",
+ "version": "2026.10.22.1",
  "curriculum": "H30",
- "decks": []
+ "decks": [
+  {
+   "id": "know-koten",
+   "title": "古典文学史",
+   "kind": "flash",
+   "items": [
+    {
+     "id": "know-koten-e21f3ca6",
+     "level": 1,
+     "prompt": "古事記",
+     "answer": "太安万侶（稗田阿礼の誦習）・歴史書・奈良時代（712年）",
+     "note": "現存最古の歴史書"
+    },
+    {
+     "id": "know-koten-626d4146",
+     "level": 1,
+     "prompt": "万葉集",
+     "answer": "大伴家持ら編（とされる）・和歌集・奈良時代",
+     "note": "現存最古の和歌集。ますらをぶり"
+    },
+    {
+     "id": "know-koten-d2d80d2a",
+     "level": 1,
+     "prompt": "古今和歌集",
+     "answer": "紀貫之ら撰・最初の勅撰和歌集・平安前期（905年頃）",
+     "note": "仮名序（紀貫之）。たをやめぶり"
+    },
+    {
+     "id": "know-koten-406b2872",
+     "level": 1,
+     "prompt": "竹取物語",
+     "answer": "作者未詳・作り物語・平安前期",
+     "note": "「物語の出で来はじめの祖」（源氏物語）"
+    },
+    {
+     "id": "know-koten-39a2fb9a",
+     "level": 1,
+     "prompt": "伊勢物語",
+     "answer": "作者未詳・歌物語・平安前期",
+     "note": "在原業平がモデル。「昔、男ありけり」"
+    },
+    {
+     "id": "know-koten-21a0d757",
+     "level": 1,
+     "prompt": "土佐日記",
+     "answer": "紀貫之・日記・平安前期",
+     "note": "女性仮託の仮名日記"
+    },
+    {
+     "id": "know-koten-0f619bc3",
+     "level": 1,
+     "prompt": "枕草子",
+     "answer": "清少納言・随筆・平安中期",
+     "note": "中宮定子に仕える。「をかし」の文学"
+    },
+    {
+     "id": "know-koten-92f40d83",
+     "level": 1,
+     "prompt": "源氏物語",
+     "answer": "紫式部・作り物語・平安中期",
+     "note": "中宮彰子に仕える。五十四帖。「もののあはれ」"
+    },
+    {
+     "id": "know-koten-870b0757",
+     "level": 1,
+     "prompt": "平家物語",
+     "answer": "作者未詳（信濃前司行長説）・軍記物語・鎌倉時代",
+     "note": "琵琶法師が語る。和漢混交文"
+    },
+    {
+     "id": "know-koten-062acf8d",
+     "level": 1,
+     "prompt": "方丈記",
+     "answer": "鴨長明・随筆・鎌倉前期",
+     "note": "無常観。「ゆく河の流れは絶えずして」"
+    },
+    {
+     "id": "know-koten-07fdfcc9",
+     "level": 1,
+     "prompt": "徒然草",
+     "answer": "兼好法師（吉田兼好）・随筆・鎌倉末期",
+     "note": "三大随筆の一つ"
+    },
+    {
+     "id": "know-koten-91a8fcee",
+     "level": 1,
+     "prompt": "おくのほそ道",
+     "answer": "松尾芭蕉・俳諧紀行文・江戸前期",
+     "note": "「月日は百代の過客にして」"
+    },
+    {
+     "id": "know-koten-5458d128",
+     "level": 2,
+     "prompt": "蜻蛉日記",
+     "answer": "藤原道綱母・日記・平安中期",
+     "note": "女流日記文学の先駆け"
+    },
+    {
+     "id": "know-koten-981d52d2",
+     "level": 2,
+     "prompt": "和泉式部日記",
+     "answer": "和泉式部・日記・平安中期",
+     "note": "敦道親王との恋"
+    },
+    {
+     "id": "know-koten-051f8119",
+     "level": 2,
+     "prompt": "紫式部日記",
+     "answer": "紫式部・日記・平安中期"
+    },
+    {
+     "id": "know-koten-ba6a7cef",
+     "level": 2,
+     "prompt": "更級日記",
+     "answer": "菅原孝標女・日記・平安中期",
+     "note": "物語に憧れた少女時代からの回想"
+    },
+    {
+     "id": "know-koten-5bf273e0",
+     "level": 2,
+     "prompt": "大和物語",
+     "answer": "作者未詳・歌物語・平安中期"
+    },
+    {
+     "id": "know-koten-89e3caa5",
+     "level": 2,
+     "prompt": "今昔物語集",
+     "answer": "編者未詳・説話集・平安後期",
+     "note": "天竺・震旦・本朝。「今は昔」"
+    },
+    {
+     "id": "know-koten-5334e1e1",
+     "level": 2,
+     "prompt": "大鏡",
+     "answer": "作者未詳・歴史物語（鏡物）・平安後期",
+     "note": "藤原道長の栄華。大宅世継と夏山繁樹の対話形式"
+    },
+    {
+     "id": "know-koten-c0065f7d",
+     "level": 2,
+     "prompt": "栄花物語",
+     "answer": "赤染衛門（正編作者説）・歴史物語・平安後期",
+     "note": "道長賛美。編年体"
+    },
+    {
+     "id": "know-koten-a3011453",
+     "level": 2,
+     "prompt": "新古今和歌集",
+     "answer": "藤原定家ら撰（後鳥羽院の命）・勅撰和歌集・鎌倉前期（1205年）",
+     "note": "幽玄・有心。本歌取り"
+    },
+    {
+     "id": "know-koten-bbeb6929",
+     "level": 2,
+     "prompt": "宇治拾遺物語",
+     "answer": "編者未詳・説話集・鎌倉前期",
+     "note": "「こぶとりじいさん」など"
+    },
+    {
+     "id": "know-koten-a461c2c1",
+     "level": 2,
+     "prompt": "十訓抄",
+     "answer": "編者未詳・説話集（教訓）・鎌倉中期"
+    },
+    {
+     "id": "know-koten-9a84a3d5",
+     "level": 2,
+     "prompt": "沙石集",
+     "answer": "無住・仏教説話集・鎌倉後期"
+    },
+    {
+     "id": "know-koten-43d43d11",
+     "level": 2,
+     "prompt": "太平記",
+     "answer": "小島法師ら（説）・軍記物語・南北朝時代"
+    },
+    {
+     "id": "know-koten-c8fb1684",
+     "level": 2,
+     "prompt": "風姿花伝",
+     "answer": "世阿弥・能楽論・室町時代",
+     "note": "「秘すれば花」"
+    },
+    {
+     "id": "know-koten-421c060c",
+     "level": 2,
+     "prompt": "好色一代男",
+     "answer": "井原西鶴・浮世草子・江戸前期"
+    },
+    {
+     "id": "know-koten-539ad205",
+     "level": 2,
+     "prompt": "曾根崎心中",
+     "answer": "近松門左衛門・人形浄瑠璃（世話物）・江戸前期"
+    },
+    {
+     "id": "know-koten-653d27bc",
+     "level": 2,
+     "prompt": "雨月物語",
+     "answer": "上田秋成・読本・江戸中期"
+    },
+    {
+     "id": "know-koten-0e2a2371",
+     "level": 2,
+     "prompt": "玉勝間",
+     "answer": "本居宣長・随筆・江戸後期",
+     "note": "国学"
+    },
+    {
+     "id": "know-koten-b70c1cd8",
+     "level": 3,
+     "prompt": "日本書紀",
+     "answer": "舎人親王ら・正史（漢文・編年体）・奈良時代（720年）",
+     "note": "六国史の最初"
+    },
+    {
+     "id": "know-koten-cf5a5295",
+     "level": 3,
+     "prompt": "懐風藻",
+     "answer": "編者未詳・現存最古の漢詩集・奈良時代"
+    },
+    {
+     "id": "know-koten-615f47be",
+     "level": 3,
+     "prompt": "堤中納言物語",
+     "answer": "作者未詳・短編物語集・平安後期〜",
+     "note": "「虫めづる姫君」"
+    },
+    {
+     "id": "know-koten-d159e6e9",
+     "level": 3,
+     "prompt": "狭衣物語",
+     "answer": "作者未詳（禖子内親王宣旨説）・作り物語・平安後期"
+    },
+    {
+     "id": "know-koten-ad07aa41",
+     "level": 3,
+     "prompt": "讃岐典侍日記",
+     "answer": "藤原長子・日記・平安後期",
+     "note": "堀河天皇の病と死"
+    },
+    {
+     "id": "know-koten-0032d210",
+     "level": 3,
+     "prompt": "無名草子",
+     "answer": "藤原俊成女（説）・物語評論・鎌倉前期",
+     "note": "最古の物語評論"
+    },
+    {
+     "id": "know-koten-94f52394",
+     "level": 3,
+     "prompt": "住吉物語",
+     "answer": "作者未詳・擬古物語・鎌倉時代",
+     "note": "継子いじめ"
+    },
+    {
+     "id": "know-koten-1cc33aac",
+     "level": 3,
+     "prompt": "十六夜日記",
+     "answer": "阿仏尼・紀行・鎌倉中期"
+    },
+    {
+     "id": "know-koten-791f56d2",
+     "level": 3,
+     "prompt": "とはずがたり",
+     "answer": "後深草院二条・日記・鎌倉後期"
+    },
+    {
+     "id": "know-koten-1bcd983f",
+     "level": 3,
+     "prompt": "増鏡",
+     "answer": "作者未詳・歴史物語・南北朝時代",
+     "note": "四鏡：大鏡・今鏡・水鏡・増鏡（成立順）"
+    },
+    {
+     "id": "know-koten-d199e23f",
+     "level": 3,
+     "prompt": "去来抄",
+     "answer": "向井去来・俳論・江戸中期",
+     "note": "蕉風の俳論"
+    },
+    {
+     "id": "know-koten-51876f35",
+     "level": 3,
+     "prompt": "折たく柴の記",
+     "answer": "新井白石・自伝・江戸中期"
+    },
+    {
+     "id": "know-koten-3506da95",
+     "level": 3,
+     "prompt": "東海道中膝栗毛",
+     "answer": "十返舎一九・滑稽本・江戸後期"
+    },
+    {
+     "id": "know-koten-ef3edae0",
+     "level": 3,
+     "prompt": "南総里見八犬伝",
+     "answer": "曲亭馬琴・読本・江戸後期"
+    },
+    {
+     "id": "know-koten-5d6b53a8",
+     "level": 3,
+     "prompt": "古今著聞集",
+     "answer": "橘成季・説話集・鎌倉中期"
+    },
+    {
+     "id": "know-koten-5d4c4867",
+     "level": 3,
+     "prompt": "発心集",
+     "answer": "鴨長明・仏教説話集・鎌倉前期"
+    },
+    {
+     "id": "know-koten-297725c8",
+     "level": 3,
+     "prompt": "平中物語",
+     "answer": "作者未詳・歌物語・平安中期",
+     "note": "歌物語：伊勢・大和・平中"
+    },
+    {
+     "id": "know-koten-309948ba",
+     "level": 4,
+     "prompt": "宇津保物語",
+     "answer": "作者未詳・作り物語・平安中期",
+     "note": "最初の長編物語"
+    },
+    {
+     "id": "know-koten-8495c52c",
+     "level": 4,
+     "prompt": "落窪物語",
+     "answer": "作者未詳・作り物語・平安中期",
+     "note": "継子いじめ"
+    },
+    {
+     "id": "know-koten-f6ccf2a5",
+     "level": 4,
+     "prompt": "夜の寝覚",
+     "answer": "菅原孝標女（説）・作り物語・平安後期"
+    },
+    {
+     "id": "know-koten-33ccc3c9",
+     "level": 4,
+     "prompt": "浜松中納言物語",
+     "answer": "菅原孝標女（説）・作り物語・平安後期",
+     "note": "夢と転生"
+    },
+    {
+     "id": "know-koten-d90df618",
+     "level": 4,
+     "prompt": "成尋阿闍梨母集",
+     "answer": "成尋阿闍梨母・家集・平安後期"
+    },
+    {
+     "id": "know-koten-37a88a69",
+     "level": 4,
+     "prompt": "建礼門院右京大夫集",
+     "answer": "建礼門院右京大夫・家集・鎌倉前期",
+     "note": "平資盛への追慕"
+    },
+    {
+     "id": "know-koten-c7a1abab",
+     "level": 4,
+     "prompt": "撰集抄",
+     "answer": "作者未詳（西行に仮託）・説話集・鎌倉時代"
+    },
+    {
+     "id": "know-koten-64980904",
+     "level": 4,
+     "prompt": "俊頼髄脳",
+     "answer": "源俊頼・歌論・平安後期"
+    },
+    {
+     "id": "know-koten-dc57353f",
+     "level": 4,
+     "prompt": "古来風体抄",
+     "answer": "藤原俊成・歌論・鎌倉前期"
+    },
+    {
+     "id": "know-koten-9acda061",
+     "level": 4,
+     "prompt": "毎月抄",
+     "answer": "藤原定家（伝）・歌論・鎌倉前期",
+     "note": "有心体"
+    },
+    {
+     "id": "know-koten-bfef4437",
+     "level": 4,
+     "prompt": "野ざらし紀行",
+     "answer": "松尾芭蕉・紀行・江戸前期"
+    },
+    {
+     "id": "know-koten-dcc82832",
+     "level": 4,
+     "prompt": "笈の小文",
+     "answer": "松尾芭蕉・紀行・江戸前期"
+    },
+    {
+     "id": "know-koten-1c269bb9",
+     "level": 4,
+     "prompt": "源氏物語玉の小櫛",
+     "answer": "本居宣長・注釈書・江戸後期",
+     "note": "「もののあはれ」論"
+    },
+    {
+     "id": "know-koten-a6ec6c10",
+     "level": 5,
+     "prompt": "松浦宮物語",
+     "answer": "藤原定家（説）・擬古物語・鎌倉前期"
+    },
+    {
+     "id": "know-koten-f1478090",
+     "level": 5,
+     "prompt": "石清水物語",
+     "answer": "作者未詳・擬古物語・鎌倉時代"
+    },
+    {
+     "id": "know-koten-ba63f8f2",
+     "level": 5,
+     "prompt": "苔の衣",
+     "answer": "作者未詳・擬古物語・鎌倉時代"
+    },
+    {
+     "id": "know-koten-e900e32c",
+     "level": 5,
+     "prompt": "恨の介",
+     "answer": "作者未詳・仮名草子・江戸初期"
+    },
+    {
+     "id": "know-koten-28c0396b",
+     "level": 5,
+     "prompt": "春雨物語",
+     "answer": "上田秋成・読本・江戸後期"
+    },
+    {
+     "id": "know-koten-dc55b721",
+     "level": 5,
+     "prompt": "花月草紙",
+     "answer": "松平定信・随筆・江戸後期"
+    },
+    {
+     "id": "know-koten-e71b9478",
+     "level": 5,
+     "prompt": "駿台雑話",
+     "answer": "室鳩巣・随筆・江戸中期"
+    },
+    {
+     "id": "know-koten-66b4724e",
+     "level": 5,
+     "prompt": "鶉衣",
+     "answer": "横井也有・俳文集・江戸中期"
+    }
+   ],
+   "instruction": "次の作品の作者（編者）・ジャンル・時代を答えよ。",
+   "writing": "horizontal"
+  },
+  {
+   "id": "know-kindai",
+   "title": "近現代文学史",
+   "kind": "flash",
+   "items": [
+    {
+     "id": "know-kindai-25d41f39",
+     "level": 1,
+     "prompt": "舞姫",
+     "answer": "森鷗外・浪漫主義（初期）",
+     "note": "太田豊太郎とエリス。雅文体"
+    },
+    {
+     "id": "know-kindai-25de636b",
+     "level": 1,
+     "prompt": "坊っちゃん",
+     "answer": "夏目漱石・余裕派"
+    },
+    {
+     "id": "know-kindai-fdb1ccb0",
+     "level": 1,
+     "prompt": "こころ",
+     "answer": "夏目漱石（後期三部作）",
+     "note": "「先生」とK。エゴイズム"
+    },
+    {
+     "id": "know-kindai-28acc192",
+     "level": 1,
+     "prompt": "羅生門",
+     "answer": "芥川龍之介・新現実主義（新思潮派）",
+     "note": "『今昔物語集』に取材"
+    },
+    {
+     "id": "know-kindai-817e993e",
+     "level": 1,
+     "prompt": "走れメロス",
+     "answer": "太宰治・無頼派（新戯作派）"
+    },
+    {
+     "id": "know-kindai-1c8adc37",
+     "level": 1,
+     "prompt": "山月記",
+     "answer": "中島敦",
+     "note": "李徴。『人虎伝』に取材"
+    },
+    {
+     "id": "know-kindai-5337276c",
+     "level": 1,
+     "prompt": "檸檬",
+     "answer": "梶井基次郎"
+    },
+    {
+     "id": "know-kindai-f22444e5",
+     "level": 1,
+     "prompt": "雪国",
+     "answer": "川端康成・新感覚派",
+     "note": "ノーベル文学賞（1968）"
+    },
+    {
+     "id": "know-kindai-5fbe2310",
+     "level": 1,
+     "prompt": "銀河鉄道の夜",
+     "answer": "宮沢賢治"
+    },
+    {
+     "id": "know-kindai-08404e07",
+     "level": 1,
+     "prompt": "みだれ髪",
+     "answer": "与謝野晶子・明星派（浪漫主義短歌）"
+    },
+    {
+     "id": "know-kindai-03a47b23",
+     "level": 2,
+     "prompt": "浮雲",
+     "answer": "二葉亭四迷・写実主義",
+     "note": "言文一致体の先駆"
+    },
+    {
+     "id": "know-kindai-bd4c9062",
+     "level": 2,
+     "prompt": "小説神髄",
+     "answer": "坪内逍遥・写実主義の評論",
+     "note": "人情・世態風俗の写実を主張"
+    },
+    {
+     "id": "know-kindai-d3a45251",
+     "level": 2,
+     "prompt": "たけくらべ",
+     "answer": "樋口一葉",
+     "note": "美登利と信如"
+    },
+    {
+     "id": "know-kindai-94c73f14",
+     "level": 2,
+     "prompt": "破戒",
+     "answer": "島崎藤村・自然主義"
+    },
+    {
+     "id": "know-kindai-f34b85f9",
+     "level": 2,
+     "prompt": "蒲団",
+     "answer": "田山花袋・自然主義",
+     "note": "私小説の出発点"
+    },
+    {
+     "id": "know-kindai-fe95b268",
+     "level": 2,
+     "prompt": "若菜集",
+     "answer": "島崎藤村・浪漫主義の詩集"
+    },
+    {
+     "id": "know-kindai-eb122c3c",
+     "level": 2,
+     "prompt": "一握の砂",
+     "answer": "石川啄木・生活派短歌",
+     "note": "三行書き"
+    },
+    {
+     "id": "know-kindai-9f9adfdc",
+     "level": 2,
+     "prompt": "赤光",
+     "answer": "斎藤茂吉・アララギ派"
+    },
+    {
+     "id": "know-kindai-85780dcd",
+     "level": 2,
+     "prompt": "暗夜行路",
+     "answer": "志賀直哉・白樺派",
+     "note": "「小説の神様」"
+    },
+    {
+     "id": "know-kindai-8f82f7e0",
+     "level": 2,
+     "prompt": "友情",
+     "answer": "武者小路実篤・白樺派"
+    },
+    {
+     "id": "know-kindai-7be0b10c",
+     "level": 2,
+     "prompt": "刺青",
+     "answer": "谷崎潤一郎・耽美派"
+    },
+    {
+     "id": "know-kindai-6c2754a7",
+     "level": 2,
+     "prompt": "月に吠える",
+     "answer": "萩原朔太郎・口語自由詩"
+    },
+    {
+     "id": "know-kindai-869340b8",
+     "level": 2,
+     "prompt": "伊豆の踊子",
+     "answer": "川端康成・新感覚派"
+    },
+    {
+     "id": "know-kindai-e5ad7836",
+     "level": 2,
+     "prompt": "蟹工船",
+     "answer": "小林多喜二・プロレタリア文学"
+    },
+    {
+     "id": "know-kindai-320a2a10",
+     "level": 2,
+     "prompt": "人間失格",
+     "answer": "太宰治・無頼派"
+    },
+    {
+     "id": "know-kindai-4bc02e67",
+     "level": 2,
+     "prompt": "金閣寺",
+     "answer": "三島由紀夫"
+    },
+    {
+     "id": "know-kindai-1b79bccb",
+     "level": 3,
+     "prompt": "高瀬舟",
+     "answer": "森鷗外・歴史小説",
+     "note": "安楽死と知足"
+    },
+    {
+     "id": "know-kindai-c3156c10",
+     "level": 3,
+     "prompt": "吾輩は猫である",
+     "answer": "夏目漱石・余裕派"
+    },
+    {
+     "id": "know-kindai-7dfe3e23",
+     "level": 3,
+     "prompt": "三四郎",
+     "answer": "夏目漱石（前期三部作）",
+     "note": "三四郎・それから・門"
+    },
+    {
+     "id": "know-kindai-c9a9ae6f",
+     "level": 3,
+     "prompt": "行人",
+     "answer": "夏目漱石（後期三部作）",
+     "note": "彼岸過迄・行人・こころ"
+    },
+    {
+     "id": "know-kindai-d46fec63",
+     "level": 3,
+     "prompt": "金色夜叉",
+     "answer": "尾崎紅葉・擬古典主義（硯友社）"
+    },
+    {
+     "id": "know-kindai-e9af11fe",
+     "level": 3,
+     "prompt": "五重塔",
+     "answer": "幸田露伴・擬古典主義（理想主義）",
+     "note": "紅露時代"
+    },
+    {
+     "id": "know-kindai-30c31fad",
+     "level": 3,
+     "prompt": "不如帰",
+     "answer": "徳冨蘆花"
+    },
+    {
+     "id": "know-kindai-2cae0a10",
+     "level": 3,
+     "prompt": "高野聖",
+     "answer": "泉鏡花・浪漫主義"
+    },
+    {
+     "id": "know-kindai-7ebc00e9",
+     "level": 3,
+     "prompt": "あめりか物語",
+     "answer": "永井荷風・耽美派"
+    },
+    {
+     "id": "know-kindai-757ee64b",
+     "level": 3,
+     "prompt": "或る女",
+     "answer": "有島武郎・白樺派"
+    },
+    {
+     "id": "know-kindai-b0febd05",
+     "level": 3,
+     "prompt": "日輪",
+     "answer": "横光利一・新感覚派"
+    },
+    {
+     "id": "know-kindai-cb884e5f",
+     "level": 3,
+     "prompt": "山椒魚",
+     "answer": "井伏鱒二"
+    },
+    {
+     "id": "know-kindai-52522ad4",
+     "level": 3,
+     "prompt": "春と修羅",
+     "answer": "宮沢賢治・詩集"
+    },
+    {
+     "id": "know-kindai-11747287",
+     "level": 3,
+     "prompt": "夜明け前",
+     "answer": "島崎藤村・歴史小説"
+    },
+    {
+     "id": "know-kindai-83a22422",
+     "level": 3,
+     "prompt": "斜陽",
+     "answer": "太宰治・無頼派",
+     "note": "「斜陽族」"
+    },
+    {
+     "id": "know-kindai-d14c7ff0",
+     "level": 3,
+     "prompt": "野火",
+     "answer": "大岡昇平・戦後派"
+    },
+    {
+     "id": "know-kindai-a8d7096f",
+     "level": 3,
+     "prompt": "堕落論",
+     "answer": "坂口安吾・無頼派の評論"
+    },
+    {
+     "id": "know-kindai-3cf1bf91",
+     "level": 3,
+     "prompt": "沈黙",
+     "answer": "遠藤周作・第三の新人"
+    },
+    {
+     "id": "know-kindai-9d53efee",
+     "level": 3,
+     "prompt": "万延元年のフットボール",
+     "answer": "大江健三郎",
+     "note": "ノーベル文学賞（1994）"
+    },
+    {
+     "id": "know-kindai-f9659e23",
+     "level": 4,
+     "prompt": "当世書生気質",
+     "answer": "坪内逍遥・写実主義"
+    },
+    {
+     "id": "know-kindai-2a795bca",
+     "level": 4,
+     "prompt": "於母影",
+     "answer": "森鷗外ら（新声社）・訳詩集"
+    },
+    {
+     "id": "know-kindai-a5cc9d80",
+     "level": 4,
+     "prompt": "海潮音",
+     "answer": "上田敏・訳詩集（象徴詩）"
+    },
+    {
+     "id": "know-kindai-07063fb2",
+     "level": 4,
+     "prompt": "邪宗門",
+     "answer": "北原白秋・耽美派の詩集"
+    },
+    {
+     "id": "know-kindai-afd3754a",
+     "level": 4,
+     "prompt": "道程",
+     "answer": "高村光太郎・口語自由詩"
+    },
+    {
+     "id": "know-kindai-16b9bb3b",
+     "level": 4,
+     "prompt": "或る阿呆の一生",
+     "answer": "芥川龍之介"
+    },
+    {
+     "id": "know-kindai-8d31b86d",
+     "level": 4,
+     "prompt": "河童",
+     "answer": "芥川龍之介"
+    },
+    {
+     "id": "know-kindai-4bbdd689",
+     "level": 4,
+     "prompt": "機械",
+     "answer": "横光利一・新心理主義",
+     "note": "「純粋小説論」"
+    },
+    {
+     "id": "know-kindai-b0b2229b",
+     "level": 4,
+     "prompt": "真空地帯",
+     "answer": "野間宏・戦後派"
+    },
+    {
+     "id": "know-kindai-3c9deab7",
+     "level": 4,
+     "prompt": "死霊",
+     "answer": "埴谷雄高・戦後派"
+    },
+    {
+     "id": "know-kindai-96ebff2f",
+     "level": 4,
+     "prompt": "山羊の歌",
+     "answer": "中原中也・詩集"
+    },
+    {
+     "id": "know-kindai-c5ab68f7",
+     "level": 4,
+     "prompt": "智恵子抄",
+     "answer": "高村光太郎・詩集"
+    },
+    {
+     "id": "know-kindai-bc2f47de",
+     "level": 4,
+     "prompt": "抱擁家族",
+     "answer": "小島信夫・第三の新人"
+    },
+    {
+     "id": "know-kindai-62a7b62d",
+     "level": 4,
+     "prompt": "砂の女",
+     "answer": "安部公房"
+    },
+    {
+     "id": "know-kindai-0efa7da7",
+     "level": 5,
+     "prompt": "小説総論",
+     "answer": "二葉亭四迷・評論",
+     "note": "写実主義の理論"
+    },
+    {
+     "id": "know-kindai-eaf55b67",
+     "level": 5,
+     "prompt": "歌よみに与ふる書",
+     "answer": "正岡子規・短歌革新の評論",
+     "note": "写生。『古今集』批判"
+    },
+    {
+     "id": "know-kindai-76f9bf91",
+     "level": 5,
+     "prompt": "露骨なる描写",
+     "answer": "田山花袋・自然主義の評論"
+    },
+    {
+     "id": "know-kindai-83bd2594",
+     "level": 5,
+     "prompt": "様々なる意匠",
+     "answer": "小林秀雄・評論",
+     "note": "近代批評の確立"
+    },
+    {
+     "id": "know-kindai-f20dedf8",
+     "level": 5,
+     "prompt": "暗い絵",
+     "answer": "野間宏・戦後派"
+    },
+    {
+     "id": "know-kindai-83b39492",
+     "level": 5,
+     "prompt": "鍵",
+     "answer": "谷崎潤一郎"
+    },
+    {
+     "id": "know-kindai-414088a0",
+     "level": 5,
+     "prompt": "黒い雨",
+     "answer": "井伏鱒二",
+     "note": "原爆"
+    },
+    {
+     "id": "know-kindai-006b0df5",
+     "level": 5,
+     "prompt": "枯木灘",
+     "answer": "中上健次"
+    }
+   ],
+   "instruction": "次の作品の作者と、文学上の立場（流派）を答えよ。",
+   "writing": "horizontal"
+  },
+  {
+   "id": "know-joshiki",
+   "title": "古文常識・和歌の修辞",
+   "kind": "flash",
+   "items": [
+    {
+     "id": "know-joshiki-53217e5d",
+     "level": 1,
+     "prompt": "睦月（むつき）",
+     "answer": "一月",
+     "note": "陰暦。春は一〜三月"
+    },
+    {
+     "id": "know-joshiki-d6ad0222",
+     "level": 1,
+     "prompt": "如月（きさらぎ）",
+     "answer": "二月"
+    },
+    {
+     "id": "know-joshiki-a9ea48f6",
+     "level": 1,
+     "prompt": "弥生（やよひ）",
+     "answer": "三月"
+    },
+    {
+     "id": "know-joshiki-50382f20",
+     "level": 1,
+     "prompt": "卯月（うづき）",
+     "answer": "四月",
+     "note": "夏は四〜六月"
+    },
+    {
+     "id": "know-joshiki-191a03a3",
+     "level": 1,
+     "prompt": "皐月（さつき）",
+     "answer": "五月"
+    },
+    {
+     "id": "know-joshiki-95027901",
+     "level": 1,
+     "prompt": "水無月（みなづき）",
+     "answer": "六月"
+    },
+    {
+     "id": "know-joshiki-607f32c3",
+     "level": 1,
+     "prompt": "文月（ふみづき）",
+     "answer": "七月",
+     "note": "秋は七〜九月"
+    },
+    {
+     "id": "know-joshiki-fc7abdaa",
+     "level": 1,
+     "prompt": "葉月（はづき）",
+     "answer": "八月"
+    },
+    {
+     "id": "know-joshiki-ed712d93",
+     "level": 1,
+     "prompt": "長月（ながつき）",
+     "answer": "九月"
+    },
+    {
+     "id": "know-joshiki-a50d06c8",
+     "level": 1,
+     "prompt": "神無月（かんなづき）",
+     "answer": "十月",
+     "note": "冬は十〜十二月"
+    },
+    {
+     "id": "know-joshiki-a5aaac75",
+     "level": 1,
+     "prompt": "霜月（しもつき）",
+     "answer": "十一月"
+    },
+    {
+     "id": "know-joshiki-29defb13",
+     "level": 1,
+     "prompt": "師走（しはす）",
+     "answer": "十二月"
+    },
+    {
+     "id": "know-joshiki-b1d19a35",
+     "level": 1,
+     "prompt": "枕詞とは",
+     "answer": "特定の語を導く五音の修飾語（訳さない）",
+     "note": "例：あしひきの→山、ひさかたの→光・天"
+    },
+    {
+     "id": "know-joshiki-186ff8f0",
+     "level": 1,
+     "prompt": "掛詞とは",
+     "answer": "一つの語に同音の二つの意味を重ねる技法",
+     "note": "例：まつ（松・待つ）、ながめ（長雨・眺め）"
+    },
+    {
+     "id": "know-joshiki-2a69a467",
+     "level": 1,
+     "prompt": "序詞とは",
+     "answer": "ある語を導く、作者独自の七音以上の前置き",
+     "note": "比喩・同音・掛詞で接続"
+    },
+    {
+     "id": "know-joshiki-dd918b54",
+     "level": 1,
+     "prompt": "縁語とは",
+     "answer": "一首の中で意味上関連の深い語を意識的に用いる技法",
+     "note": "例：糸→張る・絶ゆ・乱る"
+    },
+    {
+     "id": "know-joshiki-c3b5ea33",
+     "level": 1,
+     "prompt": "本歌取りとは",
+     "answer": "有名な古歌の語句を取り入れ、重層的な効果を出す技法",
+     "note": "新古今時代に盛ん"
+    },
+    {
+     "id": "know-joshiki-b62049c8",
+     "level": 1,
+     "prompt": "体言止めとは",
+     "answer": "句末・歌末を体言で終える技法",
+     "note": "余情を生む"
+    },
+    {
+     "id": "know-joshiki-93a06354",
+     "level": 2,
+     "prompt": "子（ね）の刻",
+     "answer": "午後十一時〜午前一時",
+     "note": "十二支で二時間ごと"
+    },
+    {
+     "id": "know-joshiki-03ff7616",
+     "level": 2,
+     "prompt": "午（うま）の刻",
+     "answer": "午前十一時〜午後一時",
+     "note": "「正午」"
+    },
+    {
+     "id": "know-joshiki-9c0c46eb",
+     "level": 2,
+     "prompt": "丑三つ",
+     "answer": "午前二時〜二時半ごろ",
+     "note": "丑の刻を四分した三つ目"
+    },
+    {
+     "id": "know-joshiki-93392125",
+     "level": 2,
+     "prompt": "方角「巽（たつみ）」",
+     "answer": "南東",
+     "note": "乾（いぬゐ）＝北西、坤（ひつじさる）＝南西、艮（うしとら）＝北東"
+    },
+    {
+     "id": "know-joshiki-953b7811",
+     "level": 2,
+     "prompt": "方角「艮（うしとら）」",
+     "answer": "北東（鬼門）"
+    },
+    {
+     "id": "know-joshiki-520d136c",
+     "level": 2,
+     "prompt": "十六夜（いざよひ）",
+     "answer": "陰暦十六日の夜の月",
+     "note": "立待月(17)・居待月(18)・寝待月(19)"
+    },
+    {
+     "id": "know-joshiki-38378876",
+     "level": 2,
+     "prompt": "有明の月",
+     "answer": "夜が明けても空に残っている月（陰暦十六日以降）"
+    },
+    {
+     "id": "know-joshiki-0dc97d8e",
+     "level": 2,
+     "prompt": "望月",
+     "answer": "満月（陰暦十五日）",
+     "note": "「この世をば我が世とぞ思ふ望月の」藤原道長"
+    },
+    {
+     "id": "know-joshiki-29bb8969",
+     "level": 2,
+     "prompt": "上達部（かんだちめ）",
+     "answer": "公卿。三位以上と四位の参議"
+    },
+    {
+     "id": "know-joshiki-69183024",
+     "level": 2,
+     "prompt": "殿上人",
+     "answer": "清涼殿の殿上の間に昇ることを許された人（四位・五位の一部と六位の蔵人）"
+    },
+    {
+     "id": "know-joshiki-05893602",
+     "level": 2,
+     "prompt": "地下（ぢげ）",
+     "answer": "昇殿を許されない官人"
+    },
+    {
+     "id": "know-joshiki-97e84ba5",
+     "level": 2,
+     "prompt": "后の位",
+     "answer": "皇后（中宮）＞女御＞更衣",
+     "note": "『源氏物語』桐壺更衣"
+    },
+    {
+     "id": "know-joshiki-f30f7a0d",
+     "level": 2,
+     "prompt": "内裏",
+     "answer": "天皇の住まい・宮中"
+    },
+    {
+     "id": "know-joshiki-e3796307",
+     "level": 2,
+     "prompt": "春宮・東宮",
+     "answer": "皇太子"
+    },
+    {
+     "id": "know-joshiki-b52ce7d9",
+     "level": 2,
+     "prompt": "物忌み",
+     "answer": "凶事を避けるため一定期間家にこもり身を慎むこと"
+    },
+    {
+     "id": "know-joshiki-52ad8aa2",
+     "level": 2,
+     "prompt": "方違へ",
+     "answer": "悪い方角を避けるため、前夜別の方角に泊まってから目的地へ行くこと"
+    },
+    {
+     "id": "know-joshiki-4daf77d1",
+     "level": 2,
+     "prompt": "後朝（きぬぎぬ）",
+     "answer": "男女が共寝した翌朝の別れ",
+     "note": "後朝の歌（後朝の文）を贈る"
+    },
+    {
+     "id": "know-joshiki-d1fd6bff",
+     "level": 2,
+     "prompt": "垣間見（かいまみ）",
+     "answer": "物の隙間からのぞき見ること",
+     "note": "恋の始まりの典型"
+    },
+    {
+     "id": "know-joshiki-42214d80",
+     "level": 2,
+     "prompt": "出家",
+     "answer": "俗世を捨てて仏道に入ること",
+     "note": "「様を変ふ」「世を背く」「頭下ろす」"
+    },
+    {
+     "id": "know-joshiki-26c8a1ec",
+     "level": 2,
+     "prompt": "夜離れ（よがれ）",
+     "answer": "男が女のもとに通わなくなること"
+    },
+    {
+     "id": "know-joshiki-f2d93918",
+     "level": 3,
+     "prompt": "「ちはやぶる」が導く語",
+     "answer": "神・宇治",
+     "note": "枕詞"
+    },
+    {
+     "id": "know-joshiki-ffd2380a",
+     "level": 3,
+     "prompt": "「たらちねの」が導く語",
+     "answer": "母・親",
+     "note": "枕詞"
+    },
+    {
+     "id": "know-joshiki-328e607a",
+     "level": 3,
+     "prompt": "「ぬばたまの」が導く語",
+     "answer": "黒・夜・髪・夢",
+     "note": "枕詞"
+    },
+    {
+     "id": "know-joshiki-94ed09af",
+     "level": 3,
+     "prompt": "「あをによし」が導く語",
+     "answer": "奈良",
+     "note": "枕詞"
+    },
+    {
+     "id": "know-joshiki-a40faa5e",
+     "level": 3,
+     "prompt": "「しろたへの」が導く語",
+     "answer": "衣・袖・雪・雲",
+     "note": "枕詞"
+    },
+    {
+     "id": "know-joshiki-0708b9d2",
+     "level": 3,
+     "prompt": "「くさまくら」が導く語",
+     "answer": "旅",
+     "note": "枕詞"
+    },
+    {
+     "id": "know-joshiki-b107f27e",
+     "level": 3,
+     "prompt": "「あらたまの」が導く語",
+     "answer": "年・月・日・春",
+     "note": "枕詞"
+    },
+    {
+     "id": "know-joshiki-809151fc",
+     "level": 3,
+     "prompt": "「からころも」が導く語",
+     "answer": "着る・裁つ・袖・裾",
+     "note": "枕詞"
+    },
+    {
+     "id": "know-joshiki-ccad74fd",
+     "level": 3,
+     "prompt": "掛詞「あき」",
+     "answer": "秋・飽き",
+     "note": "恋の歌に頻出"
+    },
+    {
+     "id": "know-joshiki-07d5856f",
+     "level": 3,
+     "prompt": "掛詞「ふる」",
+     "answer": "降る・経る・古る"
+    },
+    {
+     "id": "know-joshiki-cdc81be0",
+     "level": 3,
+     "prompt": "掛詞「よ」",
+     "answer": "世・夜・節（竹の節）"
+    },
+    {
+     "id": "know-joshiki-d6ae07f4",
+     "level": 3,
+     "prompt": "掛詞「おく」",
+     "answer": "置く（露が）・起く"
+    },
+    {
+     "id": "know-joshiki-fb88d480",
+     "level": 3,
+     "prompt": "掛詞「かる」",
+     "answer": "枯る・離る（離れる）"
+    },
+    {
+     "id": "know-joshiki-e3201980",
+     "level": 3,
+     "prompt": "掛詞「すむ」",
+     "answer": "住む・澄む"
+    },
+    {
+     "id": "know-joshiki-927cd253",
+     "level": 3,
+     "prompt": "句切れとは",
+     "answer": "和歌の途中で意味・文法上切れる箇所",
+     "note": "終止形・命令形・係り結び・終助詞のあと"
+    },
+    {
+     "id": "know-joshiki-20e306c1",
+     "level": 3,
+     "prompt": "六歌仙",
+     "answer": "在原業平・僧正遍昭・喜撰法師・大友黒主・文屋康秀・小野小町",
+     "note": "『古今和歌集』仮名序"
+    },
+    {
+     "id": "know-joshiki-296f7a53",
+     "level": 3,
+     "prompt": "三夕の歌",
+     "answer": "『新古今和歌集』の「秋の夕暮れ」で結ぶ寂蓮・西行・藤原定家の三首"
+    },
+    {
+     "id": "know-joshiki-9e018e2b",
+     "level": 3,
+     "prompt": "八代集",
+     "answer": "古今・後撰・拾遺・後拾遺・金葉・詞花・千載・新古今",
+     "note": "「こごしゅうごきんしせんしん」"
+    },
+    {
+     "id": "know-joshiki-428dc684",
+     "level": 4,
+     "prompt": "歌枕",
+     "answer": "和歌に詠まれる名所",
+     "note": "例：吉野（桜）・竜田川（紅葉）・逢坂（関）"
+    },
+    {
+     "id": "know-joshiki-8a912220",
+     "level": 4,
+     "prompt": "「竜田川」に詠まれる景物",
+     "answer": "紅葉"
+    },
+    {
+     "id": "know-joshiki-a83f72ea",
+     "level": 4,
+     "prompt": "「吉野」に詠まれる景物",
+     "answer": "桜・雪"
+    },
+    {
+     "id": "know-joshiki-3ce886ce",
+     "level": 4,
+     "prompt": "物名（もののな）とは",
+     "answer": "物の名を歌の中に隠して詠み込む技法"
+    },
+    {
+     "id": "know-joshiki-53969d1a",
+     "level": 4,
+     "prompt": "折句とは",
+     "answer": "各句の頭に一音ずつ置いて言葉を詠み込む技法",
+     "note": "「かきつばた」（伊勢物語）"
+    },
+    {
+     "id": "know-joshiki-e3ea89c8",
+     "level": 4,
+     "prompt": "見立てとは",
+     "answer": "ある物を別の物になぞらえて表現する技法",
+     "note": "雪を花に見立てる"
+    },
+    {
+     "id": "know-joshiki-fa0c462d",
+     "level": 4,
+     "prompt": "擬人法",
+     "answer": "人でないものを人に見立てる技法"
+    },
+    {
+     "id": "know-joshiki-3582c59d",
+     "level": 5,
+     "prompt": "宮仕えの女房の呼び名",
+     "answer": "父・兄・夫の官職や国名による（清少納言・和泉式部など）"
+    },
+    {
+     "id": "know-joshiki-92b0ea0e",
+     "level": 5,
+     "prompt": "除目（ぢもく）",
+     "answer": "大臣以外の官を任命する儀式",
+     "note": "春の県召し・秋の司召し"
+    },
+    {
+     "id": "know-joshiki-bcf31883",
+     "level": 5,
+     "prompt": "受領（ずりやう）",
+     "answer": "実際に任国に赴いた国司の長官",
+     "note": "経済力がある中流貴族"
+    },
+    {
+     "id": "know-joshiki-d4c5e323",
+     "level": 5,
+     "prompt": "内侍所",
+     "answer": "三種の神器の神鏡を安置する所・温明殿"
+    },
+    {
+     "id": "know-joshiki-a5e0aa23",
+     "level": 5,
+     "prompt": "加持祈祷",
+     "answer": "病気や物の怪を退散させるための仏教的な祈り"
+    },
+    {
+     "id": "know-joshiki-757d3ed4",
+     "level": 5,
+     "prompt": "物の怪",
+     "answer": "人に取り憑いて病気・死をもたらす死霊・生霊",
+     "note": "六条御息所の生霊"
+    }
+   ],
+   "instruction": "次の問いに答えよ。",
+   "writing": "horizontal"
+  },
+  {
+   "id": "know-hyogen",
+   "title": "表現技法・言語の知識",
+   "kind": "choice",
+   "items": [
+    {
+     "id": "know-hyogen-3994a47b",
+     "level": 1,
+     "prompt": "「まるで雪のような肌」に使われている表現技法",
+     "answer": "直喩（明喩）",
+     "distractors": [
+      "隠喩",
+      "擬人法",
+      "倒置法"
+     ],
+     "note": "「ような」「ごとし」を用いる"
+    },
+    {
+     "id": "know-hyogen-6052acb4",
+     "level": 1,
+     "prompt": "「人生は旅だ」に使われている表現技法",
+     "answer": "隠喩（暗喩）",
+     "distractors": [
+      "直喩",
+      "換喩",
+      "擬人法"
+     ],
+     "note": "比喩を示す語を用いない"
+    },
+    {
+     "id": "know-hyogen-f326362d",
+     "level": 1,
+     "prompt": "「風がささやく」に使われている表現技法",
+     "answer": "擬人法",
+     "distractors": [
+      "直喩",
+      "体言止め",
+      "反復法"
+     ]
+    },
+    {
+     "id": "know-hyogen-efa53e62",
+     "level": 1,
+     "prompt": "「見たか、あの空を」に使われている表現技法",
+     "answer": "倒置法",
+     "distractors": [
+      "対句",
+      "反語",
+      "省略法"
+     ],
+     "note": "語順を入れ替えて強調"
+    },
+    {
+     "id": "know-hyogen-8bc22e15",
+     "level": 1,
+     "prompt": "「お召し上がりください」の敬語の種類",
+     "answer": "尊敬語",
+     "distractors": [
+      "謙譲語",
+      "丁寧語",
+      "美化語"
+     ],
+     "note": "「召し上がる」は「食べる」の尊敬語"
+    },
+    {
+     "id": "know-hyogen-efeda885",
+     "level": 1,
+     "prompt": "「拝見します」の敬語の種類",
+     "answer": "謙譲語",
+     "distractors": [
+      "尊敬語",
+      "丁寧語",
+      "美化語"
+     ],
+     "note": "自分の動作をへりくだる"
+    },
+    {
+     "id": "know-hyogen-0d2c092e",
+     "level": 1,
+     "prompt": "「先生が申された」の誤りの理由",
+     "answer": "謙譲語「申す」を目上の動作に用いている",
+     "distractors": [
+      "二重敬語である",
+      "丁寧語が不足している",
+      "尊敬語が過剰である"
+     ],
+     "note": "正しくは「おっしゃった」"
+    },
+    {
+     "id": "know-hyogen-ae3d45c5",
+     "level": 2,
+     "prompt": "「霞が関の判断」（＝日本の官庁の判断）の表現技法",
+     "answer": "換喩（メトニミー）",
+     "distractors": [
+      "提喩",
+      "隠喩",
+      "直喩"
+     ],
+     "note": "隣接・関連するもので置き換える"
+    },
+    {
+     "id": "know-hyogen-ea4be0c5",
+     "level": 2,
+     "prompt": "「花見」の「花」が桜を指す表現技法",
+     "answer": "提喩（シネクドキ）",
+     "distractors": [
+      "換喩",
+      "隠喩",
+      "擬人法"
+     ],
+     "note": "類と種の関係による置き換え"
+    },
+    {
+     "id": "know-hyogen-c6d063ca",
+     "level": 2,
+     "prompt": "「急がば回れ」に見られる表現の特徴",
+     "answer": "逆説（パラドックス）",
+     "distractors": [
+      "反語",
+      "皮肉",
+      "対句"
+     ],
+     "note": "一見矛盾するが真理を含む"
+    },
+    {
+     "id": "know-hyogen-a71d56dd",
+     "level": 2,
+     "prompt": "「どうして黙っていられようか」の表現",
+     "answer": "反語",
+     "distractors": [
+      "設問",
+      "倒置",
+      "詠嘆"
+     ],
+     "note": "疑問の形で強い否定・肯定を表す"
+    },
+    {
+     "id": "know-hyogen-fc616853",
+     "level": 2,
+     "prompt": "「おっしゃられる」が誤りとされる理由",
+     "answer": "尊敬語「おっしゃる」に尊敬の助動詞「れる」を重ねた二重敬語",
+     "distractors": [
+      "謙譲語を用いている",
+      "丁寧語がない",
+      "可能の意味になる"
+     ]
+    },
+    {
+     "id": "know-hyogen-3a682d45",
+     "level": 2,
+     "prompt": "論証で「AならばB。Bである。ゆえにA」の誤り",
+     "answer": "後件肯定の誤謬",
+     "distractors": [
+      "循環論法",
+      "藁人形論法",
+      "前件否定の誤謬"
+     ],
+     "note": "逆は必ずしも真ならず"
+    },
+    {
+     "id": "know-hyogen-ed4d76e3",
+     "level": 2,
+     "prompt": "「AならばB」の対偶",
+     "answer": "BでないならばAでない",
+     "distractors": [
+      "BならばA",
+      "AでないならばBでない",
+      "AならばBでない"
+     ],
+     "note": "対偶は元の命題と真偽が一致"
+    },
+    {
+     "id": "know-hyogen-8cd9407c",
+     "level": 3,
+     "prompt": "「しかし」「ところが」の接続関係",
+     "answer": "逆接",
+     "distractors": [
+      "順接",
+      "並立",
+      "転換"
+     ]
+    },
+    {
+     "id": "know-hyogen-7b8821ec",
+     "level": 3,
+     "prompt": "「つまり」「すなわち」の接続関係",
+     "answer": "換言（言い換え）",
+     "distractors": [
+      "例示",
+      "補足",
+      "逆接"
+     ]
+    },
+    {
+     "id": "know-hyogen-2940eb64",
+     "level": 3,
+     "prompt": "「なぜなら」の接続関係",
+     "answer": "理由の補足",
+     "distractors": [
+      "例示",
+      "結論",
+      "転換"
+     ]
+    },
+    {
+     "id": "know-hyogen-54f1c426",
+     "level": 3,
+     "prompt": "「ところで」「さて」の接続関係",
+     "answer": "転換",
+     "distractors": [
+      "補足",
+      "換言",
+      "逆接"
+     ]
+    },
+    {
+     "id": "know-hyogen-c1ac3bf3",
+     "level": 3,
+     "prompt": "「たしかに〜。しかし〜。」の論理構成",
+     "answer": "譲歩構文（一般論を認めたうえで筆者の主張を述べる）",
+     "distractors": [
+      "対比構文",
+      "具体例の列挙",
+      "因果関係"
+     ],
+     "note": "「しかし」以下が主張"
+    },
+    {
+     "id": "know-hyogen-f1d08486",
+     "level": 3,
+     "prompt": "相手の主張を歪めて単純化し、それを批判する論法",
+     "answer": "藁人形論法（ストローマン）",
+     "distractors": [
+      "人身攻撃",
+      "権威に訴える論証",
+      "滑り坂論法"
+     ]
+    },
+    {
+     "id": "know-hyogen-4fbb1cdd",
+     "level": 3,
+     "prompt": "結論を前提に含んで論証する誤り",
+     "answer": "循環論法（論点先取）",
+     "distractors": [
+      "早まった一般化",
+      "二分法",
+      "藁人形論法"
+     ]
+    },
+    {
+     "id": "know-hyogen-8e5dde7d",
+     "level": 3,
+     "prompt": "少数の事例から一般的な結論を急ぐ誤り",
+     "answer": "早まった一般化",
+     "distractors": [
+      "循環論法",
+      "後件肯定",
+      "人身攻撃"
+     ]
+    },
+    {
+     "id": "know-hyogen-727c9bf6",
+     "level": 4,
+     "prompt": "図表の読み取りで「相関関係」と「因果関係」の違い",
+     "answer": "相関は同時に変化する関係、因果は一方が他方の原因となる関係",
+     "distractors": [
+      "どちらも同じ意味",
+      "因果関係のほうが広い概念",
+      "相関関係は時間の前後を示す"
+     ],
+     "note": "相関があっても因果とは限らない（第三の要因）"
+    },
+    {
+     "id": "know-hyogen-a37f3e3e",
+     "level": 4,
+     "prompt": "「頭痛が痛い」の誤りの種類",
+     "answer": "重言（意味の重複）",
+     "distractors": [
+      "二重否定",
+      "文の主述のねじれ",
+      "ら抜き言葉"
+     ]
+    },
+    {
+     "id": "know-hyogen-5327bf9d",
+     "level": 4,
+     "prompt": "「私の夢は医者になりたい」の誤りの種類",
+     "answer": "主述のねじれ",
+     "distractors": [
+      "重言",
+      "係り受けの曖昧さ",
+      "敬語の誤用"
+     ],
+     "note": "「夢は〜になることだ」が正しい"
+    },
+    {
+     "id": "know-hyogen-03464c9c",
+     "level": 4,
+     "prompt": "「見れる」「来れる」",
+     "answer": "ら抜き言葉",
+     "distractors": [
+      "さ入れ言葉",
+      "れ足す言葉",
+      "二重敬語"
+     ],
+     "note": "正しくは「見られる」「来られる」"
+    },
+    {
+     "id": "know-hyogen-0eb48dce",
+     "level": 4,
+     "prompt": "「読まさせていただく」",
+     "answer": "さ入れ言葉",
+     "distractors": [
+      "ら抜き言葉",
+      "二重敬語",
+      "重言"
+     ],
+     "note": "正しくは「読ませていただく」"
+    },
+    {
+     "id": "know-hyogen-41e35dc0",
+     "level": 5,
+     "prompt": "「黒い目の大きな女の子」が多義的になる理由",
+     "answer": "修飾語の係り先が複数考えられる（係り受けの曖昧さ）",
+     "distractors": [
+      "主述のねじれ",
+      "重言",
+      "敬語の誤用"
+     ]
+    },
+    {
+     "id": "know-hyogen-59e67291",
+     "level": 5,
+     "prompt": "帰納的推論の特徴",
+     "answer": "結論は蓋然的で、新しい知識をもたらすが誤る可能性がある",
+     "distractors": [
+      "前提が真なら結論は必ず真",
+      "新たな知識を生まない",
+      "一般から個別を導く"
+     ]
+    },
+    {
+     "id": "know-hyogen-169cb8df",
+     "level": 5,
+     "prompt": "演繹的推論の特徴",
+     "answer": "前提が真なら結論は必ず真だが、前提以上の知識は生まない",
+     "distractors": [
+      "結論は蓋然的にすぎない",
+      "個別から一般を導く",
+      "経験的観察のみに基づく"
+     ]
+    }
+   ],
+   "description": "修辞・敬語・文の構造など「現代の国語」「論理国語」の基礎知識",
+   "instruction": "次の問いに答えよ。",
+   "writing": "horizontal"
+  }
+ ]
 }
